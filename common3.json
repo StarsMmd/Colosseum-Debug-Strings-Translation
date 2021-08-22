@@ -663,7 +663,7 @@
     },
     {
       "id" : 60162,
-      "text" : "ＳFX Volume Settings"
+      "text" : "SFX Volume Settings"
     },
     {
       "id" : 60163,
@@ -675,11 +675,11 @@
     },
     {
       "id" : 60165,
-      "text" : "ＳFX ＯＮ"
+      "text" : "SFX ＯＮ"
     },
     {
       "id" : 60166,
-      "text" : "ＳFX ＯＦＦ"
+      "text" : "SFX ＯＦＦ"
     },
     {
       "id" : 60167,
@@ -1355,11 +1355,11 @@
     },
     {
       "id" : 60337,
-      "text" : "３０ｆpｓ"
+      "text" : "30 fps"
     },
     {
       "id" : 60338,
-      "text" : "６０ｆpｓ"
+      "text" : "60 fps"
     },
     {
       "id" : 60339,
@@ -1851,7 +1851,7 @@
     },
     {
       "id" : 60464,
-      "text" : "Shadow ponent's damage total is the highest"
+      "text" : "Opponent's damage total is the highest"
     },
     {
       "id" : 60465,
@@ -1947,23 +1947,23 @@
     },
     {
       "id" : 60488,
-      "text" : "Spare １"
+      "text" : "Spare 1"
     },
     {
       "id" : 60489,
-      "text" : "Spare ２"
+      "text" : "Spare 2"
     },
     {
       "id" : 60490,
-      "text" : "Spare ３"
+      "text" : "Spare 3"
     },
     {
       "id" : 60491,
-      "text" : "Spare ４"
+      "text" : "Spare 4"
     },
     {
       "id" : 60492,
-      "text" : "Spare ５"
+      "text" : "Spare 5"
     },
     {
       "id" : 60493,
@@ -2099,7 +2099,7 @@
     },
     {
       "id" : 60526,
-      "text" : "Item Effect ９９% Flag"
+      "text" : "Item Effect 99% Flag"
     },
     {
       "id" : 60527,
@@ -2335,7 +2335,7 @@
     },
     {
       "id" : 60585,
-      "text" : "Shadow チリ－ン"
+      "text" : "Shadow Chingling"
     },
     {
       "id" : 60586,
@@ -2515,11 +2515,11 @@
     },
     {
       "id" : 60630,
-      "text" : "ＤＰ"
+      "text" : "Shadow"
     },
     {
       "id" : 60631,
-      "text" : "保存経験値"
+      "text" : "Save EXP"
     },
     {
       "id" : 60632,
@@ -2527,15 +2527,15 @@
     },
     {
       "id" : 60633,
-      "text" : "ダークポケモン"
+      "text" : "Shadow Pokémon"
     },
     {
       "id" : 60634,
-      "text" : "ダーク状態"
+      "text" : "Shadow condition"
     },
     {
       "id" : 60635,
-      "text" : "ハイパーモード"
+      "text" : "Hyper mode"
     },
     {
       "id" : 60636,
@@ -2623,7 +2623,7 @@
     },
     {
       "id" : 60657,
-      "text" : "通信対戦"
+      "text" : "Link Battle"
     },
     {
       "id" : 60658,
@@ -2667,79 +2667,79 @@
     },
     {
       "id" : 60668,
-      "text" : "戦闘トレーナー１"
+      "text" : "Battle Trainer１"
     },
     {
       "id" : 60669,
-      "text" : "戦闘トレーナー２"
+      "text" : "Battle Trainer２"
     },
     {
       "id" : 60670,
-      "text" : "戦闘トレーナー３"
+      "text" : "Battle Trainer３"
     },
     {
       "id" : 60671,
-      "text" : "戦闘トレーナー４"
+      "text" : "Battle Trainer４"
     },
     {
       "id" : 60672,
-      "text" : "ＧＣ主人公男"
+      "text" : "GC Male Protagonist"
     },
     {
       "id" : 60673,
-      "text" : "ＧＢＡ主人公男"
+      "text" : "GBA Male Protagonist"
     },
     {
       "id" : 60674,
-      "text" : "ＧＢＡ主人公女"
+      "text" : "GBA Female Protagonist"
     },
     {
       "id" : 60675,
-      "text" : "カードＥトレーナー"
+      "text" : "e-Reader Trainer"
     },
     {
       "id" : 60676,
-      "text" : "コントローラなし"
+      "text" : "No Controller"
     },
     {
       "id" : 60677,
-      "text" : "コントローラ１"
+      "text" : "Controller 1"
     },
     {
       "id" : 60678,
-      "text" : "コントローラ２"
+      "text" : "Controller 2"
     },
     {
       "id" : 60679,
-      "text" : "コントローラ３"
+      "text" : "Controller 3"
     },
     {
       "id" : 60680,
-      "text" : "コントローラ４"
+      "text" : "Controller 4"
     },
     {
       "id" : 60681,
-      "text" : "強化技"
+      "text" : "Strengthening Move"
     },
     {
       "id" : 60682,
-      "text" : "キー"
+      "text" : "Key"
     },
     {
       "id" : 60683,
-      "text" : "エース"
+      "text" : "Ace"
     },
     {
       "id" : 60684,
-      "text" : "ボス"
+      "text" : "Boss"
     },
     {
       "id" : 60685,
-      "text" : "追加ポケモン"
+      "text" : "Additional Pokémon"
     },
     {
       "id" : 60686,
-      "text" : "送信可能なメールをすべて送信"
+      "text" : "Sending all messages that can be sent"
     },
     {
       "id" : 60687,
@@ -2767,7 +2767,7 @@
     },
     {
       "id" : 60693,
-      "text" : "テスト　１対１　２ＯＮ２"
+      "text" : "Test　1-1　1 ON 2"
     },
     {
       "id" : 60694,
@@ -2847,99 +2847,99 @@
     },
     {
       "id" : 60713,
-      "text" : "ウィリー1"
+      "text" : "Willie 1"
     },
     {
       "id" : 60714,
-      "text" : "ウィリー2"
+      "text" : "Willie 2"
     },
     {
       "id" : 60715,
-      "text" : "ヘボイ1"
+      "text" : "Folly 1"
     },
     {
       "id" : 60716,
-      "text" : "ヘボイ2"
+      "text" : "Folly 2"
     },
     {
       "id" : 60717,
-      "text" : "ヘボイ3"
+      "text" : "Folly 3"
     },
     {
       "id" : 60718,
-      "text" : "トロイ1"
+      "text" : "Trudly 1"
     },
     {
       "id" : 60719,
-      "text" : "トロイ2"
+      "text" : "Trudly 2"
     },
     {
       "id" : 60720,
-      "text" : "トロイ3"
+      "text" : "Trudly 3"
     },
     {
-      "id" : 60721,
-      "text" : "ランドー"
+      "id": 60721,
+      "text": "Drig"
     },
     {
-      "id" : 60722,
-      "text" : "マイキー"
+      "id": 60722,
+      "text": "Kaib"
     },
     {
-      "id" : 60723,
-      "text" : "プランツ"
+      "id": 60723,
+      "text": "Botan"
     },
     {
-      "id" : 60724,
-      "text" : "マリン"
+      "id": 60724,
+      "text": "Liqui"
     },
     {
-      "id" : 60725,
-      "text" : "トラビス"
+      "id": 60725,
+      "text": "Dugo"
     },
     {
-      "id" : 60726,
-      "text" : "シンディ"
+      "id": 60726,
+      "text": "Gwin"
     },
     {
-      "id" : 60727,
-      "text" : "ヤッチーノ"
+      "id": 60727,
+      "text": "Wakin"
     },
     {
       "id" : 60728,
-      "text" : "ベルデ1"
+      "text" : "Verde 1"
     },
     {
       "id" : 60729,
-      "text" : "ベルデ2"
+      "text" : "Verde 2"
     },
     {
       "id" : 60730,
-      "text" : "ベルデ3"
+      "text" : "Verde 3"
     },
     {
       "id" : 60731,
-      "text" : "ロッソ1"
+      "text" : "Rosso 1"
     },
     {
       "id" : 60732,
-      "text" : "ロッソ2"
+      "text" : "Rosso 2"
     },
     {
       "id" : 60733,
-      "text" : "ロッソ3"
+      "text" : "Rosso 3"
     },
     {
       "id" : 60734,
-      "text" : "ブルーノ1"
+      "text" : "Bluno 1"
     },
     {
       "id" : 60735,
-      "text" : "ブルーノ2"
+      "text" : "Bluno 2"
     },
     {
       "id" : 60736,
-      "text" : "ブルーノ3"
+      "text" : "Bluno 3"
     },
     {
       "id" : 60737,
@@ -3247,11 +3247,11 @@
     },
     {
       "id" : 60813,
-      "text" : "３０５ハンター男１"
+      "text" : "３０5ハンター男１"
     },
     {
       "id" : 60814,
-      "text" : "３０５ハンター男２"
+      "text" : "３０5ハンター男２"
     },
     {
       "id" : 60815,
@@ -4735,15 +4735,15 @@
     },
     {
       "id" : 61185,
-      "text" : "パイラのいりぐち"
+      "text" : "Pyrite のいりぐち"
     },
     {
       "id" : 61186,
-      "text" : "パイラのビル"
+      "text" : "Pyrite のビル"
     },
     {
       "id" : 61187,
-      "text" : "パイラのどうくつ"
+      "text" : "Pyrite のどうくつ"
     },
     {
       "id" : 61188,
@@ -4763,11 +4763,11 @@
     },
     {
       "id" : 61192,
-      "text" : "アンダーテレビスタジオ"
+      "text" : "Under テレビスタジオ"
     },
     {
       "id" : 61193,
-      "text" : "アンダーちかてつ"
+      "text" : "Under ちかてつ"
     },
     {
       "id" : 61194,
@@ -4778,60 +4778,60 @@
       "text" : "けんきゅうじょ"
     },
     {
-      "id" : 61196,
-      "text" : "バトルやま外"
+      "id": 61196,
+      "text": "Outside Mt. Battle"
     },
     {
       "id" : 61197,
-      "text" : "バトルやま中"
+      "text" : "in Mt. Battle "
     },
     {
       "id" : 61198,
-      "text" : "バトルやま草"
+      "text" : "Mt. Battle grass"
     },
     {
       "id" : 61199,
-      "text" : "バトルやま"
+      "text" : "Mt. Battle"
     },
     {
       "id" : 61200,
-      "text" : "ラルガタワーのドーム"
+      "text" : "Realgem Towerのドーム"
     },
     {
       "id" : 61201,
-      "text" : "ラルガタワーのロビー"
+      "text" : "Realgem Towerのロビー"
     },
     {
       "id" : 61202,
-      "text" : "ラルガタワーの２かい１"
+      "text" : "Realgem Towerの２かい１"
     },
     {
       "id" : 61203,
-      "text" : "ラルガタワーの２かい２"
+      "text" : "Realgem Towerの２かい２"
     },
     {
       "id" : 61204,
-      "text" : "フェナススタジアム"
+      "text" : "Phenac Stadium"
     },
     {
       "id" : 61205,
-      "text" : "パイラコロシアム"
+      "text" : "Pyrite Colosseum"
     },
     {
       "id" : 61206,
-      "text" : "アンダーコロシアム"
+      "text" : "Under Colosseum"
     },
     {
       "id" : 61207,
-      "text" : "ボトムコロシアム"
+      "text" : "Deep Colosseum"
     },
     {
       "id" : 61208,
-      "text" : "バトルやまコロシアム"
+      "text" : "Mt. Battle Colosseum"
     },
     {
       "id" : 61209,
-      "text" : "ラルガタワーコロシアム"
+      "text" : "Realgem TowerColosseum"
     },
     {
       "id" : 61210,
@@ -4839,39 +4839,39 @@
     },
     {
       "id" : 61211,
-      "text" : "ツールバトルやま草"
+      "text" : "ツールMt. Battle 草"
     },
     {
       "id" : 61212,
-      "text" : "ツールバトルやまマグマ"
+      "text" : "ツールMt. Battle マグマ"
     },
     {
       "id" : 61213,
-      "text" : "ツールバトルやま雲"
+      "text" : "ツールMt. Battle 雲"
     },
     {
       "id" : 61214,
-      "text" : "ツール水コロシアム"
+      "text" : "ツール水Colosseum"
     },
     {
       "id" : 61215,
-      "text" : "ツール地球儀コロシアム"
+      "text" : "ツール地球儀Colosseum"
     },
     {
       "id" : 61216,
-      "text" : "ツール円柱コロシアム"
+      "text" : "ツール円柱Colosseum"
     },
     {
       "id" : 61217,
-      "text" : "ツール火口コロシアム"
+      "text" : "ツール火口Colosseum"
     },
     {
       "id" : 61218,
-      "text" : "ツールカジノコロシアム"
+      "text" : "ツールカジノColosseum"
     },
     {
       "id" : 61219,
-      "text" : "ツールオーレコロシアム"
+      "text" : "ツールOrre Colosseum"
     },
     {
       "id" : 61220,
@@ -4887,7 +4887,7 @@
     },
     {
       "id" : 61223,
-      "text" : "戦闘トレーナー台詞テスト"
+      "text" : "Battle Trainer台詞テスト"
     },
     {
       "id" : 61224,
@@ -5275,7 +5275,7 @@
     },
     {
       "id" : 61323,
-      "text" : "ブルーノ"
+      "text" : "Bluno"
     },
     {
       "id" : 61324,
@@ -5355,7 +5355,7 @@
     },
     {
       "id" : 61343,
-      "text" : "ヘボイ"
+      "text" : "Folly "
     },
     {
       "id" : 61346,
@@ -5387,7 +5387,7 @@
     },
     {
       "id" : 61353,
-      "text" : "ウィリー"
+      "text" : "Willie"
     },
     {
       "id" : 61354,
@@ -5451,7 +5451,7 @@
     },
     {
       "id" : 61374,
-      "text" : "バトル山マスター"
+      "text" : "Mt. Battle マスター"
     },
     {
       "id" : 61375,
@@ -5507,7 +5507,7 @@
     },
     {
       "id" : 61388,
-      "text" : "トロイ"
+      "text" : "Trudly "
     },
     {
       "id" : 61389,
@@ -6951,15 +6951,15 @@
     },
     {
       "id" : 61749,
-      "text" : "ロッソ4"
+      "text" : "Rosso 4"
     },
     {
       "id" : 61750,
-      "text" : "ベルデ4"
+      "text" : "Verde 4"
     },
     {
       "id" : 61751,
-      "text" : "ブルーノ4"
+      "text" : "Bluno 4"
     },
     {
       "id" : 61752,
@@ -8019,7 +8019,7 @@
     },
     {
       "id" : 62016,
-      "text" : "トロイ1b"
+      "text" : "Trudly 1b"
     },
     {
       "id" : 62017,
@@ -8139,7 +8139,7 @@
     },
     {
       "id" : 62046,
-      "text" : "ウィリー3"
+      "text" : "Willie 3"
     },
     {
       "id" : 62047,
@@ -8335,7 +8335,7 @@
     },
     {
       "id" : 62095,
-      "text" : "CastformＩ"
+      "text" : "Castform I"
     },
     {
       "id" : 62096,
@@ -8359,143 +8359,143 @@
     },
     {
       "id" : 62101,
-      "text" : "オーレコロシアム紹介"
+      "text" : "Orre Colosseum introduction"
     },
     {
       "id" : 62102,
-      "text" : "ボトムコロシアム紹介"
+      "text" : "Deep Colosseum introduction"
     },
     {
       "id" : 62103,
-      "text" : "ラルガタワーコロシアム紹介"
+      "text" : "Realgem TowerColosseum introduction"
     },
     {
       "id" : 62104,
-      "text" : "バトルやまコロシアム紹介"
+      "text" : "Mt. Battle Colosseum introduction"
     },
     {
       "id" : 62105,
-      "text" : "アンダーコロシアム紹介"
+      "text" : "Under Colosseum introduction"
     },
     {
       "id" : 62106,
-      "text" : "パイラコロシアム紹介"
+      "text" : "Pyrite Colosseum introduction"
     },
     {
       "id" : 62107,
-      "text" : "フェナススタジアム紹介"
+      "text" : "Phenac Stadium introduction"
     },
     {
       "id" : 62108,
-      "text" : "オーレコロシアム名前"
+      "text" : "Orre Colosseum name"
     },
     {
       "id" : 62109,
-      "text" : "ボトムコロシアム名前"
+      "text" : "Deep Colosseum name"
     },
     {
       "id" : 62110,
-      "text" : "ラルガタワーコロシアム名前"
+      "text" : "Realgem TowerColosseum name"
     },
     {
       "id" : 62111,
-      "text" : "バトルやまコロシアム名前"
+      "text" : "Mt. Battle Colosseum name"
     },
     {
       "id" : 62112,
-      "text" : "アンダーコロシアム名前"
+      "text" : "Under Colosseum name"
     },
     {
       "id" : 62113,
-      "text" : "パイラコロシアム名前"
+      "text" : "Pyrite Colosseum name"
     },
     {
       "id" : 62114,
-      "text" : "フェナススタジアム名前"
+      "text" : "Phenac Stadium name"
     },
     {
       "id" : 62115,
-      "text" : "トレーナー紹介A"
+      "text" : "Trainer introduction A"
     },
     {
       "id" : 62116,
-      "text" : "トレーナー紹介B"
+      "text" : "Trainer introduction B"
     },
     {
       "id" : 62117,
-      "text" : "トレーナー紹介C"
+      "text" : "Trainer introduction C"
     },
     {
       "id" : 62118,
-      "text" : "トレーナー紹介D"
+      "text" : "Trainer introduction D"
     },
     {
       "id" : 62119,
-      "text" : "トレーナー紹介E"
+      "text" : "Trainer introduction E"
     },
     {
       "id" : 62120,
-      "text" : "バトル１"
+      "text" : "Battle 1"
     },
     {
       "id" : 62121,
-      "text" : "バトル２"
+      "text" : "Battle 2"
     },
     {
       "id" : 62122,
-      "text" : "バトル３"
+      "text" : "Battle 3"
     },
     {
       "id" : 62123,
-      "text" : "バトル４"
+      "text" : "Battle 4"
     },
     {
       "id" : 62124,
-      "text" : "バトル５"
+      "text" : "Battle 5"
     },
     {
       "id" : 62125,
-      "text" : "バトル６"
+      "text" : "Battle 6"
     },
     {
       "id" : 62126,
-      "text" : "ファイナル"
+      "text" : "Final"
     },
     {
       "id" : 62127,
-      "text" : "セミファイナル"
+      "text" : "Semi-final"
     },
     {
       "id" : 62128,
-      "text" : "ノーエフェクト"
+      "text" : "No effect"
     },
     {
       "id" : 62129,
-      "text" : "スナッチリストテスト"
+      "text" : "Snagging List Test"
     },
     {
       "id" : 62130,
-      "text" : "スナッチリストにダークポケモン追加"
+      "text" : "Add Shadow Pokémon to Snagging List"
     },
     {
       "id" : 62131,
-      "text" : "スナッチ済みにする"
+      "text" : "Finish Snagging"
     },
     {
       "id" : 62132,
-      "text" : "リライブ済みにする"
+      "text" : "Finish Purification"
     },
     {
       "id" : 62133,
-      "text" : "ベルデ5"
+      "text" : "Verde 5"
     },
     {
       "id" : 62134,
-      "text" : "ロッソ5"
+      "text" : "Rosso 5"
     },
     {
       "id" : 62135,
-      "text" : "ブルーノ5"
+      "text" : "Bluno 5"
     },
     {
       "id" : 62136,
@@ -8627,127 +8627,127 @@
     },
     {
       "id" : 62168,
-      "text" : "Scenario １０"
+      "text" : "Scenario 1０"
     },
     {
       "id" : 62169,
-      "text" : "Scenario １１"
+      "text" : "Scenario 11"
     },
     {
       "id" : 62170,
-      "text" : "Scenario １２"
+      "text" : "Scenario 12"
     },
     {
       "id" : 62171,
-      "text" : "Scenario １３"
+      "text" : "Scenario 13"
     },
     {
       "id" : 62172,
-      "text" : "Scenario １４"
+      "text" : "Scenario 14"
     },
     {
       "id" : 62173,
-      "text" : "Scenario １５"
+      "text" : "Scenario 15"
     },
     {
       "id" : 62174,
-      "text" : "Scenario １６"
+      "text" : "Scenario 16"
     },
     {
       "id" : 62175,
-      "text" : "Scenario １７"
+      "text" : "Scenario 17"
     },
     {
       "id" : 62176,
-      "text" : "Scenario １８"
+      "text" : "Scenario 18"
     },
     {
       "id" : 62177,
-      "text" : "Scenario １９"
+      "text" : "Scenario 19"
     },
     {
       "id" : 62178,
-      "text" : "Scenario ２０"
+      "text" : "Scenario 20"
     },
     {
       "id" : 62179,
-      "text" : "8-people Double １"
+      "text" : "8-people Double 1"
     },
     {
       "id" : 62180,
-      "text" : "8-people Double ２"
+      "text" : "8-people Double 2"
     },
     {
       "id" : 62181,
-      "text" : "8-people Double ３"
+      "text" : "8-people Double 3"
     },
     {
       "id" : 62182,
-      "text" : "8-people Double ４"
+      "text" : "8-people Double 4"
     },
     {
       "id" : 62183,
-      "text" : "8-people Double ５"
+      "text" : "8-people Double 5"
     },
     {
       "id" : 62184,
-      "text" : "8-people Double ６"
+      "text" : "8-people Double 6"
     },
     {
       "id" : 62185,
-      "text" : "8-people Double ７"
+      "text" : "8-people Double 7"
     },
     {
       "id" : 62186,
-      "text" : "8-people Double ８"
+      "text" : "8-people Double 8"
     },
     {
       "id" : 62187,
-      "text" : "8-people Double ９"
+      "text" : "8-people Double 9"
     },
     {
       "id" : 62188,
-      "text" : "8-people Double １０"
+      "text" : "8-people Double 10"
     },
     {
       "id" : 62189,
-      "text" : "8-people Double １１"
+      "text" : "8-people Double 11"
     },
     {
       "id" : 62190,
-      "text" : "8-people Double １２"
+      "text" : "8-people Double 12"
     },
     {
       "id" : 62191,
-      "text" : "8-people Double １３"
+      "text" : "8-people Double 13"
     },
     {
       "id" : 62192,
-      "text" : "8-people Double １４"
+      "text" : "8-people Double 14"
     },
     {
       "id" : 62193,
-      "text" : "8-people Double １５"
+      "text" : "8-people Double 15"
     },
     {
       "id" : 62194,
-      "text" : "8-people Double １６"
+      "text" : "8-people Double 16"
     },
     {
       "id" : 62195,
-      "text" : "8-people Double １７"
+      "text" : "8-people Double 17"
     },
     {
       "id" : 62196,
-      "text" : "8-people Double １８"
+      "text" : "8-people Double 18"
     },
     {
       "id" : 62197,
-      "text" : "8-people Double １９"
+      "text" : "8-people Double 19"
     },
     {
       "id" : 62198,
-      "text" : "8-people Double ２０"
+      "text" : "8-people Double 20"
     },
     {
       "id" : 62199,
@@ -8759,27 +8759,27 @@
     },
     {
       "id" : 62201,
-      "text" : "8-people Single Ｓ４　Baton Pass用Ninjask"
+      "text" : "8-people Single S4　Baton Pass用Ninjask"
     },
     {
       "id" : 62202,
-      "text" : "8-people Single Ｓ４　Baton Pass用Gorebyss"
+      "text" : "8-people Single S4　Baton Pass用Gorebyss"
     },
     {
       "id" : 62203,
-      "text" : "8-people Double Ｕ５　Attacker"
+      "text" : "8-people Double U5　Attacker"
     },
     {
       "id" : 62204,
-      "text" : "8-people Double Ｕ５　Help Hariyama"
+      "text" : "8-people Double U5　Help Hariyama"
     },
     {
       "id" : 62205,
-      "text" : "8-people Double Ｕ５　Strengthen & Battle Gyarados"
+      "text" : "8-people Double U5　Strengthen & Battle Gyarados"
     },
     {
       "id" : 62206,
-      "text" : "8-people Double Ｕ５　Rain Dance ＆ Battle Kingdra"
+      "text" : "8-people Double U5　Rain Dance ＆ Battle Kingdra"
     },
     {
       "id" : 62207,
@@ -8795,7 +8795,7 @@
     },
     {
       "id" : 62210,
-      "text" : "ツールバトル登録トレーナー"
+      "text" : "ツールBattle登録トレーナー"
     },
     {
       "id" : 62211,
@@ -8803,7 +8803,7 @@
     },
     {
       "id" : 62212,
-      "text" : "バトル山のプレゼントルーム"
+      "text" : "Battle山のプレゼントルーム"
     },
     {
       "id" : 62213,
@@ -8819,11 +8819,11 @@
     },
     {
       "id" : 62216,
-      "text" : "8-people Single S１　Umbreon"
+      "text" : "8-people Single S1　Umbreon"
     },
     {
       "id" : 62217,
-      "text" : "8-people Single S１　Jumpluff"
+      "text" : "8-people Single S1　Jumpluff"
     },
     {
       "id" : 62218,
@@ -8831,15 +8831,15 @@
     },
     {
       "id" : 62219,
-      "text" : "8-people Single A２　Single Strike"
+      "text" : "8-people Single A2　Single Strike"
     },
     {
       "id" : 62220,
-      "text" : "8-people Single S１　Meganium"
+      "text" : "8-people Single S1　Meganium"
     },
     {
       "id" : 62221,
-      "text" : "8-people Single S１　Milotic"
+      "text" : "8-people Single S1　Milotic"
     },
     {
       "id" : 62222,
@@ -8855,7 +8855,7 @@
     },
     {
       "id" : 62225,
-      "text" : "GSmemのメモリ オプティマイズ"
+      "text" : "Optimise GSmem Memory"
     },
     {
       "id" : 62226,
