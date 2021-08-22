@@ -787,15 +787,15 @@
     },
     {
       "id" : 60193,
-      "text" : "アンダー"
+      "text" : "The Under"
     },
     {
       "id" : 60194,
-      "text" : "エクロ峡谷"
+      "text" : "Eclo Canyon"
     },
     {
       "id" : 60195,
-      "text" : "もちものメニュー"
+      "text" : "My Items Menu"
     },
     {
       "id" : 60196,
@@ -819,7 +819,7 @@
     },
     {
       "id" : 60202,
-      "text" : "戦場側選択"
+      "text" : "Choose a side"
     },
     {
       "id" : 60203,
@@ -839,31 +839,31 @@
     },
     {
       "id" : 60207,
-      "text" : "戦闘トレーナー選択"
+      "text" : "Battle Trainer Choice"
     },
     {
       "id" : 60208,
-      "text" : "戦闘ポケモン選択"
+      "text" : "Battle Pokémon Choice"
     },
     {
       "id" : 60210,
-      "text" : "ポケモンＩＤ"
+      "text" : "Pokémon ID"
     },
     {
       "id" : 60211,
-      "text" : "レベル"
+      "text" : "Level"
     },
     {
       "id" : 60212,
-      "text" : "持ち技"
+      "text" : "Held Move"
     },
     {
       "id" : 60213,
-      "text" : "装備品"
+      "text" : "Equipment"
     },
     {
       "id" : 60214,
-      "text" : "特性"
+      "text" : "Ability"
     },
     {
       "id" : 60215,
@@ -879,31 +879,31 @@
     },
     {
       "id" : 60218,
-      "text" : "最初から"
+      "text" : "From Start"
     },
     {
       "id" : 60219,
-      "text" : "続きから"
+      "text" : "Continue"
     },
     {
       "id" : 60220,
-      "text" : "バトルをする"
+      "text" : "Battle"
     },
     {
       "id" : 60221,
-      "text" : "おためしバトル"
+      "text" : "Trial Battle"
     },
     {
       "id" : 60222,
-      "text" : "設定"
+      "text" : "Settings"
     },
     {
       "id" : 60223,
-      "text" : "基本値"
+      "text" : "Base Value"
     },
     {
       "id" : 60224,
-      "text" : "努力値"
+      "text" : "Effort Value"
     },
     {
       "id" : 60225,
@@ -911,35 +911,35 @@
     },
     {
       "id" : 60226,
-      "text" : "カウント値"
+      "text" : "Count"
     },
     {
       "id" : 60227,
-      "text" : "物理攻撃"
+      "text" : "Physical ATK"
     },
     {
       "id" : 60228,
-      "text" : "物理防御"
+      "text" : "Physical DEF"
     },
     {
       "id" : 60229,
-      "text" : "素早さ"
+      "text" : "Speed"
     },
     {
       "id" : 60230,
-      "text" : "特殊攻撃"
+      "text" : "Special ATK"
     },
     {
       "id" : 60231,
-      "text" : "特殊防御"
+      "text" : "Special DEF"
     },
     {
       "id" : 60232,
-      "text" : "最大ＨＰ"
+      "text" : "Max HP"
     },
     {
       "id" : 60233,
-      "text" : "ＨＰ"
+      "text" : "HP"
     },
     {
       "id" : 60234,
@@ -975,11 +975,11 @@
     },
     {
       "id" : 60242,
-      "text" : "経験値"
+      "text" : "EXP"
     },
     {
       "id" : 60243,
-      "text" : "ポケルス"
+      "text" : "Pokérus"
     },
     {
       "id" : 60244,
@@ -987,11 +987,11 @@
     },
     {
       "id" : 60245,
-      "text" : "状態"
+      "text" : "Condition"
     },
     {
       "id" : 60246,
-      "text" : "レア"
+      "text" : "Rare"
     },
     {
       "id" : 60247,
@@ -1155,15 +1155,15 @@
     },
     {
       "id" : 60287,
-      "text" : "ショップＳ１（初期）"
+      "text" : "Shop S1（Initial）"
     },
     {
       "id" : 60288,
-      "text" : "ショップＳ２（２段階目）"
+      "text" : "Shop S2（Stage 2）"
     },
     {
       "id" : 60289,
-      "text" : "ショップＳ３（３段階目）"
+      "text" : "Shop S3（Stage 3）"
     },
     {
       "id" : 60290,
@@ -1175,67 +1175,67 @@
     },
     {
       "id" : 60292,
-      "text" : "ショップＭ１＿１Ｆ"
+      "text" : "Shop M1_1F"
     },
     {
-      "id" : 60293,
-      "text" : "ショップＭ１＿２Ｆ"
+      "id": 60293,
+      "text": "Shop M1_2F"
     },
     {
       "id" : 60294,
-      "text" : "ショップＭ２"
+      "text" : "Shop M2"
     },
     {
       "id" : 60295,
-      "text" : "ショップＭ３"
+      "text" : "Shop M3"
     },
     {
-      "id" : 60296,
-      "text" : "ショップＭ４"
+      "id": 60296,
+      "text": "Shop M4"
     },
     {
       "id" : 60297,
-      "text" : "漢方屋"
+      "text" : "Medicine Shop"
     },
     {
       "id" : 60298,
-      "text" : "ショップ？１"
+      "text" : "Shop?1"
     },
     {
       "id" : 60299,
-      "text" : "ショップ？２"
+      "text" : "Shop?2"
     },
     {
       "id" : 60300,
-      "text" : "クーポン交換所ＧＣ"
+      "text" : "Coupon Exchange GC"
     },
     {
       "id" : 60301,
-      "text" : "クーポン交換所ＡＧＢ"
+      "text" : "Coupon Exchange AGB"
     },
     {
       "id" : 60302,
-      "text" : "シナリオ　１対１　１ＯＮ１"
+      "text" : "Scenario　1-1　1 ON 1"
     },
     {
       "id" : 60303,
-      "text" : "シナリオ　１対１　２ＯＮ２"
+      "text" : "Scenario　1-1　2 ON 2"
     },
     {
       "id" : 60304,
-      "text" : "シナリオ　２対２　１ＯＮ１"
+      "text" : "Scenario　2-2　1 ON 1"
     },
     {
       "id" : 60305,
-      "text" : "ツール　１対１　１ＯＮ１"
+      "text" : "Tour　1-1　1 ON 1"
     },
     {
       "id" : 60306,
-      "text" : "ツール　１対１　２ＯＮ２"
+      "text" : "Tour　1-1　2 ON 2"
     },
     {
       "id" : 60307,
-      "text" : "ツール　２対２　１ＯＮ１"
+      "text" : "Tour　2-2　1 ON 1"
     },
     {
       "id" : 60308,
@@ -1243,7 +1243,7 @@
     },
     {
       "id" : 60309,
-      "text" : "２nd Enemy"
+      "text" : "2nd Enemy"
     },
     {
       "id" : 60310,
@@ -1259,7 +1259,7 @@
     },
     {
       "id" : 60313,
-      "text" : "全トレーナー操作フラグ"
+      "text" : "All Trainers Operation Flag"
     },
     {
       "id" : 60314,
@@ -1323,7 +1323,7 @@
     },
     {
       "id" : 60329,
-      "text" : "Ｍ４起動ディスク下入手後"
+      "text" : "M4 Startup Disk下入手後"
     },
     {
       "id" : 60330,
@@ -1331,11 +1331,11 @@
     },
     {
       "id" : 60331,
-      "text" : "フィールドから"
+      "text" : "From Field"
     },
     {
       "id" : 60332,
-      "text" : "戦闘から"
+      "text" : "From Battle"
     },
     {
       "id" : 60333,
@@ -1347,7 +1347,7 @@
     },
     {
       "id" : 60335,
-      "text" : "メール送信"
+      "text" : "Send Mail"
     },
     {
       "id" : 60336,
@@ -1407,15 +1407,15 @@
     },
     {
       "id" : 60350,
-      "text" : "一時中止 \/ Pause"
+      "text" : "Pause once \/ Pause"
     },
     {
       "id" : 60351,
-      "text" : "一時起動 \/ Single Step"
+      "text" : "Start once \/ Single Step"
     },
     {
       "id" : 60352,
-      "text" : "スロー起動 \/ Slow Play"
+      "text" : "Slow Start \/ Slow Play"
     },
     {
       "id" : 60353,
@@ -1439,11 +1439,11 @@
     },
     {
       "id" : 60358,
-      "text" : "Ｚボタンで録画　ON\/OFF（ＢＢＡ）"
+      "text" : "Record with Z button 　ON\/OFF（ＢＢＡ）"
     },
     {
-      "id" : 60359,
-      "text" : "Ｚボタンで録画　ON\/OFF（ＳＤカード）"
+      "id": 60359,
+      "text": "Record with Z button　ON\/OFF（SD Card）"
     },
     {
       "id" : 60360,
@@ -1483,11 +1483,11 @@
     },
     {
       "id" : 60369,
-      "text" : "バトルデモ"
+      "text" : "Battle Demo"
     },
     {
       "id" : 60370,
-      "text" : "オートデモ"
+      "text" : "Auto Mode"
     },
     {
       "id" : 60371,
@@ -1507,55 +1507,55 @@
     },
     {
       "id" : 60375,
-      "text" : "ポケモン交換メニュー"
+      "text" : "Pokémon Exchange Menu"
     },
     {
       "id" : 60376,
-      "text" : "コロシアムバトル接続メニュー"
+      "text" : "Colosseum Battle Link Menu"
     },
     {
       "id" : 60377,
-      "text" : "クーポン交換所ストーリー"
+      "text" : "Coupon Exchange Area Storey"
     },
     {
       "id" : 60378,
-      "text" : "広報素材１　１対１　２ＯＮ２"
+      "text" : "広報素材１　1-1　２ＯＮ２"
     },
     {
       "id" : 60379,
-      "text" : "広報素材２　１対１　２ＯＮ２"
+      "text" : "広報素材２　１-１　２ＯＮ２"
     },
     {
       "id" : 60380,
-      "text" : "(S2)エクロ渓谷"
+      "text" : "(S2)Eclo Canyon"
     },
     {
       "id" : 60381,
-      "text" : "(S2) エクロ渓谷"
+      "text" : "(S2) Eclo Canyon"
     },
     {
       "id" : 60382,
-      "text" : "デバッグセーブ（メモリカード）"
+      "text" : "Debug Save（Memory Card）"
     },
     {
       "id" : 60383,
-      "text" : "デバッグセーブ（ＳＤカード）"
+      "text" : "Debug Save（SD Card）"
     },
     {
-      "id" : 60384,
-      "text" : "デバッグセーブ（BBA)"
+      "id": 60384,
+      "text": "Debug Save（BBA)"
     },
     {
       "id" : 60385,
-      "text" : "デバッグロード(メモリカード）"
+      "text" : "Debug Load (Memory Card）"
     },
     {
-      "id" : 60386,
-      "text" : "デバッグロード(SDカード)"
+      "id": 60386,
+      "text": "Debug Load (SD Card)"
     },
     {
-      "id" : 60387,
-      "text" : "デバッグロード(BBA)"
+      "id": 60387,
+      "text": "Debug Load(BBA)"
     },
     {
       "id" : 60388,
@@ -1851,7 +1851,7 @@
     },
     {
       "id" : 60464,
-      "text" : "Dpponent's damage total is the highest"
+      "text" : "Shadow ponent's damage total is the highest"
     },
     {
       "id" : 60465,
@@ -2115,15 +2115,15 @@
     },
     {
       "id" : 60530,
-      "text" : "カードＥのセーブデータを初期化する"
+      "text" : "Initialize e-Reader Save Data"
     },
     {
-      "id" : 60531,
-      "text" : "カードＥプログラムをカードＥリーダー＋へ転送する"
+      "id": 60531,
+      "text": "Transfer e-Reader program to e-Reader+"
     },
     {
       "id" : 60532,
-      "text" : "Ａメモリ情報のON\/OFF"
+      "text" : "Memory A information's 'ON\/OFF"
     },
     {
       "id" : 60533,
@@ -2151,367 +2151,367 @@
     },
     {
       "id" : 60539,
-      "text" : "DPヨルノズク"
+      "text" : "Shadow Noctowl"
     },
     {
-      "id" : 60540,
-      "text" : "DPモココ"
+      "id": 60540,
+      "text": "Shadow Flaafy"
     },
     {
-      "id" : 60541,
-      "text" : "DPポポッコ"
+      "id": 60541,
+      "text": "Shadow Skiploom"
     },
     {
-      "id" : 60542,
-      "text" : "DPヌオー"
+      "id": 60542,
+      "text": "Shadow Quagsire"
     },
     {
-      "id" : 60543,
-      "text" : "DPムウマ"
+      "id": 60543,
+      "text": "Shadow Misdreavus"
     },
     {
-      "id" : 60544,
-      "text" : "DPバネブー"
+      "id": 60544,
+      "text": "Shadow Spoink"
     },
     {
-      "id" : 60545,
-      "text" : "DPオオタチ"
+      "id": 60545,
+      "text": "Shadow Furret"
     },
     {
-      "id" : 60546,
-      "text" : "DPマグマッグ"
+      "id": 60546,
+      "text": "Shadow Slugma"
     },
     {
-      "id" : 60547,
-      "text" : "DPテッポウオ"
+      "id": 60547,
+      "text": "Shadow Remoraid"
     },
     {
-      "id" : 60548,
-      "text" : "DPマンタイン"
+      "id": 60548,
+      "text": "Shadow Mantine"
     },
     {
-      "id" : 60549,
-      "text" : "DPコダック"
+      "id": 60549,
+      "text": "Shadow Psyduck"
     },
     {
-      "id" : 60550,
-      "text" : "DPアサナン"
+      "id": 60550,
+      "text": "Shadow Meditite"
     },
     {
-      "id" : 60551,
-      "text" : "DPヤジロン"
+      "id": 60551,
+      "text": "Shadow Baltoy"
     },
     {
-      "id" : 60552,
-      "text" : "DPチルット"
+      "id": 60552,
+      "text": "Shadow Swablu"
     },
     {
-      "id" : 60553,
-      "text" : "DPウソッキー"
+      "id": 60553,
+      "text": "Shadow Sudowoodo"
     },
     {
-      "id" : 60554,
-      "text" : "DPグラエナ"
+      "id": 60554,
+      "text": "Shadow Mightyena"
     },
     {
-      "id" : 60555,
-      "text" : "DPエンテイ"
+      "id": 60555,
+      "text": "Shadow Entei"
     },
     {
-      "id" : 60556,
-      "text" : "DPレディアン"
+      "id": 60556,
+      "text": "Shadow Ledian"
     },
     {
-      "id" : 60557,
-      "text" : "DPスイクン"
+      "id": 60557,
+      "text": "Shadow Suicune"
     },
     {
-      "id" : 60558,
-      "text" : "DPグライガー"
+      "id": 60558,
+      "text": "Shadow Gligar"
     },
     {
-      "id" : 60559,
-      "text" : "DPオドシシ"
+      "id": 60559,
+      "text": "Shadow Stantler"
     },
     {
-      "id" : 60560,
-      "text" : "DPイノムー"
+      "id": 60560,
+      "text": "Shadow Piloswine"
     },
     {
-      "id" : 60561,
-      "text" : "DPニューラ"
+      "id": 60561,
+      "text": "Shadow Sneasel"
     },
     {
-      "id" : 60562,
-      "text" : "DPポワルン"
+      "id": 60562,
+      "text": "Shadow Castform"
     },
     {
-      "id" : 60563,
-      "text" : "DPヤミカラス"
+      "id": 60563,
+      "text": "Shadow Murkrow"
     },
     {
       "id" : 60564,
-      "text" : "DPフォレトス"
+      "text" : "Shadow Forretress"
     },
     {
       "id" : 60565,
-      "text" : "DPグランブル"
+      "text" : "Shadow Granbull"
     },
     {
       "id" : 60566,
-      "text" : "DPポリゴン２"
+      "text" : "Shadow Polygon2"
     },
     {
       "id" : 60567,
-      "text" : "DPアリアドス"
+      "text" : "Shadow Ariados"
     },
     {
       "id" : 60568,
-      "text" : "DPライコウ"
+      "text" : "Shadow Raikou"
     },
     {
       "id" : 60569,
-      "text" : "DPキノガッサ"
+      "text" : "Shadow Breloom"
     },
     {
       "id" : 60570,
-      "text" : "DPデリバード"
+      "text" : "Shadow Delibird"
     },
     {
       "id" : 60571,
-      "text" : "DPヘラクロス"
+      "text" : "Shadow Heracross"
     },
     {
       "id" : 60572,
-      "text" : "DPエアームド"
+      "text" : "Shadow Skarmory"
     },
     {
       "id" : 60573,
-      "text" : "DPミルタンク"
+      "text" : "Shadow Miltank"
     },
     {
       "id" : 60574,
-      "text" : "DPルナトーン"
+      "text" : "Shadow Lunatone"
     },
     {
       "id" : 60575,
-      "text" : "DPソルロック"
+      "text" : "Shadow Solrock"
     },
     {
       "id" : 60576,
-      "text" : "DPトロピウス"
+      "text" : "Shadow Tropius"
     },
     {
       "id" : 60577,
-      "text" : "DPメタグロス"
+      "text" : "Shadow Metagross"
     },
     {
       "id" : 60578,
-      "text" : "DPバンギラス"
+      "text" : "Shadow Tyranitar"
     },
     {
       "id" : 60579,
-      "text" : "DPハリーセン"
+      "text" : "Shadow Qwilfish"
     },
     {
       "id" : 60580,
-      "text" : "DPノコッチ"
+      "text" : "Shadow Dunsparce"
     },
     {
       "id" : 60581,
-      "text" : "DPヘルガー"
+      "text" : "Shadow Houndoom"
     },
     {
       "id" : 60582,
-      "text" : "DPロゼリア"
+      "text" : "Shadow Roselia"
     },
     {
       "id" : 60583,
-      "text" : "DPヤンヤンマ"
+      "text" : "Shadow Yanma"
     },
     {
       "id" : 60584,
-      "text" : "DPエイパム"
+      "text" : "Shadow Aipom"
     },
     {
       "id" : 60585,
-      "text" : "DPチリ－ン"
+      "text" : "Shadow チリ－ン"
     },
     {
       "id" : 60586,
-      "text" : "DPマイナン"
+      "text" : "Shadow Minun"
     },
     {
       "id" : 60587,
-      "text" : "DPキマワリ"
+      "text" : "Shadow Sunflora"
     },
     {
       "id" : 60588,
-      "text" : "DPビブラーバ"
+      "text" : "Shadow Vibrava"
     },
     {
       "id" : 60589,
-      "text" : "DPマルマイン"
+      "text" : "Shadow Electrode"
     },
     {
       "id" : 60590,
-      "text" : "DPユキワラシ"
+      "text" : "Shadow Snorunt"
     },
     {
       "id" : 60591,
-      "text" : "DPShuckle"
+      "text" : "Shadow Shuckle"
     },
     {
       "id" : 60592,
-      "text" : "DPヒメグマ"
+      "text" : "Shadow Teddiursa"
     },
     {
       "id" : 60593,
-      "text" : "DPカポエラー"
+      "text" : "Shadow Hitmontop"
     },
     {
       "id" : 60594,
-      "text" : "DPドーブル"
+      "text" : "Shadow Smeargle"
     },
     {
       "id" : 60595,
-      "text" : "DPトゲチック"
+      "text" : "Shadow Togetic"
     },
     {
       "id" : 60596,
-      "text" : "DPヘイガニ"
+      "text" : "Shadow Corphish"
     },
     {
       "id" : 60597,
-      "text" : "DPタマザラシ"
+      "text" : "Shadow Spheal"
     },
     {
       "id" : 60598,
-      "text" : "DPサンドパン"
+      "text" : "Shadow Sandslash"
     },
     {
       "id" : 60599,
-      "text" : "DPコイキング"
+      "text" : "Shadow Magikarp"
     },
     {
       "id" : 60600,
-      "text" : "DPカクレオン"
+      "text" : "Shadow Kecloen"
     },
     {
       "id" : 60601,
-      "text" : "DPエクストラ1"
+      "text" : "Shadow Extra 1"
     },
     {
       "id" : 60602,
-      "text" : "DPエクストラ2"
+      "text" : "Shadow Extra 2"
     },
     {
       "id" : 60603,
-      "text" : "DPエクストラ3"
+      "text" : "Shadow Extra 3"
     },
     {
       "id" : 60604,
-      "text" : "DPエクストラ4"
+      "text" : "Shadow Extra 4"
     },
     {
       "id" : 60605,
-      "text" : "DPエクストラ5"
+      "text" : "Shadow Extra 5"
     },
     {
       "id" : 60606,
-      "text" : "DPエクストラ6"
+      "text" : "Shadow Extra 6"
     },
     {
       "id" : 60607,
-      "text" : "DPエクストラ7"
+      "text" : "Shadow Extra 7"
     },
     {
       "id" : 60608,
-      "text" : "DPエクストラ8"
+      "text" : "Shadow Extra 8"
     },
     {
       "id" : 60609,
-      "text" : "DPエクストラ9"
+      "text" : "Shadow Extra 9"
     },
     {
       "id" : 60610,
-      "text" : "DPエクストラ10"
+      "text" : "Shadow Extra 10"
     },
     {
       "id" : 60611,
-      "text" : "DPエクストラ11"
+      "text" : "Shadow Extra 11"
     },
     {
       "id" : 60612,
-      "text" : "DPエクストラ12"
+      "text" : "Shadow Extra 12"
     },
     {
       "id" : 60613,
-      "text" : "DPエクストラ13"
+      "text" : "Shadow Extra 13"
     },
     {
       "id" : 60614,
-      "text" : "DPエクストラ14"
+      "text" : "Shadow Extra 14"
     },
     {
       "id" : 60615,
-      "text" : "DPエクストラ15"
+      "text" : "Shadow Extra 15"
     },
     {
       "id" : 60616,
-      "text" : "DPエクストラ16"
+      "text" : "Shadow Extra 16"
     },
     {
       "id" : 60617,
-      "text" : "DPエクストラ17"
+      "text" : "Shadow Extra 17"
     },
     {
       "id" : 60618,
-      "text" : "DPエクストラ18"
+      "text" : "Shadow Extra 18"
     },
     {
       "id" : 60619,
-      "text" : "DPエクストラ19"
+      "text" : "Shadow Extra 19"
     },
     {
       "id" : 60620,
-      "text" : "DPエクストラ20"
+      "text" : "Shadow Extra 20"
     },
     {
       "id" : 60621,
-      "text" : "DPエクストラ21"
+      "text" : "Shadow Extra 21"
     },
     {
       "id" : 60622,
-      "text" : "DPエクストラ22"
+      "text" : "Shadow Extra 22"
     },
     {
       "id" : 60623,
-      "text" : "DPエクストラ23"
+      "text" : "Shadow Extra 23"
     },
     {
       "id" : 60624,
-      "text" : "DPエクストラ24"
+      "text" : "Shadow Extra 24"
     },
     {
       "id" : 60625,
-      "text" : "DPエクストラ25"
+      "text" : "Shadow Extra 25"
     },
     {
       "id" : 60626,
-      "text" : "DPエクストラ26"
+      "text" : "Shadow Extra 26"
     },
     {
       "id" : 60627,
-      "text" : "DPエクストラ27"
+      "text" : "Shadow Extra 27"
     },
     {
       "id" : 60628,
-      "text" : "DPエクストラ28"
+      "text" : "Shadow Extra 28"
     },
     {
       "id" : 60629,
-      "text" : "DPエクストラ29"
+      "text" : "Shadow Extra 29"
     },
     {
       "id" : 60630,
@@ -2559,11 +2559,11 @@
     },
     {
       "id" : 60641,
-      "text" : "DPナマズン"
+      "text" : "Shadow Whiscash"
     },
     {
       "id" : 60642,
-      "text" : "DPネイティオ"
+      "text" : "Shadow Xatu"
     },
     {
       "id" : 60643,
@@ -2571,35 +2571,35 @@
     },
     {
       "id" : 60644,
-      "text" : "DPホエルコ"
+      "text" : "Shadow Wailmer"
     },
     {
       "id" : 60645,
-      "text" : "テスト草"
+      "text" : "Test Grass"
     },
     {
       "id" : 60646,
-      "text" : "テスト砂"
+      "text" : "Test Sand"
     },
     {
       "id" : 60647,
-      "text" : "テスト部屋"
+      "text" : "Test Room"
     },
     {
       "id" : 60648,
-      "text" : "カードＥ"
+      "text" : "e-Reader"
     },
     {
       "id" : 60649,
-      "text" : "レストラン外"
+      "text" : "Outside Resturant"
     },
     {
       "id" : 60650,
-      "text" : "カードＥ戦闘１"
+      "text" : "e-Reader Battle 1"
     },
     {
-      "id" : 60651,
-      "text" : "カードＥ戦闘２"
+      "id": 60651,
+      "text": "e-Reader Battle 2"
     },
     {
       "id" : 60652,
@@ -2607,19 +2607,19 @@
     },
     {
       "id" : 60653,
-      "text" : "テスト対戦"
+      "text" : "Test Battle"
     },
     {
       "id" : 60654,
-      "text" : "シナリオ対戦"
+      "text" : "Scenario Battle"
     },
     {
       "id" : 60655,
-      "text" : "シナリオボス対戦"
+      "text" : "Scenario Boss Battle"
     },
     {
       "id" : 60656,
-      "text" : "ツール対戦"
+      "text" : "Tour Battle"
     },
     {
       "id" : 60657,
@@ -2627,7 +2627,7 @@
     },
     {
       "id" : 60658,
-      "text" : "カードＥ対戦"
+      "text" : "e-Reader Battle"
     },
     {
       "id" : 60659,
@@ -8143,83 +8143,83 @@
     },
     {
       "id" : 62047,
-      "text" : "DPエクストラ30"
+      "text" : "Shadow Extra 30"
     },
     {
       "id" : 62048,
-      "text" : "DPエクストラ31"
+      "text" : "Shadow Extra 31"
     },
     {
       "id" : 62049,
-      "text" : "DPエクストラ32"
+      "text" : "Shadow Extra 32"
     },
     {
       "id" : 62050,
-      "text" : "DPエクストラ33"
+      "text" : "Shadow Extra 33"
     },
     {
       "id" : 62051,
-      "text" : "DPエクストラ34"
+      "text" : "Shadow Extra 34"
     },
     {
       "id" : 62052,
-      "text" : "DPエクストラ35"
+      "text" : "Shadow Extra 35"
     },
     {
       "id" : 62053,
-      "text" : "DPエクストラ36"
+      "text" : "Shadow Extra 36"
     },
     {
       "id" : 62054,
-      "text" : "DPエクストラ37"
+      "text" : "Shadow Extra 37"
     },
     {
       "id" : 62055,
-      "text" : "DPエクストラ38"
+      "text" : "Shadow Extra 38"
     },
     {
       "id" : 62056,
-      "text" : "DPエクストラ39"
+      "text" : "Shadow Extra 39"
     },
     {
       "id" : 62057,
-      "text" : "DPリングマ"
+      "text" : "Shadow リングマ"
     },
     {
       "id" : 62058,
-      "text" : "DPエクストラ41"
+      "text" : "Shadow Extra 41"
     },
     {
       "id" : 62059,
-      "text" : "DPエクストラ42"
+      "text" : "Shadow Extra 42"
     },
     {
       "id" : 62060,
-      "text" : "DPエクストラ43"
+      "text" : "Shadow Extra 43"
     },
     {
       "id" : 62061,
-      "text" : "DPエクストラ44"
+      "text" : "Shadow Extra 44"
     },
     {
       "id" : 62062,
-      "text" : "DPエクストラ45"
+      "text" : "Shadow Extra 45"
     },
     {
       "id" : 62063,
-      "text" : "DPエクストラ46"
+      "text" : "Shadow Extra 46"
     },
     {
       "id" : 62064,
-      "text" : "DPエクストラ47"
+      "text" : "Shadow Extra 47"
     },
     {
       "id" : 62065,
-      "text" : "DPエクストラ48"
+      "text" : "Shadow Extra 48"
     },
     {
       "id" : 62066,
-      "text" : "DPエクストラ49"
+      "text" : "Shadow Extra 49"
     },
     {
       "id" : 62067,
@@ -8259,27 +8259,27 @@
     },
     {
       "id" : 62076,
-      "text" : "天候"
+      "text" : "Weather"
     },
     {
       "id" : 62077,
-      "text" : "必殺"
+      "text" : "Deadly"
     },
     {
       "id" : 62078,
-      "text" : "注目"
+      "text" : "Attention"
     },
     {
       "id" : 62079,
-      "text" : "強化"
+      "text" : "Strength"
     },
     {
       "id" : 62080,
-      "text" : "バトン"
+      "text" : "Baton"
     },
     {
       "id" : 62081,
-      "text" : "バトンII"
+      "text" : "Baton II"
     },
     {
       "id" : 62082,
@@ -8587,199 +8587,199 @@
     },
     {
       "id" : 62158,
-      "text" : "サポーター２"
+      "text" : "Supporter 2"
     },
     {
       "id" : 62159,
-      "text" : "シナリオ１"
+      "text" : "Scenario 1"
     },
     {
       "id" : 62160,
-      "text" : "シナリオ２"
+      "text" : "Scenario 2"
     },
     {
       "id" : 62161,
-      "text" : "シナリオ３"
+      "text" : "Scenario 3"
     },
     {
       "id" : 62162,
-      "text" : "シナリオ４"
+      "text" : "Scenario 4"
     },
     {
       "id" : 62163,
-      "text" : "シナリオ５"
+      "text" : "Scenario 5"
     },
     {
       "id" : 62164,
-      "text" : "シナリオ６"
+      "text" : "Scenario 6"
     },
     {
       "id" : 62165,
-      "text" : "シナリオ７"
+      "text" : "Scenario ７"
     },
     {
       "id" : 62166,
-      "text" : "シナリオ８"
+      "text" : "Scenario ８"
     },
     {
       "id" : 62167,
-      "text" : "シナリオ９"
+      "text" : "Scenario ９"
     },
     {
       "id" : 62168,
-      "text" : "シナリオ１０"
+      "text" : "Scenario １０"
     },
     {
       "id" : 62169,
-      "text" : "シナリオ１１"
+      "text" : "Scenario １１"
     },
     {
       "id" : 62170,
-      "text" : "シナリオ１２"
+      "text" : "Scenario １２"
     },
     {
       "id" : 62171,
-      "text" : "シナリオ１３"
+      "text" : "Scenario １３"
     },
     {
       "id" : 62172,
-      "text" : "シナリオ１４"
+      "text" : "Scenario １４"
     },
     {
       "id" : 62173,
-      "text" : "シナリオ１５"
+      "text" : "Scenario １５"
     },
     {
       "id" : 62174,
-      "text" : "シナリオ１６"
+      "text" : "Scenario １６"
     },
     {
       "id" : 62175,
-      "text" : "シナリオ１７"
+      "text" : "Scenario １７"
     },
     {
       "id" : 62176,
-      "text" : "シナリオ１８"
+      "text" : "Scenario １８"
     },
     {
       "id" : 62177,
-      "text" : "シナリオ１９"
+      "text" : "Scenario １９"
     },
     {
       "id" : 62178,
-      "text" : "シナリオ２０"
+      "text" : "Scenario ２０"
     },
     {
       "id" : 62179,
-      "text" : "８人ダブル１"
+      "text" : "8-people Double １"
     },
     {
       "id" : 62180,
-      "text" : "８人ダブル２"
+      "text" : "8-people Double ２"
     },
     {
       "id" : 62181,
-      "text" : "８人ダブル３"
+      "text" : "8-people Double ３"
     },
     {
       "id" : 62182,
-      "text" : "８人ダブル４"
+      "text" : "8-people Double ４"
     },
     {
       "id" : 62183,
-      "text" : "８人ダブル５"
+      "text" : "8-people Double ５"
     },
     {
       "id" : 62184,
-      "text" : "８人ダブル６"
+      "text" : "8-people Double ６"
     },
     {
       "id" : 62185,
-      "text" : "８人ダブル７"
+      "text" : "8-people Double ７"
     },
     {
       "id" : 62186,
-      "text" : "８人ダブル８"
+      "text" : "8-people Double ８"
     },
     {
       "id" : 62187,
-      "text" : "８人ダブル９"
+      "text" : "8-people Double ９"
     },
     {
       "id" : 62188,
-      "text" : "８人ダブル１０"
+      "text" : "8-people Double １０"
     },
     {
       "id" : 62189,
-      "text" : "８人ダブル１１"
+      "text" : "8-people Double １１"
     },
     {
       "id" : 62190,
-      "text" : "８人ダブル１２"
+      "text" : "8-people Double １２"
     },
     {
       "id" : 62191,
-      "text" : "８人ダブル１３"
+      "text" : "8-people Double １３"
     },
     {
       "id" : 62192,
-      "text" : "８人ダブル１４"
+      "text" : "8-people Double １４"
     },
     {
       "id" : 62193,
-      "text" : "８人ダブル１５"
+      "text" : "8-people Double １５"
     },
     {
       "id" : 62194,
-      "text" : "８人ダブル１６"
+      "text" : "8-people Double １６"
     },
     {
       "id" : 62195,
-      "text" : "８人ダブル１７"
+      "text" : "8-people Double １７"
     },
     {
       "id" : 62196,
-      "text" : "８人ダブル１８"
+      "text" : "8-people Double １８"
     },
     {
       "id" : 62197,
-      "text" : "８人ダブル１９"
+      "text" : "8-people Double １９"
     },
     {
       "id" : 62198,
-      "text" : "８人ダブル２０"
+      "text" : "8-people Double ２０"
     },
     {
       "id" : 62199,
-      "text" : "爆発岩"
+      "text" : "Explosive Rock"
     },
     {
       "id" : 62200,
-      "text" : "爆発天狗"
+      "text" : "Explosive Tengu"
     },
     {
       "id" : 62201,
-      "text" : "８人シングルＳ４　Baton Pass用Ninjask"
+      "text" : "8-people Single Ｓ４　Baton Pass用Ninjask"
     },
     {
       "id" : 62202,
-      "text" : "８人シングルＳ４　Baton Pass用Gorebyss"
+      "text" : "8-people Single Ｓ４　Baton Pass用Gorebyss"
     },
     {
       "id" : 62203,
-      "text" : "８人ダブルＵ５　アタッカー"
+      "text" : "8-people Double Ｕ５　Attacker"
     },
     {
       "id" : 62204,
-      "text" : "８人ダブルＵ５　手助けハリテヤマ"
+      "text" : "8-people Double Ｕ５　Help Hariyama"
     },
     {
       "id" : 62205,
-      "text" : "８人ダブルＵ５　強化＆戦闘ギャラドス"
+      "text" : "8-people Double Ｕ５　Strengthen & Battle Gyarados"
     },
     {
       "id" : 62206,
-      "text" : "８人ダブルＵ５　雨乞い＆戦闘キングドラ"
+      "text" : "8-people Double Ｕ５　Rain Dance ＆ Battle Kingdra"
     },
     {
       "id" : 62207,
@@ -8787,7 +8787,7 @@
     },
     {
       "id" : 62208,
-      "text" : "ふういん"
+      "text" : "Imprison"
     },
     {
       "id" : 62209,
@@ -8819,27 +8819,27 @@
     },
     {
       "id" : 62216,
-      "text" : "８人シングルS１　ブラッキー"
+      "text" : "8-people Single S１　Umbreon"
     },
     {
       "id" : 62217,
-      "text" : "８人シングルS１　ワタッコ"
+      "text" : "8-people Single S１　Jumpluff"
     },
     {
       "id" : 62218,
-      "text" : "状態変化優先"
+      "text" : "Transformation priority"
     },
     {
       "id" : 62219,
-      "text" : "８人シングルA２　一撃"
+      "text" : "8-people Single A２　Single Strike"
     },
     {
       "id" : 62220,
-      "text" : "８人シングルS１　メガニウム"
+      "text" : "8-people Single S１　Meganium"
     },
     {
       "id" : 62221,
-      "text" : "８人シングルS１　ミロカロス"
+      "text" : "8-people Single S１　Milotic"
     },
     {
       "id" : 62222,
@@ -8847,7 +8847,7 @@
     },
     {
       "id" : 62223,
-      "text" : "大爆発"
+      "text" : "Large explosion"
     },
     {
       "id" : 62224,
