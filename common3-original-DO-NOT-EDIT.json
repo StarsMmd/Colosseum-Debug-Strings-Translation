@@ -1,0 +1,8888 @@
+{
+  "fixedFileSize" : 77928,
+  "file" : {
+    "name" : "common.rel",
+    "folder" : {
+      "path" : "\/Game Files\/common"
+    }
+  },
+  "startOffset" : 492768,
+  "strings" : [
+    {
+      "text" : "アスリート女",
+      "id" : 31358
+    },
+    {
+      "text" : "[7]{03}TEST01",
+      "id" : 60000
+    },
+    {
+      "text" : "[7]{03}TEST02",
+      "id" : 60001
+    },
+    {
+      "text" : "[7]{03}TEST03",
+      "id" : 60002
+    },
+    {
+      "text" : "[7]{03}TEST04",
+      "id" : 60003
+    },
+    {
+      "text" : "[7]{03}TEST05",
+      "id" : 60004
+    },
+    {
+      "text" : "[7]{03}TEST06",
+      "id" : 60005
+    },
+    {
+      "text" : "[7]{03}MAP CHANGE",
+      "id" : 60006
+    },
+    {
+      "text" : "[7]{03}Memory Information on\/off",
+      "id" : 60007
+    },
+    {
+      "text" : "カラーバー表示",
+      "id" : 60008
+    },
+    {
+      "text" : "カメラ追従",
+      "id" : 60009
+    },
+    {
+      "text" : "カメラ回転",
+      "id" : 60010
+    },
+    {
+      "text" : "カメラ移動",
+      "id" : 60011
+    },
+    {
+      "text" : "処理バーのON\/OFF",
+      "id" : 60012
+    },
+    {
+      "text" : "[7]{03}CAMERA TYPE",
+      "id" : 60013
+    },
+    {
+      "text" : "カメラ情報 ON\/OFF",
+      "id" : 60014
+    },
+    {
+      "text" : "パーティーチェンジ",
+      "id" : 60015
+    },
+    {
+      "text" : "メッセージテスト",
+      "id" : 60016
+    },
+    {
+      "text" : "メニューテスト",
+      "id" : 60017
+    },
+    {
+      "text" : "[7]{03}SYSTEM DEBUG",
+      "id" : 60018
+    },
+    {
+      "text" : "[7]{03}FUNCTIONS TEST",
+      "id" : 60019
+    },
+    {
+      "text" : "[7]{03}(S1) DINER",
+      "id" : 60020
+    },
+    {
+      "text" : "[7]{03}(M1) PHENAC CITY",
+      "id" : 60021
+    },
+    {
+      "text" : "[7]{03}(M2) PYRITE TOWN",
+      "id" : 60022
+    },
+    {
+      "text" : "[7]{03}(M3) AGATE VILLAGE",
+      "id" : 60023
+    },
+    {
+      "text" : "[7]{03}(M4) THE UNDER",
+      "id" : 60024
+    },
+    {
+      "text" : "[7]{03}(D1) LABORATORY",
+      "id" : 60025
+    },
+    {
+      "text" : "[7]{03}(D2) MT.BATTLE",
+      "id" : 60026
+    },
+    {
+      "text" : "[7]{03}(D4) THE TOWER",
+      "id" : 60027
+    },
+    {
+      "text" : "[7]{03}ETC.",
+      "id" : 60028
+    },
+    {
+      "text" : "[7]{03}OUTSIDE THE DINER  (S1_out)",
+      "id" : 60029
+    },
+    {
+      "text" : "[7]{03}INSIDE THE DINER (S1_shop_1F)",
+      "id" : 60030
+    },
+    {
+      "text" : "[7]{03}PHENAC CITY (M1_out)",
+      "id" : 60031
+    },
+    {
+      "text" : "[7]{03}POKeMON CENTER 1F  (M1_pc_1F)",
+      "id" : 60032
+    },
+    {
+      "text" : "[7]{03}MAYOR'S HOUSE 1F (M1_houseA_1F)",
+      "id" : 60033
+    },
+    {
+      "text" : "[7]{03}MAYOR'S HOUSE 2F (M1_houseA_2F)",
+      "id" : 60034
+    },
+    {
+      "text" : "[7]{03}HOUSE-B (M1_houseB_1F)",
+      "id" : 60035
+    },
+    {
+      "text" : "[7]{03}HOUSE-C (M1_houseC_1F)",
+      "id" : 60036
+    },
+    {
+      "text" : "[7]{03}GYM 1F (M1_gym_1F)",
+      "id" : 60037
+    },
+    {
+      "text" : "[7]{03}GYM B1 (M1_gym B1)",
+      "id" : 60038
+    },
+    {
+      "text" : "[7]{03}SHOP 1F (M1_shop_1F)",
+      "id" : 60039
+    },
+    {
+      "text" : "[7]{03}SHOP 2F (M1_shop_2F)",
+      "id" : 60040
+    },
+    {
+      "text" : "[7]{03}POKeMON CENTER B1 (M1_pc_B1)",
+      "id" : 60041
+    },
+    {
+      "text" : "[7]{03}STADIUM ENTRANCE (M1_stadium_1F)",
+      "id" : 60042
+    },
+    {
+      "text" : "[7]{03}PYRITE TOWN (M2_out)",
+      "id" : 60043
+    },
+    {
+      "text" : "[7]{03}FORTUNETELLER'S (M2_uranai_1F)",
+      "id" : 60044
+    },
+    {
+      "text" : "[7]{03}HOUSE-A (M2_houseA_1F)",
+      "id" : 60045
+    },
+    {
+      "text" : "[7]{03}GUILD HOUSE 1F (M2_guild_1F_1)",
+      "id" : 60046
+    },
+    {
+      "text" : "[7]{03}SHOP (M2_shop_1F)",
+      "id" : 60047
+    },
+    {
+      "text" : "[7]{03}WINDMILL (M2_windmill_1F)",
+      "id" : 60048
+    },
+    {
+      "text" : "[7]{03}INNER WINDMILL (M2_windmill_2F)",
+      "id" : 60049
+    },
+    {
+      "text" : "[7]{03}PYRITE BLDG 1F (M2_building_1F)",
+      "id" : 60050
+    },
+    {
+      "text" : "[7]{03}PYRITE BLDG 2F (M2_building_2F)",
+      "id" : 60051
+    },
+    {
+      "text" : "[7]{03}PYRITE BLDG 3F (M2_building_3F)",
+      "id" : 60052
+    },
+    {
+      "text" : "[7]{03}PYRITE BLDG PENTHOUSE (M2_building_4F)",
+      "id" : 60053
+    },
+    {
+      "text" : "[7]{03}POLICE OFFICE (M2_police_1F)",
+      "id" : 60054
+    },
+    {
+      "text" : "[7]{03}COLOSSEUM ENTRANCE (M2_enter_1F)",
+      "id" : 60055
+    },
+    {
+      "text" : "[7]{03}HOTEL (M2_hotel_1F)",
+      "id" : 60056
+    },
+    {
+      "text" : "[7]{03}PYRITE CAVE 3F-1 (M2_cave_3F_1)",
+      "id" : 60057
+    },
+    {
+      "text" : "[7]{03}PYRITE CAVE 2F-1 (M2_cave_2F_1)",
+      "id" : 60058
+    },
+    {
+      "text" : "[7]{03}PYRITE CAVE 2F-2 (M2_cave_2F_2)",
+      "id" : 60059
+    },
+    {
+      "text" : "[7]{03}PYRITE CAVE 3F-2 (M2_cave_3F_2)",
+      "id" : 60060
+    },
+    {
+      "text" : "[7]{03}PYRITE CAVE 1F-1 (M2_cave_1F_1)",
+      "id" : 60061
+    },
+    {
+      "text" : "[7]{03}GUILD HOUSE HIDDEN ROOM (M2_guild_1F_2)",
+      "id" : 60062
+    },
+    {
+      "text" : "[7]{03}PYRITE CAVE 1F-2 (M2_cave_1F_2)",
+      "id" : 60063
+    },
+    {
+      "text" : "[7]{03}AGATE VILLAGE (M3_out)",
+      "id" : 60064
+    },
+    {
+      "text" : "[7]{03}CAVE TO RELIC (M3_cave_1F_1)",
+      "id" : 60065
+    },
+    {
+      "text" : "[7]{03}SECRET CAVE (M3_cave_1F_2)",
+      "id" : 60066
+    },
+    {
+      "text" : "[7]{03}RELIC FOREST (M3_shrine_1F)",
+      "id" : 60067
+    },
+    {
+      "text" : "[7]{03}HOUSE-A (M3_houseA_1F)",
+      "id" : 60068
+    },
+    {
+      "text" : "[7]{03}HOUSE-B (M3_houseB_1F)",
+      "id" : 60069
+    },
+    {
+      "text" : "[7]{03}POKeMON CENTER (M3_pc_1F)",
+      "id" : 60070
+    },
+    {
+      "text" : "[7]{03}SHOP (M3_shop_1F)",
+      "id" : 60071
+    },
+    {
+      "text" : "[7]{03}EAGUN'S HOUSE 1F (M3_houseC_1F)",
+      "id" : 60072
+    },
+    {
+      "text" : "[7]{03}EAGUN'S HOUSE 2F (M3_houseC_2F)",
+      "id" : 60073
+    },
+    {
+      "text" : "[7]{03}HOUSE-D (M3_houseD_1F)",
+      "id" : 60074
+    },
+    {
+      "text" : "[7]{03}THE UNDER (M4_out)",
+      "id" : 60075
+    },
+    {
+      "text" : "[7]{03}HOTEL 1F (M4_hotel_1F)",
+      "id" : 60076
+    },
+    {
+      "text" : "[7]{03}HOTEL B1 (M4_hotel_B1)",
+      "id" : 60077
+    },
+    {
+      "text" : "[7]{03}JUNK SHOP 1F (M4_junk_1F)",
+      "id" : 60078
+    },
+    {
+      "text" : "[7]{03}JUNK SHOP B1 (M4_junk_B1)",
+      "id" : 60079
+    },
+    {
+      "text" : "地下街の地下鉄1F (M4_subway_1F)",
+      "id" : 60080
+    },
+    {
+      "text" : "[7]{03}SUBWAY B1 (M4_subway_B1)",
+      "id" : 60081
+    },
+    {
+      "text" : "[7]{03}SUBWAY B2_1 (M4_subway_B2_1)",
+      "id" : 60082
+    },
+    {
+      "text" : "[7]{03}SUBWAY B2_2 (M4_subway_B2_2)",
+      "id" : 60083
+    },
+    {
+      "text" : "[7]{03}SUBWAY STATION (M4_subway_B3)",
+      "id" : 60084
+    },
+    {
+      "text" : "[7]{03}UNDER COLOSSEUM (M4_cylinder_colo)",
+      "id" : 60085
+    },
+    {
+      "text" : "[7]{03}MINER COLOSSEUM (M4_bottom_colo)",
+      "id" : 60086
+    },
+    {
+      "text" : "[7]{03}NETT'S HIDEOUT 1F (M4_labo_1F)",
+      "id" : 60087
+    },
+    {
+      "text" : "[7]{03}NETT'S HIDEOUT B1 (M4_labo_B1)",
+      "id" : 60088
+    },
+    {
+      "text" : "[7]{03}COLOSSEUM ENTRANCE B1 (M4_enter_B1)",
+      "id" : 60089
+    },
+    {
+      "text" : "[7]{03}COLOSSEUM ENTRANCE 1F (M4_enter_1F)",
+      "id" : 60090
+    },
+    {
+      "text" : "[7]{03}ENTRANCE TO THE UNDER (M4_out_2)",
+      "id" : 60091
+    },
+    {
+      "text" : "[7]{03}MINER'S AREA (M4_bottom_1F)",
+      "id" : 60092
+    },
+    {
+      "text" : "[7]{03}SHOP (M4_shop_1F)",
+      "id" : 60093
+    },
+    {
+      "text" : "[7]{03}TV STATION (M4_houseA_1F)",
+      "id" : 60094
+    },
+    {
+      "text" : "[7]{03}INSIDE THE TRAIN (M4_train_1F)",
+      "id" : 60095
+    },
+    {
+      "text" : "[7]{03}LABORATORY (D1_out)",
+      "id" : 60096
+    },
+    {
+      "text" : "[7]{03}LABO 1F (D1_labo_1F)",
+      "id" : 60097
+    },
+    {
+      "text" : "[7]{03}LABO B1 (D1_labo_B1)",
+      "id" : 60098
+    },
+    {
+      "text" : "[7]{03}LABO B2 (D1_labo_B2)",
+      "id" : 60099
+    },
+    {
+      "text" : "[7]{03}LABO B3 (D1_labo_B3)",
+      "id" : 60100
+    },
+    {
+      "text" : "[7]{03}GARAGE 1F (D1_garage_1F)",
+      "id" : 60101
+    },
+    {
+      "text" : "[7]{03}GARAGE B1 (D1_garage_B1)",
+      "id" : 60102
+    },
+    {
+      "text" : "[7]{03}GARAGE B2 (D1_garage_B2_1)",
+      "id" : 60103
+    },
+    {
+      "text" : "[7]{03}SUBWAY STATION (D1_garage_B2_2)",
+      "id" : 60104
+    },
+    {
+      "text" : "[7]{03}OUTSIDE GATE (D2_out)",
+      "id" : 60105
+    },
+    {
+      "text" : "[7]{03}FACILITY 1F (D2_pc_1F)",
+      "id" : 60106
+    },
+    {
+      "text" : "[7]{03}CANYON 1-10 (D2_valley_1)",
+      "id" : 60107
+    },
+    {
+      "text" : "[7]{03}REST HOUSE 1 (D2_rest_1)",
+      "id" : 60108
+    },
+    {
+      "text" : "[7]{03}CANYON 11-20 (D2_valley_2)",
+      "id" : 60109
+    },
+    {
+      "text" : "[7]{03}REST HOUSE 2 (D2_rest_2)",
+      "id" : 60110
+    },
+    {
+      "text" : "[7]{03}CANYON 21-30 (D2_valley_3)",
+      "id" : 60111
+    },
+    {
+      "text" : "[7]{03}REST HOUSE 3 (D2_rest_3)",
+      "id" : 60112
+    },
+    {
+      "text" : "[7]{03}CANYON 31-40 (D2_magma_1)",
+      "id" : 60113
+    },
+    {
+      "text" : "[7]{03}REST HOUSE 4 (D2_rest_4)",
+      "id" : 60114
+    },
+    {
+      "text" : "[7]{03}CANYON 41-50 (D2_magma_2)",
+      "id" : 60115
+    },
+    {
+      "text" : "[7]{03}REST HOUSE 5 (D2_rest_5)",
+      "id" : 60116
+    },
+    {
+      "text" : "[7]{03}CANYON 51-60 (D2_magma_3)",
+      "id" : 60117
+    },
+    {
+      "text" : "[7]{03}REST HOUSE 6 (D2_rest_6)",
+      "id" : 60118
+    },
+    {
+      "text" : "[7]{03}CANYON 61-70 (D2_cloud_1)",
+      "id" : 60119
+    },
+    {
+      "text" : "[7]{03}REST HOUSE 7 (D2_rest_7)",
+      "id" : 60120
+    },
+    {
+      "text" : "[7]{03}CANYON 71-80 (D2_cloud_2)",
+      "id" : 60121
+    },
+    {
+      "text" : "[7]{03}REST HOUSE 8 (D2_rest_8)",
+      "id" : 60122
+    },
+    {
+      "text" : "[7]{03}CANYON 81-90 (D2_cloud_3)",
+      "id" : 60123
+    },
+    {
+      "text" : "[7]{03}REST HOUSE 9 (D2_rest_9)",
+      "id" : 60124
+    },
+    {
+      "text" : "[7]{03}CANYON 91-99 (D2_cloud_4)",
+      "id" : 60125
+    },
+    {
+      "text" : "[7]{03}THE TOWER ENTRANCE UNDER CONSTRUCTION (D4_out)",
+      "id" : 60126
+    },
+    {
+      "text" : "[7]{03}DOME ENTRANCE (D4_out)",
+      "id" : 60127
+    },
+    {
+      "text" : "[7]{03}DOME 2 (D4_dome_2)",
+      "id" : 60128
+    },
+    {
+      "text" : "[7]{03}DOME 3 (D4_dome_3)",
+      "id" : 60129
+    },
+    {
+      "text" : "[7]{03}DOME 4 (D4_dome_4)",
+      "id" : 60130
+    },
+    {
+      "text" : "[7]{03}DOME FACILITY (D4_dome_5)",
+      "id" : 60131
+    },
+    {
+      "text" : "[7]{03}DOME 6 (D4_dome_6)",
+      "id" : 60132
+    },
+    {
+      "text" : "[7]{03}DOME 7 (D4_dome_7)",
+      "id" : 60133
+    },
+    {
+      "text" : "[7]{03}DOME 8 (D4_dome_8)",
+      "id" : 60134
+    },
+    {
+      "text" : "[7]{03}DOME 9 (D4_dome_9)",
+      "id" : 60135
+    },
+    {
+      "text" : "[7]{03}DOME 10 (D4_dome_10)",
+      "id" : 60136
+    },
+    {
+      "text" : "[7]{03}DOME 11 (D4_dome_11)",
+      "id" : 60137
+    },
+    {
+      "text" : "[7]{03}REALGAMTWR LOBBY (D4_tower_1F_1)",
+      "id" : 60138
+    },
+    {
+      "text" : "[7]{03}REALGAMTWR GAME ROOM (D4_tower_1F_2)",
+      "id" : 60139
+    },
+    {
+      "text" : "[7]{03}REALGAMTWR DINER (D4_tower_1F_3)",
+      "id" : 60140
+    },
+    {
+      "text" : "[7]{03}REALGAMTWR 2F (D4_tower_2F)",
+      "id" : 60141
+    },
+    {
+      "text" : "[7]{03}THE TOWER ENTRANCE (D4_out_2)",
+      "id" : 60142
+    },
+    {
+      "text" : "[7]{03}REALGAMTWR SMALL ROOM (D4_tower_2F_2)",
+      "id" : 60143
+    },
+    {
+      "text" : "[7]{03}PYRITE COLOSSEUM",
+      "id" : 60144
+    },
+    {
+      "text" : "[7]{03}TOWER COLOSSEUM",
+      "id" : 60145
+    },
+    {
+      "text" : "[7]{03}LAVA COLOSSEUM",
+      "id" : 60146
+    },
+    {
+      "text" : "[7]{03}LOST COLOSSEUM",
+      "id" : 60147
+    },
+    {
+      "text" : "[7]{03}PHENAC STADIUM",
+      "id" : 60148
+    },
+    {
+      "text" : "あたりの表示のON\/OFF",
+      "id" : 60149
+    },
+    {
+      "text" : "カメラ１ 外から中へ",
+      "id" : 60150
+    },
+    {
+      "text" : "モデル消去",
+      "id" : 60151
+    },
+    {
+      "text" : "カメラ情報リセット",
+      "id" : 60152
+    },
+    {
+      "text" : "フィールド",
+      "id" : 60153
+    },
+    {
+      "text" : "ファイト",
+      "id" : 60154
+    },
+    {
+      "text" : "イベント",
+      "id" : 60155
+    },
+    {
+      "text" : "カメラを元に戻す",
+      "id" : 60156
+    },
+    {
+      "text" : "描画禁止領域のON\/OFF",
+      "id" : 60157
+    },
+    {
+      "text" : "Zクリア後描画のON\/OFF",
+      "id" : 60158
+    },
+    {
+      "text" : "人配置のエディット",
+      "id" : 60159
+    },
+    {
+      "text" : "GSgfx情報 ON\/OFF",
+      "id" : 60160
+    },
+    {
+      "text" : "ＢＧＭボリューム設定",
+      "id" : 60161
+    },
+    {
+      "text" : "ＳＥボリューム設定",
+      "id" : 60162
+    },
+    {
+      "text" : "ＢＧＭボリューム ＯＮ",
+      "id" : 60163
+    },
+    {
+      "text" : "ＢＧＭボリューム ＯＦＦ",
+      "id" : 60164
+    },
+    {
+      "text" : "ＳＥボリューム ＯＮ",
+      "id" : 60165
+    },
+    {
+      "text" : "ＳＥボリューム ＯＦＦ",
+      "id" : 60166
+    },
+    {
+      "text" : "Show Info",
+      "id" : 60167
+    },
+    {
+      "text" : "Draw Null Joints",
+      "id" : 60168
+    },
+    {
+      "text" : "Flash Motion Change",
+      "id" : 60169
+    },
+    {
+      "text" : "Flash Impact Points",
+      "id" : 60170
+    },
+    {
+      "text" : "WazaViewerMenu",
+      "id" : 60171
+    },
+    {
+      "text" : "バトルテスト",
+      "id" : 60172
+    },
+    {
+      "text" : "[7]{03}TV news at DINER",
+      "id" : 60173
+    },
+    {
+      "text" : "[7]{03}FLAG SHOP",
+      "id" : 60174
+    },
+    {
+      "text" : "[7]{03}VS WILLIE",
+      "id" : 60175
+    },
+    {
+      "text" : "パーティー情報のON\/OFF",
+      "id" : 60176
+    },
+    {
+      "text" : "[7]{03}SOUND TEST",
+      "id" : 60177
+    },
+    {
+      "text" : "[7]{03}BGM",
+      "id" : 60178
+    },
+    {
+      "text" : "[7]{03}NOISE",
+      "id" : 60179
+    },
+    {
+      "text" : "[7]{03}SE",
+      "id" : 60180
+    },
+    {
+      "text" : "[7]{03}POKe VOICE",
+      "id" : 60181
+    },
+    {
+      "text" : "ヒヅキ救出イベント",
+      "id" : 60182
+    },
+    {
+      "text" : "[7]{03}Beginning of the story",
+      "id" : 60183
+    },
+    {
+      "text" : "[7]{03}After OUTRO",
+      "id" : 60184
+    },
+    {
+      "text" : "ワールドマップ",
+      "id" : 60185
+    },
+    {
+      "text" : "砂漠の中",
+      "id" : 60186
+    },
+    {
+      "text" : "フェナスシティ",
+      "id" : 60187
+    },
+    {
+      "text" : "ラルガタワー",
+      "id" : 60188
+    },
+    {
+      "text" : "パイラタウン",
+      "id" : 60189
+    },
+    {
+      "text" : "アゲトビレッジ",
+      "id" : 60190
+    },
+    {
+      "text" : "バトル山",
+      "id" : 60191
+    },
+    {
+      "text" : "ラボ",
+      "id" : 60192
+    },
+    {
+      "text" : "アンダー",
+      "id" : 60193
+    },
+    {
+      "text" : "エクロ峡谷",
+      "id" : 60194
+    },
+    {
+      "text" : "もちものメニュー",
+      "id" : 60195
+    },
+    {
+      "text" : "[7]{03}Heroine joined",
+      "id" : 60196
+    },
+    {
+      "text" : "[7]{03}BATTLE",
+      "id" : 60197
+    },
+    {
+      "text" : "[7]{03}Encount Selection",
+      "id" : 60198
+    },
+    {
+      "text" : "[7]{03}Battle Arena Editor",
+      "id" : 60199
+    },
+    {
+      "text" : "[7]{03}Suspend",
+      "id" : 60200
+    },
+    {
+      "text" : "戦場側選択",
+      "id" : 60202
+    },
+    {
+      "text" : "[7]{03}Player Side",
+      "id" : 60203
+    },
+    {
+      "text" : "[7]{03}Enemy Side",
+      "id" : 60204
+    },
+    {
+      "text" : "[7]{03}Win",
+      "id" : 60205
+    },
+    {
+      "text" : "[7]{03}Lose",
+      "id" : 60206
+    },
+    {
+      "text" : "戦闘トレーナー選択",
+      "id" : 60207
+    },
+    {
+      "text" : "戦闘ポケモン選択",
+      "id" : 60208
+    },
+    {
+      "text" : "ポケモンＩＤ",
+      "id" : 60210
+    },
+    {
+      "text" : "レベル",
+      "id" : 60211
+    },
+    {
+      "text" : "持ち技",
+      "id" : 60212
+    },
+    {
+      "text" : "装備品",
+      "id" : 60213
+    },
+    {
+      "text" : "特性",
+      "id" : 60214
+    },
+    {
+      "text" : "[7]{03}TRAINER#0",
+      "id" : 60215
+    },
+    {
+      "text" : "[7]{03}TRAINER#1",
+      "id" : 60216
+    },
+    {
+      "text" : "[7]{03}M2:Black out of PYRITE TOWN",
+      "id" : 60217
+    },
+    {
+      "text" : "最初から",
+      "id" : 60218
+    },
+    {
+      "text" : "続きから",
+      "id" : 60219
+    },
+    {
+      "text" : "バトルをする",
+      "id" : 60220
+    },
+    {
+      "text" : "おためしバトル",
+      "id" : 60221
+    },
+    {
+      "text" : "設定",
+      "id" : 60222
+    },
+    {
+      "text" : "基本値",
+      "id" : 60223
+    },
+    {
+      "text" : "努力値",
+      "id" : 60224
+    },
+    {
+      "text" : "乱数値",
+      "id" : 60225
+    },
+    {
+      "text" : "カウント値",
+      "id" : 60226
+    },
+    {
+      "text" : "物理攻撃",
+      "id" : 60227
+    },
+    {
+      "text" : "物理防御",
+      "id" : 60228
+    },
+    {
+      "text" : "素早さ",
+      "id" : 60229
+    },
+    {
+      "text" : "特殊攻撃",
+      "id" : 60230
+    },
+    {
+      "text" : "特殊防御",
+      "id" : 60231
+    },
+    {
+      "text" : "最大ＨＰ",
+      "id" : 60232
+    },
+    {
+      "text" : "ＨＰ",
+      "id" : 60233
+    },
+    {
+      "text" : "[7]{03}HERO'S DECK",
+      "id" : 60234
+    },
+    {
+      "text" : "[7]{03}Edit Your Party Pokémon",
+      "id" : 60235
+    },
+    {
+      "text" : "[7]{03}Create Item",
+      "id" : 60236
+    },
+    {
+      "text" : "なつき度",
+      "id" : 60237
+    },
+    {
+      "text" : "個性乱数",
+      "id" : 60238
+    },
+    {
+      "text" : "♂",
+      "id" : 60239
+    },
+    {
+      "text" : "♀",
+      "id" : 60240
+    },
+    {
+      "text" : "？",
+      "id" : 60241
+    },
+    {
+      "text" : "経験値",
+      "id" : 60242
+    },
+    {
+      "text" : "ポケルス",
+      "id" : 60243
+    },
+    {
+      "text" : "捕獲乱数",
+      "id" : 60244
+    },
+    {
+      "text" : "状態",
+      "id" : 60245
+    },
+    {
+      "text" : "レア",
+      "id" : 60246
+    },
+    {
+      "text" : "[7]{03}MEMORY CARD",
+      "id" : 60247
+    },
+    {
+      "text" : "[7]{03}Save Game",
+      "id" : 60248
+    },
+    {
+      "text" : "[7]{03}Load Game",
+      "id" : 60249
+    },
+    {
+      "text" : "[7]{03}Debug Save(Not in use)",
+      "id" : 60250
+    },
+    {
+      "text" : "[7]{03}Debug Load(Not in use)",
+      "id" : 60251
+    },
+    {
+      "text" : "ねむり",
+      "id" : 60252
+    },
+    {
+      "text" : "どく",
+      "id" : 60253
+    },
+    {
+      "text" : "やけど",
+      "id" : 60254
+    },
+    {
+      "text" : "まひ",
+      "id" : 60255
+    },
+    {
+      "text" : "こおり",
+      "id" : 60256
+    },
+    {
+      "text" : "どくどく",
+      "id" : 60257
+    },
+    {
+      "text" : "属性",
+      "id" : 60258
+    },
+    {
+      "text" : "－",
+      "id" : 60259
+    },
+    {
+      "text" : "[7]{03}After finding GEAR",
+      "id" : 60260
+    },
+    {
+      "text" : "[7]{03}M2:The black out being recovered",
+      "id" : 60261
+    },
+    {
+      "text" : "[7]{03}M2:Won a victory at PYRITE COLOSSEUM",
+      "id" : 60262
+    },
+    {
+      "text" : "名前入力メニュー",
+      "id" : 60263
+    },
+    {
+      "text" : "[7]{03}Flag Editor",
+      "id" : 60264
+    },
+    {
+      "text" : "メッセージ待ちスピード",
+      "id" : 60265
+    },
+    {
+      "text" : "追加効果９９％フラグ",
+      "id" : 60266
+    },
+    {
+      "text" : "[7]{03}M2:After rescueing SILVA",
+      "id" : 60267
+    },
+    {
+      "text" : "キー待ちフラグ",
+      "id" : 60268
+    },
+    {
+      "text" : "[7]{03}M2:DUKING got back his POKéMON",
+      "id" : 60269
+    },
+    {
+      "text" : "[7]{03}M1:TEAM SNAGEM being defeated",
+      "id" : 60270
+    },
+    {
+      "text" : "[7]{03}S1:Got POKéBALLs",
+      "id" : 60271
+    },
+    {
+      "text" : "[7]{03}M1:After meeting MIRROR B.",
+      "id" : 60272
+    },
+    {
+      "text" : "[7]{03}M3:EAGUN ran down to RELIC FOREST",
+      "id" : 60273
+    },
+    {
+      "text" : "タイトル",
+      "id" : 60274
+    },
+    {
+      "text" : "パソコン",
+      "id" : 60275
+    },
+    {
+      "text" : "[7]{03}M3:After SKRUB was expeled",
+      "id" : 60276
+    },
+    {
+      "text" : "[7]{03}M3:After meeting SENILOR",
+      "id" : 60277
+    },
+    {
+      "text" : "[7]{03}M3:After getting SMALL TABLET",
+      "id" : 60278
+    },
+    {
+      "text" : "[7]{03}D2:After VS DAKIM",
+      "id" : 60279
+    },
+    {
+      "text" : "[7]{03}M3:Read the mail from DUKING",
+      "id" : 60280
+    },
+    {
+      "text" : "ケンの名前",
+      "id" : 60281
+    },
+    {
+      "text" : "ヒヅキの名前",
+      "id" : 60282
+    },
+    {
+      "text" : "手持ちポケモン（先頭）の名前",
+      "id" : 60283
+    },
+    {
+      "text" : "ポケモンボックス１の名前",
+      "id" : 60284
+    },
+    {
+      "text" : "名前入力",
+      "id" : 60285
+    },
+    {
+      "text" : "ショップ",
+      "id" : 60286
+    },
+    {
+      "text" : "ショップＳ１（初期）",
+      "id" : 60287
+    },
+    {
+      "text" : "ショップＳ２（２段階目）",
+      "id" : 60288
+    },
+    {
+      "text" : "ショップＳ３（３段階目）",
+      "id" : 60289
+    },
+    {
+      "text" : "[7]{03}M4:Before getting POWERUP PART",
+      "id" : 60290
+    },
+    {
+      "text" : "[7]{03}M4:After informing PDA No to MEGG",
+      "id" : 60291
+    },
+    {
+      "text" : "ショップＭ１＿１Ｆ",
+      "id" : 60292
+    },
+    {
+      "text" : "ショップＭ１＿２Ｆ",
+      "id" : 60293
+    },
+    {
+      "text" : "ショップＭ２",
+      "id" : 60294
+    },
+    {
+      "text" : "ショップＭ３",
+      "id" : 60295
+    },
+    {
+      "text" : "ショップＭ４",
+      "id" : 60296
+    },
+    {
+      "text" : "漢方屋",
+      "id" : 60297
+    },
+    {
+      "text" : "ショップ？１",
+      "id" : 60298
+    },
+    {
+      "text" : "ショップ？２",
+      "id" : 60299
+    },
+    {
+      "text" : "クーポン交換所ＧＣ",
+      "id" : 60300
+    },
+    {
+      "text" : "クーポン交換所ＡＧＢ",
+      "id" : 60301
+    },
+    {
+      "text" : "シナリオ　１対１　１ＯＮ１",
+      "id" : 60302
+    },
+    {
+      "text" : "シナリオ　１対１　２ＯＮ２",
+      "id" : 60303
+    },
+    {
+      "text" : "シナリオ　２対２　１ＯＮ１",
+      "id" : 60304
+    },
+    {
+      "text" : "ツール　１対１　１ＯＮ１",
+      "id" : 60305
+    },
+    {
+      "text" : "ツール　１対１　２ＯＮ２",
+      "id" : 60306
+    },
+    {
+      "text" : "ツール　２対２　１ＯＮ１",
+      "id" : 60307
+    },
+    {
+      "text" : "１番目の敵",
+      "id" : 60308
+    },
+    {
+      "text" : "２番目の敵",
+      "id" : 60309
+    },
+    {
+      "text" : "自分以外の味方",
+      "id" : 60310
+    },
+    {
+      "text" : "ＰＤＡメニュー",
+      "id" : 60311
+    },
+    {
+      "text" : "エフェクトフラグ",
+      "id" : 60312
+    },
+    {
+      "text" : "全トレーナー操作フラグ",
+      "id" : 60313
+    },
+    {
+      "text" : "[7]{03}WAZA DEBUG",
+      "id" : 60314
+    },
+    {
+      "text" : "ヒヅキ",
+      "id" : 60315
+    },
+    {
+      "text" : "[7]{03}POKéMON#0",
+      "id" : 60316
+    },
+    {
+      "text" : "[7]{03}POKéMON#1",
+      "id" : 60317
+    },
+    {
+      "text" : "[7]{03}POKéMON#2",
+      "id" : 60318
+    },
+    {
+      "text" : "[7]{03}POKéMON#3",
+      "id" : 60319
+    },
+    {
+      "text" : "[7]{03}POKéMON#4",
+      "id" : 60320
+    },
+    {
+      "text" : "[7]{03}POKéMON#5",
+      "id" : 60321
+    },
+    {
+      "text" : "Select",
+      "id" : 60322
+    },
+    {
+      "text" : "Start",
+      "id" : 60323
+    },
+    {
+      "text" : "Stop",
+      "id" : 60324
+    },
+    {
+      "text" : "Show Status Info",
+      "id" : 60325
+    },
+    {
+      "text" : "[7]{03}M4:After getting R-DISK",
+      "id" : 60326
+    },
+    {
+      "text" : "[7]{03}HERB SHOP (M4_kanpo_1F)",
+      "id" : 60327
+    },
+    {
+      "text" : "[7]{03}M4:After getting MAINGATE KEY",
+      "id" : 60328
+    },
+    {
+      "text" : "Ｍ４起動ディスク下入手後",
+      "id" : 60329
+    },
+    {
+      "text" : "ポケモン選択",
+      "id" : 60330
+    },
+    {
+      "text" : "フィールドから",
+      "id" : 60331
+    },
+    {
+      "text" : "戦闘から",
+      "id" : 60332
+    },
+    {
+      "text" : "Background ON\/OFF",
+      "id" : 60333
+    },
+    {
+      "text" : "いい町のカードｅ(M1_carde_1)",
+      "id" : 60334
+    },
+    {
+      "text" : "メール送信",
+      "id" : 60335
+    },
+    {
+      "text" : "フレームレート",
+      "id" : 60336
+    },
+    {
+      "text" : "３０ｆｒ／ｓ",
+      "id" : 60337
+    },
+    {
+      "text" : "６０ｆｒ／ｓ",
+      "id" : 60338
+    },
+    {
+      "text" : "[7]{03}D4:After 1st battle at TOWER COLOSSEUM",
+      "id" : 60339
+    },
+    {
+      "text" : "[7]{03}D4:After 2nd battle at TOWER COLOSSEUM",
+      "id" : 60340
+    },
+    {
+      "text" : "[7]{03}D4:After 3rd battle at TOWER COLOSSEUM",
+      "id" : 60341
+    },
+    {
+      "text" : "[7]{03}D4:After 4th battle at TOWER COLOSSEUM",
+      "id" : 60342
+    },
+    {
+      "text" : "[7]{03}D4:After VS NASCOUR",
+      "id" : 60343
+    },
+    {
+      "text" : "[7]{03}D4:Before VS Mayor",
+      "id" : 60344
+    },
+    {
+      "text" : "[7]{03}D4:After VS Mayor",
+      "id" : 60345
+    },
+    {
+      "text" : "[7]{03}GSvtr",
+      "id" : 60346
+    },
+    {
+      "text" : "GSvtr ON\/OFF",
+      "id" : 60347
+    },
+    {
+      "text" : "GSvtrの情報画面 ON\/OFF",
+      "id" : 60348
+    },
+    {
+      "text" : "起動 \/ Play",
+      "id" : 60349
+    },
+    {
+      "text" : "一時中止 \/ Pause",
+      "id" : 60350
+    },
+    {
+      "text" : "一時起動 \/ Single Step",
+      "id" : 60351
+    },
+    {
+      "text" : "スロー起動 \/ Slow Play",
+      "id" : 60352
+    },
+    {
+      "text" : "[7]{03}D4:Got the mail from EAGUN",
+      "id" : 60353
+    },
+    {
+      "text" : "[7]{03}D1:After getting DATA ROM at LABO",
+      "id" : 60354
+    },
+    {
+      "text" : "[7]{03}Inc\/Dec Money",
+      "id" : 60355
+    },
+    {
+      "text" : "[7]{03}Inc\/Dec Poké Coupon",
+      "id" : 60356
+    },
+    {
+      "text" : "[7]{03}M4:After handing over DATA ROM to NETT",
+      "id" : 60357
+    },
+    {
+      "text" : "Ｚボタンで録画　ON\/OFF（ＢＢＡ）",
+      "id" : 60358
+    },
+    {
+      "text" : "Ｚボタンで録画　ON\/OFF（ＳＤカード）",
+      "id" : 60359
+    },
+    {
+      "text" : "S2_out_1",
+      "id" : 60360
+    },
+    {
+      "text" : "S2_out_2",
+      "id" : 60361
+    },
+    {
+      "text" : "(S2)",
+      "id" : 60362
+    },
+    {
+      "text" : "S2_hallway_1",
+      "id" : 60363
+    },
+    {
+      "text" : "S2_snatchroom_1",
+      "id" : 60364
+    },
+    {
+      "text" : "S2_bossroom_1",
+      "id" : 60365
+    },
+    {
+      "text" : "Nintendoロゴ",
+      "id" : 60366
+    },
+    {
+      "text" : "PokemonCompanyロゴ",
+      "id" : 60367
+    },
+    {
+      "text" : "ジニアスロゴ",
+      "id" : 60368
+    },
+    {
+      "text" : "バトルデモ",
+      "id" : 60369
+    },
+    {
+      "text" : "オートデモ",
+      "id" : 60370
+    },
+    {
+      "text" : "S2_building_1F_2",
+      "id" : 60371
+    },
+    {
+      "text" : "S2_building_2F_2",
+      "id" : 60372
+    },
+    {
+      "text" : "S2_building_3F_2",
+      "id" : 60373
+    },
+    {
+      "text" : "[7]{03}CARD-E",
+      "id" : 60374
+    },
+    {
+      "text" : "ポケモン交換メニュー",
+      "id" : 60375
+    },
+    {
+      "text" : "コロシアムバトル接続メニュー",
+      "id" : 60376
+    },
+    {
+      "text" : "クーポン交換所ストーリー",
+      "id" : 60377
+    },
+    {
+      "text" : "広報素材１　１対１　２ＯＮ２",
+      "id" : 60378
+    },
+    {
+      "text" : "広報素材２　１対１　２ＯＮ２",
+      "id" : 60379
+    },
+    {
+      "text" : "(S2)エクロ渓谷",
+      "id" : 60380
+    },
+    {
+      "text" : "(S2) エクロ渓谷",
+      "id" : 60381
+    },
+    {
+      "text" : "デバッグセーブ（メモリカード）",
+      "id" : 60382
+    },
+    {
+      "text" : "デバッグセーブ（ＳＤカード）",
+      "id" : 60383
+    },
+    {
+      "text" : "デバッグセーブ（BBA)",
+      "id" : 60384
+    },
+    {
+      "text" : "デバッグロード(メモリカード）",
+      "id" : 60385
+    },
+    {
+      "text" : "デバッグロード(SDカード)",
+      "id" : 60386
+    },
+    {
+      "text" : "デバッグロード(BBA)",
+      "id" : 60387
+    },
+    {
+      "text" : "ＡＩデータエディタ",
+      "id" : 60388
+    },
+    {
+      "text" : "ポケモンをランダム選択",
+      "id" : 60389
+    },
+    {
+      "text" : "同じ弱点のポケモンを避ける",
+      "id" : 60390
+    },
+    {
+      "text" : "キープレーヤーを考慮",
+      "id" : 60391
+    },
+    {
+      "text" : "ポケモン状態を考慮",
+      "id" : 60392
+    },
+    {
+      "text" : "固定行動頻度（未）",
+      "id" : 60393
+    },
+    {
+      "text" : "入れ替え頻度",
+      "id" : 60394
+    },
+    {
+      "text" : "アイテム頻度（未）",
+      "id" : 60395
+    },
+    {
+      "text" : "相手の情報を予想（未）",
+      "id" : 60396
+    },
+    {
+      "text" : "相手の情報を蓄積（未）",
+      "id" : 60397
+    },
+    {
+      "text" : "属性判定",
+      "id" : 60398
+    },
+    {
+      "text" : "属性補正値",
+      "id" : 60399
+    },
+    {
+      "text" : "特性判定",
+      "id" : 60400
+    },
+    {
+      "text" : "残りＨＰ考慮値",
+      "id" : 60401
+    },
+    {
+      "text" : "技ダメージ計算（未）",
+      "id" : 60402
+    },
+    {
+      "text" : "能力カウント最大値",
+      "id" : 60403
+    },
+    {
+      "text" : "能力カウント最小値",
+      "id" : 60404
+    },
+    {
+      "text" : "防御者をランダムで選択",
+      "id" : 60405
+    },
+    {
+      "text" : "技をランダムで選択",
+      "id" : 60406
+    },
+    {
+      "text" : "技初期評価値を考慮（未）",
+      "id" : 60407
+    },
+    {
+      "text" : "役割を考慮",
+      "id" : 60408
+    },
+    {
+      "text" : "技ヒットを考慮（未）",
+      "id" : 60410
+    },
+    {
+      "text" : "命中率考慮値",
+      "id" : 60411
+    },
+    {
+      "text" : "技リスクフラグを考慮",
+      "id" : 60412
+    },
+    {
+      "text" : "残りＰＰ考慮値",
+      "id" : 60413
+    },
+    {
+      "text" : "フリー",
+      "id" : 60414
+    },
+    {
+      "text" : "アタッカー",
+      "id" : 60415
+    },
+    {
+      "text" : "サポーター",
+      "id" : 60416
+    },
+    {
+      "text" : "スペシャリスト",
+      "id" : 60417
+    },
+    {
+      "text" : "キープレーヤーフラグ",
+      "id" : 60418
+    },
+    {
+      "text" : "役割",
+      "id" : 60419
+    },
+    {
+      "text" : "入れ替え行動",
+      "id" : 60420
+    },
+    {
+      "text" : "戻す判定",
+      "id" : 60421
+    },
+    {
+      "text" : "キープレーヤーである",
+      "id" : 60422
+    },
+    {
+      "text" : "残りＨＰが多い",
+      "id" : 60423
+    },
+    {
+      "text" : "キープレーヤーで残りＨＰ低い",
+      "id" : 60424
+    },
+    {
+      "text" : "能力カウントの総和が高い",
+      "id" : 60425
+    },
+    {
+      "text" : "能力カウントの総和が低い",
+      "id" : 60426
+    },
+    {
+      "text" : "出せる技が無い",
+      "id" : 60427
+    },
+    {
+      "text" : "こんらん状態である",
+      "id" : 60428
+    },
+    {
+      "text" : "メロメロ状態である",
+      "id" : 60429
+    },
+    {
+      "text" : "ほろびのうた状態でＨＰ多い",
+      "id" : 60430
+    },
+    {
+      "text" : "しめられ状態である",
+      "id" : 60431
+    },
+    {
+      "text" : "あくむ状態である",
+      "id" : 60432
+    },
+    {
+      "text" : "のろわれ状態である",
+      "id" : 60433
+    },
+    {
+      "text" : "みやぶられ状態である",
+      "id" : 60434
+    },
+    {
+      "text" : "いちゃもん状態である",
+      "id" : 60435
+    },
+    {
+      "text" : "やどられ状態である",
+      "id" : 60436
+    },
+    {
+      "text" : "ロックオン状態である",
+      "id" : 60437
+    },
+    {
+      "text" : "あくび状態である",
+      "id" : 60438
+    },
+    {
+      "text" : "ふういん状態である",
+      "id" : 60439
+    },
+    {
+      "text" : "おんねん状態である",
+      "id" : 60440
+    },
+    {
+      "text" : "かなしばり状態である",
+      "id" : 60441
+    },
+    {
+      "text" : "アンコール状態である",
+      "id" : 60442
+    },
+    {
+      "text" : "ちょうはつ状態である",
+      "id" : 60443
+    },
+    {
+      "text" : "固定行動を発動出来る（未）",
+      "id" : 60444
+    },
+    {
+      "text" : "出す選択",
+      "id" : 60445
+    },
+    {
+      "text" : "好みの属性のポケモン（補）",
+      "id" : 60447
+    },
+    {
+      "text" : "残りＨＰが低い",
+      "id" : 60448
+    },
+    {
+      "text" : "属性の弱点が１番少ない",
+      "id" : 60450
+    },
+    {
+      "text" : "すばやさが１番高い",
+      "id" : 60451
+    },
+    {
+      "text" : "出撃者に相性の良い技を所持",
+      "id" : 60452
+    },
+    {
+      "text" : "出撃者が相性の悪い技を所持",
+      "id" : 60453
+    },
+    {
+      "text" : "味方と属性の弱点が重なる",
+      "id" : 60454
+    },
+    {
+      "text" : "特性いかく",
+      "id" : 60455
+    },
+    {
+      "text" : "特性トレース持ってる",
+      "id" : 60456
+    },
+    {
+      "text" : "特性エアロック持ってる",
+      "id" : 60457
+    },
+    {
+      "text" : "特性ノーてんき持ってる",
+      "id" : 60458
+    },
+    {
+      "text" : "固定行動を発動する（未）",
+      "id" : 60459
+    },
+    {
+      "text" : "技行動",
+      "id" : 60460
+    },
+    {
+      "text" : "防御者選択",
+      "id" : 60461
+    },
+    {
+      "text" : "ＨＰ割合が１番低い",
+      "id" : 60462
+    },
+    {
+      "text" : "レベルが１番低い",
+      "id" : 60463
+    },
+    {
+      "text" : "相手のダメージ値合計が１番高い",
+      "id" : 60464
+    },
+    {
+      "text" : "自分の最大ダメージ値が高い",
+      "id" : 60465
+    },
+    {
+      "text" : "使用技選択",
+      "id" : 60466
+    },
+    {
+      "text" : "ヒットする",
+      "id" : 60467
+    },
+    {
+      "text" : "ヒットしない",
+      "id" : 60468
+    },
+    {
+      "text" : "相手の属性に効果はいまひとつ",
+      "id" : 60469
+    },
+    {
+      "text" : "相手の属性に効果がない",
+      "id" : 60470
+    },
+    {
+      "text" : "役割と技タイプの相性（補）",
+      "id" : 60471
+    },
+    {
+      "text" : "好みの技属性の技（補）",
+      "id" : 60472
+    },
+    {
+      "text" : "好みの技タイプの技（補）",
+      "id" : 60473
+    },
+    {
+      "text" : "ダメージ値が１番高い",
+      "id" : 60474
+    },
+    {
+      "text" : "ダメージ値に無駄が出る",
+      "id" : 60475
+    },
+    {
+      "text" : "ダメージ値で気絶出来る",
+      "id" : 60476
+    },
+    {
+      "text" : "ダメージ値で気絶出来て命中率が１番高い",
+      "id" : 60477
+    },
+    {
+      "text" : "自分の残りＨＰが低い",
+      "id" : 60478
+    },
+    {
+      "text" : "命中率が高い",
+      "id" : 60479
+    },
+    {
+      "text" : "技範囲が２体に当たるで対象が複数いる",
+      "id" : 60480
+    },
+    {
+      "text" : "残りＰＰが低い",
+      "id" : 60481
+    },
+    {
+      "text" : "リスクがある",
+      "id" : 60482
+    },
+    {
+      "text" : "する",
+      "id" : 60483
+    },
+    {
+      "text" : "しない",
+      "id" : 60484
+    },
+    {
+      "text" : "ＡＩ加減算値エディタ",
+      "id" : 60485
+    },
+    {
+      "text" : "アイテム行動",
+      "id" : 60486
+    },
+    {
+      "text" : "固定（コンボ）行動",
+      "id" : 60487
+    },
+    {
+      "text" : "予備１",
+      "id" : 60488
+    },
+    {
+      "text" : "予備２",
+      "id" : 60489
+    },
+    {
+      "text" : "予備３",
+      "id" : 60490
+    },
+    {
+      "text" : "予備４",
+      "id" : 60491
+    },
+    {
+      "text" : "予備５",
+      "id" : 60492
+    },
+    {
+      "text" : "予備６",
+      "id" : 60493
+    },
+    {
+      "text" : "予備７",
+      "id" : 60494
+    },
+    {
+      "text" : "予備８",
+      "id" : 60495
+    },
+    {
+      "text" : "威力技",
+      "id" : 60496
+    },
+    {
+      "text" : "回復技",
+      "id" : 60497
+    },
+    {
+      "text" : "能力変更技",
+      "id" : 60498
+    },
+    {
+      "text" : "ポケモン状態変更技",
+      "id" : 60499
+    },
+    {
+      "text" : "戦場状態変更技",
+      "id" : 60500
+    },
+    {
+      "text" : "守り技",
+      "id" : 60501
+    },
+    {
+      "text" : "一撃必殺技",
+      "id" : 60502
+    },
+    {
+      "text" : "タメ技",
+      "id" : 60503
+    },
+    {
+      "text" : "特殊技",
+      "id" : 60504
+    },
+    {
+      "text" : "非戦闘技",
+      "id" : 60505
+    },
+    {
+      "text" : "手持ちポケモン役割エディタ",
+      "id" : 60506
+    },
+    {
+      "text" : "技タイプ補正値",
+      "id" : 60507
+    },
+    {
+      "text" : "技タイプ",
+      "id" : 60508
+    },
+    {
+      "text" : "リスク技フラグ",
+      "id" : 60509
+    },
+    {
+      "text" : "技エディタ",
+      "id" : 60510
+    },
+    {
+      "text" : "補正値",
+      "id" : 60511
+    },
+    {
+      "text" : "デバッグメニューフラグ",
+      "id" : 60512
+    },
+    {
+      "text" : "ＡＩフロー表示フラグ",
+      "id" : 60513
+    },
+    {
+      "text" : "行動者：[Player Battle 19]\n処理：[13] [14]\n理由：ＡＩデータ\n結果：ランダム選択[Dialogue End]",
+      "id" : 60514
+    },
+    {
+      "text" : "行動者：[Player Battle 19]\n対象者：[Switch Pokemon 20]\n処理：[13] [14]\n理由：[65]\n結果：[Quantity 47][Dialogue End]",
+      "id" : 60515
+    },
+    {
+      "text" : "行動者：[Player Battle 19] [Switch Pokemon 20]\n対象技：[Move 40]\n処理：[13] [14]\n理由：[65]\n結果：[Quantity 47][Dialogue End]",
+      "id" : 60516
+    },
+    {
+      "text" : "行動者：[Player Battle 19] [Switch Pokemon 20]\n対象アイテム：[Item 41]\n処理：[13] [14]\n理由：[65]\n結果：[Quantity 47][Dialogue End]",
+      "id" : 60517
+    },
+    {
+      "text" : "決定",
+      "id" : 60518
+    },
+    {
+      "text" : "行動者：[Player Battle 19]\n処理：[13]\n理由：頻度[Quantity 47]％\n結果：行おうとする[Dialogue End]",
+      "id" : 60519
+    },
+    {
+      "text" : "行動者：[Player Battle 19]\n処理：[13]\n理由：頻度[Quantity 47]％\n結果：行おうとしない[Dialogue End]",
+      "id" : 60520
+    },
+    {
+      "text" : "最終値",
+      "id" : 60521
+    },
+    {
+      "text" : "初期値",
+      "id" : 60522
+    },
+    {
+      "text" : "行動者：[Player Battle 19] [Switch Pokemon 20]\n処理：[13] [14]\n理由：ＡＩデータ\n結果：ランダム選択[Dialogue End]",
+      "id" : 60523
+    },
+    {
+      "text" : "行動者：[Player Battle 19] [Switch Pokemon 20]\n対象者：[Foe Tr Name 35] [Switch Pokemon 21]\n処理：[13] [14]\n理由：[65]\n結果：[Quantity 47][Dialogue End]",
+      "id" : 60524
+    },
+    {
+      "text" : "相手より基本すばやさが低くて残りＨＰが低い",
+      "id" : 60525
+    },
+    {
+      "text" : "装備効果９９％フラグ",
+      "id" : 60526
+    },
+    {
+      "text" : "ゆびをふるで出す技",
+      "id" : 60527
+    },
+    {
+      "text" : "カードＥをテストスワイプする（トレーナー）",
+      "id" : 60528
+    },
+    {
+      "text" : "カードＥをテストスワイプする（コロシアム）",
+      "id" : 60529
+    },
+    {
+      "text" : "カードＥのセーブデータを初期化する",
+      "id" : 60530
+    },
+    {
+      "text" : "カードＥプログラムをカードＥリーダー＋へ転送する",
+      "id" : 60531
+    },
+    {
+      "text" : "Ａメモリ情報のON\/OFF",
+      "id" : 60532
+    },
+    {
+      "text" : "ログウィンドウのON\/OFF",
+      "id" : 60533
+    },
+    {
+      "text" : "DPなし",
+      "id" : 60534
+    },
+    {
+      "text" : "DPマクノシタ",
+      "id" : 60535
+    },
+    {
+      "text" : "DPベイリーフ",
+      "id" : 60536
+    },
+    {
+      "text" : "DPマグマラシ",
+      "id" : 60537
+    },
+    {
+      "text" : "DPアリゲイツ",
+      "id" : 60538
+    },
+    {
+      "text" : "DPヨルノズク",
+      "id" : 60539
+    },
+    {
+      "text" : "DPモココ",
+      "id" : 60540
+    },
+    {
+      "text" : "DPポポッコ",
+      "id" : 60541
+    },
+    {
+      "text" : "DPヌオー",
+      "id" : 60542
+    },
+    {
+      "text" : "DPムウマ",
+      "id" : 60543
+    },
+    {
+      "text" : "DPバネブー",
+      "id" : 60544
+    },
+    {
+      "text" : "DPオオタチ",
+      "id" : 60545
+    },
+    {
+      "text" : "DPマグマッグ",
+      "id" : 60546
+    },
+    {
+      "text" : "DPテッポウオ",
+      "id" : 60547
+    },
+    {
+      "text" : "DPマンタイン",
+      "id" : 60548
+    },
+    {
+      "text" : "DPコダック",
+      "id" : 60549
+    },
+    {
+      "text" : "DPアサナン",
+      "id" : 60550
+    },
+    {
+      "text" : "DPヤジロン",
+      "id" : 60551
+    },
+    {
+      "text" : "DPチルット",
+      "id" : 60552
+    },
+    {
+      "text" : "DPウソッキー",
+      "id" : 60553
+    },
+    {
+      "text" : "DPグラエナ",
+      "id" : 60554
+    },
+    {
+      "text" : "DPエンテイ",
+      "id" : 60555
+    },
+    {
+      "text" : "DPレディアン",
+      "id" : 60556
+    },
+    {
+      "text" : "DPスイクン",
+      "id" : 60557
+    },
+    {
+      "text" : "DPグライガー",
+      "id" : 60558
+    },
+    {
+      "text" : "DPオドシシ",
+      "id" : 60559
+    },
+    {
+      "text" : "DPイノムー",
+      "id" : 60560
+    },
+    {
+      "text" : "DPニューラ",
+      "id" : 60561
+    },
+    {
+      "text" : "DPポワルン",
+      "id" : 60562
+    },
+    {
+      "text" : "DPヤミカラス",
+      "id" : 60563
+    },
+    {
+      "text" : "DPフォレトス",
+      "id" : 60564
+    },
+    {
+      "text" : "DPグランブル",
+      "id" : 60565
+    },
+    {
+      "text" : "DPポリゴン２",
+      "id" : 60566
+    },
+    {
+      "text" : "DPアリアドス",
+      "id" : 60567
+    },
+    {
+      "text" : "DPライコウ",
+      "id" : 60568
+    },
+    {
+      "text" : "DPキノガッサ",
+      "id" : 60569
+    },
+    {
+      "text" : "DPデリバード",
+      "id" : 60570
+    },
+    {
+      "text" : "DPヘラクロス",
+      "id" : 60571
+    },
+    {
+      "text" : "DPエアームド",
+      "id" : 60572
+    },
+    {
+      "text" : "DPミルタンク",
+      "id" : 60573
+    },
+    {
+      "text" : "DPルナトーン",
+      "id" : 60574
+    },
+    {
+      "text" : "DPソルロック",
+      "id" : 60575
+    },
+    {
+      "text" : "DPトロピウス",
+      "id" : 60576
+    },
+    {
+      "text" : "DPメタグロス",
+      "id" : 60577
+    },
+    {
+      "text" : "DPバンギラス",
+      "id" : 60578
+    },
+    {
+      "text" : "DPハリーセン",
+      "id" : 60579
+    },
+    {
+      "text" : "DPノコッチ",
+      "id" : 60580
+    },
+    {
+      "text" : "DPヘルガー",
+      "id" : 60581
+    },
+    {
+      "text" : "DPロゼリア",
+      "id" : 60582
+    },
+    {
+      "text" : "DPヤンヤンマ",
+      "id" : 60583
+    },
+    {
+      "text" : "DPエイパム",
+      "id" : 60584
+    },
+    {
+      "text" : "DPチリ－ン",
+      "id" : 60585
+    },
+    {
+      "text" : "DPマイナン",
+      "id" : 60586
+    },
+    {
+      "text" : "DPキマワリ",
+      "id" : 60587
+    },
+    {
+      "text" : "DPビブラーバ",
+      "id" : 60588
+    },
+    {
+      "text" : "DPマルマイン",
+      "id" : 60589
+    },
+    {
+      "text" : "DPユキワラシ",
+      "id" : 60590
+    },
+    {
+      "text" : "DPツボツボ",
+      "id" : 60591
+    },
+    {
+      "text" : "DPヒメグマ",
+      "id" : 60592
+    },
+    {
+      "text" : "DPカポエラー",
+      "id" : 60593
+    },
+    {
+      "text" : "DPドーブル",
+      "id" : 60594
+    },
+    {
+      "text" : "DPトゲチック",
+      "id" : 60595
+    },
+    {
+      "text" : "DPヘイガニ",
+      "id" : 60596
+    },
+    {
+      "text" : "DPタマザラシ",
+      "id" : 60597
+    },
+    {
+      "text" : "DPサンドパン",
+      "id" : 60598
+    },
+    {
+      "text" : "DPコイキング",
+      "id" : 60599
+    },
+    {
+      "text" : "DPカクレオン",
+      "id" : 60600
+    },
+    {
+      "text" : "DPエクストラ1",
+      "id" : 60601
+    },
+    {
+      "text" : "DPエクストラ2",
+      "id" : 60602
+    },
+    {
+      "text" : "DPエクストラ3",
+      "id" : 60603
+    },
+    {
+      "text" : "DPエクストラ4",
+      "id" : 60604
+    },
+    {
+      "text" : "DPエクストラ5",
+      "id" : 60605
+    },
+    {
+      "text" : "DPエクストラ6",
+      "id" : 60606
+    },
+    {
+      "text" : "DPエクストラ7",
+      "id" : 60607
+    },
+    {
+      "text" : "DPエクストラ8",
+      "id" : 60608
+    },
+    {
+      "text" : "DPエクストラ9",
+      "id" : 60609
+    },
+    {
+      "text" : "DPエクストラ10",
+      "id" : 60610
+    },
+    {
+      "text" : "DPエクストラ11",
+      "id" : 60611
+    },
+    {
+      "text" : "DPエクストラ12",
+      "id" : 60612
+    },
+    {
+      "text" : "DPエクストラ13",
+      "id" : 60613
+    },
+    {
+      "text" : "DPエクストラ14",
+      "id" : 60614
+    },
+    {
+      "text" : "DPエクストラ15",
+      "id" : 60615
+    },
+    {
+      "text" : "DPエクストラ16",
+      "id" : 60616
+    },
+    {
+      "text" : "DPエクストラ17",
+      "id" : 60617
+    },
+    {
+      "text" : "DPエクストラ18",
+      "id" : 60618
+    },
+    {
+      "text" : "DPエクストラ19",
+      "id" : 60619
+    },
+    {
+      "text" : "DPエクストラ20",
+      "id" : 60620
+    },
+    {
+      "text" : "DPエクストラ21",
+      "id" : 60621
+    },
+    {
+      "text" : "DPエクストラ22",
+      "id" : 60622
+    },
+    {
+      "text" : "DPエクストラ23",
+      "id" : 60623
+    },
+    {
+      "text" : "DPエクストラ24",
+      "id" : 60624
+    },
+    {
+      "text" : "DPエクストラ25",
+      "id" : 60625
+    },
+    {
+      "text" : "DPエクストラ26",
+      "id" : 60626
+    },
+    {
+      "text" : "DPエクストラ27",
+      "id" : 60627
+    },
+    {
+      "text" : "DPエクストラ28",
+      "id" : 60628
+    },
+    {
+      "text" : "DPエクストラ29",
+      "id" : 60629
+    },
+    {
+      "text" : "ＤＰ",
+      "id" : 60630
+    },
+    {
+      "text" : "保存経験値",
+      "id" : 60631
+    },
+    {
+      "text" : "保存なつき度",
+      "id" : 60632
+    },
+    {
+      "text" : "ダークポケモン",
+      "id" : 60633
+    },
+    {
+      "text" : "ダーク状態",
+      "id" : 60634
+    },
+    {
+      "text" : "ハイパーモード",
+      "id" : 60635
+    },
+    {
+      "text" : "[7]{03}FIELD CAMERA",
+      "id" : 60636
+    },
+    {
+      "text" : "フィールドカメラ Edit Floor",
+      "id" : 60637
+    },
+    {
+      "text" : "フィールドカメラ Display ON\/OFF",
+      "id" : 60638
+    },
+    {
+      "text" : "[7]{03}M1:After meeting Mayor",
+      "id" : 60639
+    },
+    {
+      "text" : "DPアブソル",
+      "id" : 60640
+    },
+    {
+      "text" : "DPナマズン",
+      "id" : 60641
+    },
+    {
+      "text" : "DPネイティオ",
+      "id" : 60642
+    },
+    {
+      "text" : "DPソーナンス",
+      "id" : 60643
+    },
+    {
+      "text" : "DPホエルコ",
+      "id" : 60644
+    },
+    {
+      "text" : "テスト草",
+      "id" : 60645
+    },
+    {
+      "text" : "テスト砂",
+      "id" : 60646
+    },
+    {
+      "text" : "テスト部屋",
+      "id" : 60647
+    },
+    {
+      "text" : "カードＥ",
+      "id" : 60648
+    },
+    {
+      "text" : "レストラン外",
+      "id" : 60649
+    },
+    {
+      "text" : "カードＥ戦闘１",
+      "id" : 60650
+    },
+    {
+      "text" : "カードＥ戦闘２",
+      "id" : 60651
+    },
+    {
+      "text" : "シナリオ戦闘　ウイリー1",
+      "id" : 60652
+    },
+    {
+      "text" : "テスト対戦",
+      "id" : 60653
+    },
+    {
+      "text" : "シナリオ対戦",
+      "id" : 60654
+    },
+    {
+      "text" : "シナリオボス対戦",
+      "id" : 60655
+    },
+    {
+      "text" : "ツール対戦",
+      "id" : 60656
+    },
+    {
+      "text" : "通信対戦",
+      "id" : 60657
+    },
+    {
+      "text" : "カードＥ対戦",
+      "id" : 60658
+    },
+    {
+      "text" : "１対１参加６匹１匹対１匹",
+      "id" : 60659
+    },
+    {
+      "text" : "１対１参加６匹２匹対２匹",
+      "id" : 60660
+    },
+    {
+      "text" : "２対２参加６匹２匹対２匹",
+      "id" : 60661
+    },
+    {
+      "text" : "１対１参加３匹１匹対１匹",
+      "id" : 60662
+    },
+    {
+      "text" : "１対１参加４匹２匹対２匹",
+      "id" : 60663
+    },
+    {
+      "text" : "２対２参加３匹２匹対２匹",
+      "id" : 60664
+    },
+    {
+      "text" : "戦闘種別　　　　",
+      "id" : 60665
+    },
+    {
+      "text" : "戦闘形式　　　　",
+      "id" : 60666
+    },
+    {
+      "text" : "戦闘フロア　　　",
+      "id" : 60667
+    },
+    {
+      "text" : "戦闘トレーナー１",
+      "id" : 60668
+    },
+    {
+      "text" : "戦闘トレーナー２",
+      "id" : 60669
+    },
+    {
+      "text" : "戦闘トレーナー３",
+      "id" : 60670
+    },
+    {
+      "text" : "戦闘トレーナー４",
+      "id" : 60671
+    },
+    {
+      "text" : "ＧＣ主人公男",
+      "id" : 60672
+    },
+    {
+      "text" : "ＧＢＡ主人公男",
+      "id" : 60673
+    },
+    {
+      "text" : "ＧＢＡ主人公女",
+      "id" : 60674
+    },
+    {
+      "text" : "カードＥトレーナー",
+      "id" : 60675
+    },
+    {
+      "text" : "コントローラなし",
+      "id" : 60676
+    },
+    {
+      "text" : "コントローラ１",
+      "id" : 60677
+    },
+    {
+      "text" : "コントローラ２",
+      "id" : 60678
+    },
+    {
+      "text" : "コントローラ３",
+      "id" : 60679
+    },
+    {
+      "text" : "コントローラ４",
+      "id" : 60680
+    },
+    {
+      "text" : "強化技",
+      "id" : 60681
+    },
+    {
+      "text" : "キー",
+      "id" : 60682
+    },
+    {
+      "text" : "エース",
+      "id" : 60683
+    },
+    {
+      "text" : "ボス",
+      "id" : 60684
+    },
+    {
+      "text" : "追加ポケモン",
+      "id" : 60685
+    },
+    {
+      "text" : "送信可能なメールをすべて送信",
+      "id" : 60686
+    },
+    {
+      "text" : "[7]{03}Rescue Heroine",
+      "id" : 60687
+    },
+    {
+      "text" : "[7]{03}M1:TEAM SNAGEM's attack",
+      "id" : 60688
+    },
+    {
+      "text" : "[7]{03}M1:Before meeting Mayor",
+      "id" : 60689
+    },
+    {
+      "text" : "[7]{03}M1:Before meeting MIROR B.",
+      "id" : 60690
+    },
+    {
+      "text" : "[7]{03}M2:First visiting to PYRITE TOWN",
+      "id" : 60691
+    },
+    {
+      "text" : "[7]{03}M2:After colliding with JOHNSON",
+      "id" : 60692
+    },
+    {
+      "text" : "テスト　１対１　２ＯＮ２",
+      "id" : 60693
+    },
+    {
+      "text" : "Waza Selection",
+      "id" : 60694
+    },
+    {
+      "text" : "Pokemon Motion",
+      "id" : 60695
+    },
+    {
+      "text" : "シナリオマップ上一般対戦",
+      "id" : 60696
+    },
+    {
+      "text" : "シナリオマップ上ボス対戦",
+      "id" : 60697
+    },
+    {
+      "text" : "シナリオコロシアム1～3人目対戦",
+      "id" : 60698
+    },
+    {
+      "text" : "シナリオコロシアムボス対戦",
+      "id" : 60699
+    },
+    {
+      "text" : "シナリオコロシアムフェナス1～3人目対戦",
+      "id" : 60700
+    },
+    {
+      "text" : "シナリオコロシアムフェナスボス対戦",
+      "id" : 60701
+    },
+    {
+      "text" : "シナリオバトル山100人抜き1～99人目対戦",
+      "id" : 60702
+    },
+    {
+      "text" : "シナリオバトル山100人抜き100人目対戦",
+      "id" : 60703
+    },
+    {
+      "text" : "シナリオカードeマトリックス戦ザコ対戦",
+      "id" : 60704
+    },
+    {
+      "text" : "シナリオカードeマトリックス戦ＳＰ対戦",
+      "id" : 60705
+    },
+    {
+      "text" : "シナリオカードe連続バトル対戦",
+      "id" : 60706
+    },
+    {
+      "text" : "対戦とにかくバトル",
+      "id" : 60707
+    },
+    {
+      "text" : "対戦ひとりで遊ぶコロシアム1～7人目",
+      "id" : 60708
+    },
+    {
+      "text" : "対戦一人で遊ぶコロシアムボス対戦",
+      "id" : 60709
+    },
+    {
+      "text" : "対戦一人で遊ぶ100人抜き1～99人目",
+      "id" : 60710
+    },
+    {
+      "text" : "対戦一人で遊ぶ100人抜き100人目",
+      "id" : 60711
+    },
+    {
+      "text" : "対戦通信",
+      "id" : 60712
+    },
+    {
+      "text" : "ウィリー1",
+      "id" : 60713
+    },
+    {
+      "text" : "ウィリー2",
+      "id" : 60714
+    },
+    {
+      "text" : "ヘボイ1",
+      "id" : 60715
+    },
+    {
+      "text" : "ヘボイ2",
+      "id" : 60716
+    },
+    {
+      "text" : "ヘボイ3",
+      "id" : 60717
+    },
+    {
+      "text" : "トロイ1",
+      "id" : 60718
+    },
+    {
+      "text" : "トロイ2",
+      "id" : 60719
+    },
+    {
+      "text" : "トロイ3",
+      "id" : 60720
+    },
+    {
+      "text" : "ランドー",
+      "id" : 60721
+    },
+    {
+      "text" : "マイキー",
+      "id" : 60722
+    },
+    {
+      "text" : "プランツ",
+      "id" : 60723
+    },
+    {
+      "text" : "マリン",
+      "id" : 60724
+    },
+    {
+      "text" : "トラビス",
+      "id" : 60725
+    },
+    {
+      "text" : "シンディ",
+      "id" : 60726
+    },
+    {
+      "text" : "ヤッチーノ",
+      "id" : 60727
+    },
+    {
+      "text" : "ベルデ1",
+      "id" : 60728
+    },
+    {
+      "text" : "ベルデ2",
+      "id" : 60729
+    },
+    {
+      "text" : "ベルデ3",
+      "id" : 60730
+    },
+    {
+      "text" : "ロッソ1",
+      "id" : 60731
+    },
+    {
+      "text" : "ロッソ2",
+      "id" : 60732
+    },
+    {
+      "text" : "ロッソ3",
+      "id" : 60733
+    },
+    {
+      "text" : "ブルーノ1",
+      "id" : 60734
+    },
+    {
+      "text" : "ブルーノ2",
+      "id" : 60735
+    },
+    {
+      "text" : "ブルーノ3",
+      "id" : 60736
+    },
+    {
+      "text" : "セイヤ",
+      "id" : 60737
+    },
+    {
+      "text" : "M1セット1_1人目",
+      "id" : 60738
+    },
+    {
+      "text" : "M1セット1_2人目",
+      "id" : 60739
+    },
+    {
+      "text" : "M1セット1_3人目",
+      "id" : 60740
+    },
+    {
+      "text" : "M1セット1_4人目",
+      "id" : 60741
+    },
+    {
+      "text" : "M1セット2_1人目",
+      "id" : 60742
+    },
+    {
+      "text" : "M1セット2_2人目",
+      "id" : 60743
+    },
+    {
+      "text" : "M1セット2_3人目",
+      "id" : 60744
+    },
+    {
+      "text" : "M1セット2_4人目",
+      "id" : 60745
+    },
+    {
+      "text" : "M1セット3_1人目",
+      "id" : 60746
+    },
+    {
+      "text" : "M1セット3_2人目",
+      "id" : 60747
+    },
+    {
+      "text" : "M1セット3_3人目",
+      "id" : 60748
+    },
+    {
+      "text" : "M1セット3_4人目",
+      "id" : 60749
+    },
+    {
+      "text" : "M1セット4_1人目",
+      "id" : 60750
+    },
+    {
+      "text" : "M1セット4_2人目",
+      "id" : 60751
+    },
+    {
+      "text" : "M1セット4_3人目",
+      "id" : 60752
+    },
+    {
+      "text" : "M1セット4_4人目",
+      "id" : 60753
+    },
+    {
+      "text" : "ラルゴ1",
+      "id" : 60754
+    },
+    {
+      "text" : "ラルゴ2",
+      "id" : 60755
+    },
+    {
+      "text" : "ラルゴ3",
+      "id" : 60756
+    },
+    {
+      "text" : "アージェ1",
+      "id" : 60757
+    },
+    {
+      "text" : "アージェ2",
+      "id" : 60758
+    },
+    {
+      "text" : "アージェ3",
+      "id" : 60759
+    },
+    {
+      "text" : "バップ1",
+      "id" : 60760
+    },
+    {
+      "text" : "バップ2",
+      "id" : 60761
+    },
+    {
+      "text" : "バップ3",
+      "id" : 60762
+    },
+    {
+      "text" : "バップ4",
+      "id" : 60763
+    },
+    {
+      "text" : "バップ5",
+      "id" : 60764
+    },
+    {
+      "text" : "バップ6",
+      "id" : 60765
+    },
+    {
+      "text" : "チェレス1",
+      "id" : 60766
+    },
+    {
+      "text" : "チェレス2",
+      "id" : 60767
+    },
+    {
+      "text" : "チェレス3",
+      "id" : 60768
+    },
+    {
+      "text" : "チェレス4",
+      "id" : 60769
+    },
+    {
+      "text" : "チェレス5",
+      "id" : 60770
+    },
+    {
+      "text" : "チェレス6",
+      "id" : 60771
+    },
+    {
+      "text" : "ラプソ1",
+      "id" : 60772
+    },
+    {
+      "text" : "ラプソ2",
+      "id" : 60773
+    },
+    {
+      "text" : "ラプソ3",
+      "id" : 60774
+    },
+    {
+      "text" : "ラプソ4",
+      "id" : 60775
+    },
+    {
+      "text" : "ラプソ5",
+      "id" : 60776
+    },
+    {
+      "text" : "ラプソ6",
+      "id" : 60777
+    },
+    {
+      "text" : "ビック1",
+      "id" : 60778
+    },
+    {
+      "text" : "ビック2",
+      "id" : 60779
+    },
+    {
+      "text" : "ビック3",
+      "id" : 60780
+    },
+    {
+      "text" : "ビック4",
+      "id" : 60781
+    },
+    {
+      "text" : "ビック5",
+      "id" : 60782
+    },
+    {
+      "text" : "ビック6",
+      "id" : 60783
+    },
+    {
+      "text" : "セニョ1",
+      "id" : 60784
+    },
+    {
+      "text" : "セニョ2",
+      "id" : 60785
+    },
+    {
+      "text" : "セニョ3",
+      "id" : 60786
+    },
+    {
+      "text" : "セニョ4",
+      "id" : 60787
+    },
+    {
+      "text" : "セニョ5",
+      "id" : 60788
+    },
+    {
+      "text" : "セニョ6",
+      "id" : 60789
+    },
+    {
+      "text" : "トオン1",
+      "id" : 60790
+    },
+    {
+      "text" : "トオン2",
+      "id" : 60791
+    },
+    {
+      "text" : "トオン3",
+      "id" : 60792
+    },
+    {
+      "text" : "トオン4",
+      "id" : 60793
+    },
+    {
+      "text" : "トオン5",
+      "id" : 60794
+    },
+    {
+      "text" : "トオン6",
+      "id" : 60795
+    },
+    {
+      "text" : "マサ1",
+      "id" : 60796
+    },
+    {
+      "text" : "マサ2",
+      "id" : 60797
+    },
+    {
+      "text" : "マサ3",
+      "id" : 60798
+    },
+    {
+      "text" : "マサ4",
+      "id" : 60799
+    },
+    {
+      "text" : "マサ5",
+      "id" : 60800
+    },
+    {
+      "text" : "マサ6",
+      "id" : 60801
+    },
+    {
+      "text" : "ワイルド1",
+      "id" : 60802
+    },
+    {
+      "text" : "ワイルド2",
+      "id" : 60803
+    },
+    {
+      "text" : "ワイルド3",
+      "id" : 60804
+    },
+    {
+      "text" : "ワイルド4",
+      "id" : 60805
+    },
+    {
+      "text" : "ワイルド5",
+      "id" : 60806
+    },
+    {
+      "text" : "モニ1",
+      "id" : 60807
+    },
+    {
+      "text" : "モニ2",
+      "id" : 60808
+    },
+    {
+      "text" : "デクレ1",
+      "id" : 60809
+    },
+    {
+      "text" : "デクレ2",
+      "id" : 60810
+    },
+    {
+      "text" : "リスト1",
+      "id" : 60811
+    },
+    {
+      "text" : "リスト2",
+      "id" : 60812
+    },
+    {
+      "text" : "３０５ハンター男１",
+      "id" : 60813
+    },
+    {
+      "text" : "３０５ハンター男２",
+      "id" : 60814
+    },
+    {
+      "text" : "ベン1",
+      "id" : 60815
+    },
+    {
+      "text" : "ベン2",
+      "id" : 60816
+    },
+    {
+      "text" : "モルツ1",
+      "id" : 60817
+    },
+    {
+      "text" : "モルツ2",
+      "id" : 60818
+    },
+    {
+      "text" : "ヒップ1",
+      "id" : 60819
+    },
+    {
+      "text" : "ヒップ2",
+      "id" : 60820
+    },
+    {
+      "text" : "ビット1",
+      "id" : 60821
+    },
+    {
+      "text" : "ビット2",
+      "id" : 60822
+    },
+    {
+      "text" : "ユロ1",
+      "id" : 60823
+    },
+    {
+      "text" : "ユロ2",
+      "id" : 60824
+    },
+    {
+      "text" : "ホップ1",
+      "id" : 60825
+    },
+    {
+      "text" : "ホップ2",
+      "id" : 60826
+    },
+    {
+      "text" : "ブレス1",
+      "id" : 60827
+    },
+    {
+      "text" : "ブレス2",
+      "id" : 60828
+    },
+    {
+      "text" : "ブレス3",
+      "id" : 60829
+    },
+    {
+      "text" : "スーラ1",
+      "id" : 60830
+    },
+    {
+      "text" : "スーラ2",
+      "id" : 60831
+    },
+    {
+      "text" : "スーラ3",
+      "id" : 60832
+    },
+    {
+      "text" : "タンカ1",
+      "id" : 60833
+    },
+    {
+      "text" : "タンカ2",
+      "id" : 60834
+    },
+    {
+      "text" : "タンカ3",
+      "id" : 60835
+    },
+    {
+      "text" : "スタック1",
+      "id" : 60836
+    },
+    {
+      "text" : "スタック2",
+      "id" : 60837
+    },
+    {
+      "text" : "ビブ1",
+      "id" : 60838
+    },
+    {
+      "text" : "ビブ2",
+      "id" : 60839
+    },
+    {
+      "text" : "フェルマ1",
+      "id" : 60840
+    },
+    {
+      "text" : "フェルマ2",
+      "id" : 60841
+    },
+    {
+      "text" : "リード1",
+      "id" : 60842
+    },
+    {
+      "text" : "リード2",
+      "id" : 60843
+    },
+    {
+      "text" : "リード3",
+      "id" : 60844
+    },
+    {
+      "text" : "ビバル1",
+      "id" : 60845
+    },
+    {
+      "text" : "ビバル2",
+      "id" : 60846
+    },
+    {
+      "text" : "ストラ1",
+      "id" : 60847
+    },
+    {
+      "text" : "ストラ2",
+      "id" : 60848
+    },
+    {
+      "text" : "アレク1",
+      "id" : 60849
+    },
+    {
+      "text" : "アレク2",
+      "id" : 60850
+    },
+    {
+      "text" : "レガト1",
+      "id" : 60851
+    },
+    {
+      "text" : "レガト2",
+      "id" : 60852
+    },
+    {
+      "text" : "トレモ1",
+      "id" : 60853
+    },
+    {
+      "text" : "トレモ2",
+      "id" : 60854
+    },
+    {
+      "text" : "トレモ3",
+      "id" : 60855
+    },
+    {
+      "text" : "ナチュラ1",
+      "id" : 60856
+    },
+    {
+      "text" : "ナチュラ2",
+      "id" : 60857
+    },
+    {
+      "text" : "ナチュラ3",
+      "id" : 60858
+    },
+    {
+      "text" : "ハモニ1",
+      "id" : 60859
+    },
+    {
+      "text" : "ハモニ2",
+      "id" : 60860
+    },
+    {
+      "text" : "スーザ1",
+      "id" : 60861
+    },
+    {
+      "text" : "スーザ2",
+      "id" : 60862
+    },
+    {
+      "text" : "ソット1",
+      "id" : 60863
+    },
+    {
+      "text" : "ソット2",
+      "id" : 60864
+    },
+    {
+      "text" : "ミラーボ1",
+      "id" : 60865
+    },
+    {
+      "text" : "ミラーボ2",
+      "id" : 60866
+    },
+    {
+      "text" : "ミラーボ3",
+      "id" : 60867
+    },
+    {
+      "text" : "ミラーボ4",
+      "id" : 60868
+    },
+    {
+      "text" : "ミラーボ5",
+      "id" : 60869
+    },
+    {
+      "text" : "M2勝ち抜き１人目",
+      "id" : 60870
+    },
+    {
+      "text" : "M2勝ち抜き２人目",
+      "id" : 60871
+    },
+    {
+      "text" : "M2勝ち抜き３人目",
+      "id" : 60872
+    },
+    {
+      "text" : "M2勝ち抜き４人目",
+      "id" : 60873
+    },
+    {
+      "text" : "M2セット1_1人目",
+      "id" : 60874
+    },
+    {
+      "text" : "M2セット1_2人目",
+      "id" : 60875
+    },
+    {
+      "text" : "M2セット1_3人目",
+      "id" : 60876
+    },
+    {
+      "text" : "M2セット1_4人目",
+      "id" : 60877
+    },
+    {
+      "text" : "M2セット2_1人目",
+      "id" : 60878
+    },
+    {
+      "text" : "M2セット2_2人目",
+      "id" : 60879
+    },
+    {
+      "text" : "M2セット2_3人目",
+      "id" : 60880
+    },
+    {
+      "text" : "M2セット2_4人目",
+      "id" : 60881
+    },
+    {
+      "text" : "M2セット3_1人目",
+      "id" : 60882
+    },
+    {
+      "text" : "M2セット3_2人目",
+      "id" : 60883
+    },
+    {
+      "text" : "M2セット3_3人目",
+      "id" : 60884
+    },
+    {
+      "text" : "M2セット3_4人目",
+      "id" : 60885
+    },
+    {
+      "text" : "M2セット4_1人目",
+      "id" : 60886
+    },
+    {
+      "text" : "M2セット4_2人目",
+      "id" : 60887
+    },
+    {
+      "text" : "M2セット4_3人目",
+      "id" : 60888
+    },
+    {
+      "text" : "M2セット4_4人目",
+      "id" : 60889
+    },
+    {
+      "text" : "M2セット5_1人目",
+      "id" : 60890
+    },
+    {
+      "text" : "M2セット5_2人目",
+      "id" : 60891
+    },
+    {
+      "text" : "M2セット5_3人目",
+      "id" : 60892
+    },
+    {
+      "text" : "M2セット5_4人目",
+      "id" : 60893
+    },
+    {
+      "text" : "オルド1",
+      "id" : 60894
+    },
+    {
+      "text" : "オルド2",
+      "id" : 60895
+    },
+    {
+      "text" : "ハミル",
+      "id" : 60896
+    },
+    {
+      "text" : "ダイン",
+      "id" : 60897
+    },
+    {
+      "text" : "ファミ",
+      "id" : 60898
+    },
+    {
+      "text" : "コワップ1",
+      "id" : 60899
+    },
+    {
+      "text" : "コワップ2",
+      "id" : 60900
+    },
+    {
+      "text" : "コワップ3",
+      "id" : 60901
+    },
+    {
+      "text" : "コワップ4",
+      "id" : 60902
+    },
+    {
+      "text" : "コワップ5",
+      "id" : 60903
+    },
+    {
+      "text" : "タカト",
+      "id" : 60904
+    },
+    {
+      "text" : "ボブ",
+      "id" : 60905
+    },
+    {
+      "text" : "ダン",
+      "id" : 60906
+    },
+    {
+      "text" : "キャシー",
+      "id" : 60907
+    },
+    {
+      "text" : "サップ",
+      "id" : 60908
+    },
+    {
+      "text" : "マリ",
+      "id" : 60909
+    },
+    {
+      "text" : "ルウ",
+      "id" : 60910
+    },
+    {
+      "text" : "ヤブン",
+      "id" : 60911
+    },
+    {
+      "text" : "ミサ",
+      "id" : 60912
+    },
+    {
+      "text" : "エージ",
+      "id" : 60913
+    },
+    {
+      "text" : "ダキム1",
+      "id" : 60914
+    },
+    {
+      "text" : "ダキム2",
+      "id" : 60915
+    },
+    {
+      "text" : "ダキム3",
+      "id" : 60916
+    },
+    {
+      "text" : "ダキム4",
+      "id" : 60917
+    },
+    {
+      "text" : "ダキム5",
+      "id" : 60918
+    },
+    {
+      "text" : "レイ1",
+      "id" : 60919
+    },
+    {
+      "text" : "レイ2",
+      "id" : 60920
+    },
+    {
+      "text" : "D2_1人目",
+      "id" : 60921
+    },
+    {
+      "text" : "D2_2人目",
+      "id" : 60922
+    },
+    {
+      "text" : "D2_3人目",
+      "id" : 60923
+    },
+    {
+      "text" : "D2_4人目",
+      "id" : 60924
+    },
+    {
+      "text" : "D2_5人目",
+      "id" : 60925
+    },
+    {
+      "text" : "D2_6人目",
+      "id" : 60926
+    },
+    {
+      "text" : "D2_7人目",
+      "id" : 60927
+    },
+    {
+      "text" : "D2_8人目",
+      "id" : 60928
+    },
+    {
+      "text" : "D2_9人目",
+      "id" : 60929
+    },
+    {
+      "text" : "D2_10人目",
+      "id" : 60930
+    },
+    {
+      "text" : "D2_11人目",
+      "id" : 60931
+    },
+    {
+      "text" : "D2_12人目",
+      "id" : 60932
+    },
+    {
+      "text" : "D2_13人目",
+      "id" : 60933
+    },
+    {
+      "text" : "D2_14人目",
+      "id" : 60934
+    },
+    {
+      "text" : "D2_15人目",
+      "id" : 60935
+    },
+    {
+      "text" : "D2_16人目",
+      "id" : 60936
+    },
+    {
+      "text" : "D2_17人目",
+      "id" : 60937
+    },
+    {
+      "text" : "D2_18人目",
+      "id" : 60938
+    },
+    {
+      "text" : "D2_19人目",
+      "id" : 60939
+    },
+    {
+      "text" : "D2_20人目",
+      "id" : 60940
+    },
+    {
+      "text" : "D2_21人目",
+      "id" : 60941
+    },
+    {
+      "text" : "D2_22人目",
+      "id" : 60942
+    },
+    {
+      "text" : "D2_23人目",
+      "id" : 60943
+    },
+    {
+      "text" : "D2_24人目",
+      "id" : 60944
+    },
+    {
+      "text" : "D2_25人目",
+      "id" : 60945
+    },
+    {
+      "text" : "D2_26人目",
+      "id" : 60946
+    },
+    {
+      "text" : "D2_27人目",
+      "id" : 60947
+    },
+    {
+      "text" : "D2_28人目",
+      "id" : 60948
+    },
+    {
+      "text" : "D2_29人目",
+      "id" : 60949
+    },
+    {
+      "text" : "D2_30人目",
+      "id" : 60950
+    },
+    {
+      "text" : "D2_31人目",
+      "id" : 60951
+    },
+    {
+      "text" : "D2_32人目",
+      "id" : 60952
+    },
+    {
+      "text" : "D2_33人目",
+      "id" : 60953
+    },
+    {
+      "text" : "D2_34人目",
+      "id" : 60954
+    },
+    {
+      "text" : "D2_35人目",
+      "id" : 60955
+    },
+    {
+      "text" : "D2_36人目",
+      "id" : 60956
+    },
+    {
+      "text" : "D2_37人目",
+      "id" : 60957
+    },
+    {
+      "text" : "D2_38人目",
+      "id" : 60958
+    },
+    {
+      "text" : "D2_39人目",
+      "id" : 60959
+    },
+    {
+      "text" : "D2_40人目",
+      "id" : 60960
+    },
+    {
+      "text" : "D2_41人目",
+      "id" : 60961
+    },
+    {
+      "text" : "D2_42人目",
+      "id" : 60962
+    },
+    {
+      "text" : "D2_43人目",
+      "id" : 60963
+    },
+    {
+      "text" : "D2_44人目",
+      "id" : 60964
+    },
+    {
+      "text" : "D2_45人目",
+      "id" : 60965
+    },
+    {
+      "text" : "D2_46人目",
+      "id" : 60966
+    },
+    {
+      "text" : "D2_47人目",
+      "id" : 60967
+    },
+    {
+      "text" : "D2_48人目",
+      "id" : 60968
+    },
+    {
+      "text" : "D2_49人目",
+      "id" : 60969
+    },
+    {
+      "text" : "D2_50人目",
+      "id" : 60970
+    },
+    {
+      "text" : "D2_51人目",
+      "id" : 60971
+    },
+    {
+      "text" : "D2_52人目",
+      "id" : 60972
+    },
+    {
+      "text" : "D2_53人目",
+      "id" : 60973
+    },
+    {
+      "text" : "D2_54人目",
+      "id" : 60974
+    },
+    {
+      "text" : "D2_55人目",
+      "id" : 60975
+    },
+    {
+      "text" : "D2_56人目",
+      "id" : 60976
+    },
+    {
+      "text" : "D2_57人目",
+      "id" : 60977
+    },
+    {
+      "text" : "D2_58人目",
+      "id" : 60978
+    },
+    {
+      "text" : "D2_59人目",
+      "id" : 60979
+    },
+    {
+      "text" : "D2_60人目",
+      "id" : 60980
+    },
+    {
+      "text" : "D2_61人目",
+      "id" : 60981
+    },
+    {
+      "text" : "D2_62人目",
+      "id" : 60982
+    },
+    {
+      "text" : "D2_63人目",
+      "id" : 60983
+    },
+    {
+      "text" : "D2_64人目",
+      "id" : 60984
+    },
+    {
+      "text" : "D2_65人目",
+      "id" : 60985
+    },
+    {
+      "text" : "D2_66人目",
+      "id" : 60986
+    },
+    {
+      "text" : "D2_67人目",
+      "id" : 60987
+    },
+    {
+      "text" : "D2_68人目",
+      "id" : 60988
+    },
+    {
+      "text" : "D2_69人目",
+      "id" : 60989
+    },
+    {
+      "text" : "D2_70人目",
+      "id" : 60990
+    },
+    {
+      "text" : "D2_71人目",
+      "id" : 60991
+    },
+    {
+      "text" : "D2_72人目",
+      "id" : 60992
+    },
+    {
+      "text" : "D2_73人目",
+      "id" : 60993
+    },
+    {
+      "text" : "D2_74人目",
+      "id" : 60994
+    },
+    {
+      "text" : "D2_75人目",
+      "id" : 60995
+    },
+    {
+      "text" : "D2_76人目",
+      "id" : 60996
+    },
+    {
+      "text" : "D2_77人目",
+      "id" : 60997
+    },
+    {
+      "text" : "D2_78人目",
+      "id" : 60998
+    },
+    {
+      "text" : "D2_79人目",
+      "id" : 60999
+    },
+    {
+      "text" : "D2_80人目",
+      "id" : 61000
+    },
+    {
+      "text" : "D2_81人目",
+      "id" : 61001
+    },
+    {
+      "text" : "D2_82人目",
+      "id" : 61002
+    },
+    {
+      "text" : "D2_83人目",
+      "id" : 61003
+    },
+    {
+      "text" : "D2_84人目",
+      "id" : 61004
+    },
+    {
+      "text" : "D2_85人目",
+      "id" : 61005
+    },
+    {
+      "text" : "D2_86人目",
+      "id" : 61006
+    },
+    {
+      "text" : "D2_87人目",
+      "id" : 61007
+    },
+    {
+      "text" : "D2_88人目",
+      "id" : 61008
+    },
+    {
+      "text" : "D2_89人目",
+      "id" : 61009
+    },
+    {
+      "text" : "D2_90人目",
+      "id" : 61010
+    },
+    {
+      "text" : "D2_91人目",
+      "id" : 61011
+    },
+    {
+      "text" : "D2_92人目",
+      "id" : 61012
+    },
+    {
+      "text" : "D2_93人目",
+      "id" : 61013
+    },
+    {
+      "text" : "D2_94人目",
+      "id" : 61014
+    },
+    {
+      "text" : "D2_95人目",
+      "id" : 61015
+    },
+    {
+      "text" : "D2_96人目",
+      "id" : 61016
+    },
+    {
+      "text" : "D2_97人目",
+      "id" : 61017
+    },
+    {
+      "text" : "D2_98人目",
+      "id" : 61018
+    },
+    {
+      "text" : "D2_99人目",
+      "id" : 61019
+    },
+    {
+      "text" : "D2_100人目",
+      "id" : 61020
+    },
+    {
+      "text" : "サイズ",
+      "id" : 61021
+    },
+    {
+      "text" : "ザコル1",
+      "id" : 61022
+    },
+    {
+      "text" : "ザコル2",
+      "id" : 61023
+    },
+    {
+      "text" : "ザコル3",
+      "id" : 61024
+    },
+    {
+      "text" : "コルガ1",
+      "id" : 61025
+    },
+    {
+      "text" : "コルガ2",
+      "id" : 61026
+    },
+    {
+      "text" : "コルガ3",
+      "id" : 61027
+    },
+    {
+      "text" : "イガロ",
+      "id" : 61028
+    },
+    {
+      "text" : "ヴィーナス1",
+      "id" : 61029
+    },
+    {
+      "text" : "ヴィーナス2",
+      "id" : 61030
+    },
+    {
+      "text" : "ヴィーナス3",
+      "id" : 61031
+    },
+    {
+      "text" : "ヴィーナス4",
+      "id" : 61032
+    },
+    {
+      "text" : "ヴィーナス5",
+      "id" : 61033
+    },
+    {
+      "text" : "ヘシティ1",
+      "id" : 61034
+    },
+    {
+      "text" : "ヘシティ2",
+      "id" : 61035
+    },
+    {
+      "text" : "ヘシティ3",
+      "id" : 61036
+    },
+    {
+      "text" : "シャイナ1",
+      "id" : 61037
+    },
+    {
+      "text" : "シャイナ2",
+      "id" : 61038
+    },
+    {
+      "text" : "シャイナ3",
+      "id" : 61039
+    },
+    {
+      "text" : "ウィス1",
+      "id" : 61040
+    },
+    {
+      "text" : "ウィス2",
+      "id" : 61041
+    },
+    {
+      "text" : "ウィス3",
+      "id" : 61042
+    },
+    {
+      "text" : "ラル1",
+      "id" : 61043
+    },
+    {
+      "text" : "ラル2",
+      "id" : 61044
+    },
+    {
+      "text" : "ラル3",
+      "id" : 61045
+    },
+    {
+      "text" : "M4アンダーセット1_1人目",
+      "id" : 61046
+    },
+    {
+      "text" : "M4アンダーセット1_2人目",
+      "id" : 61047
+    },
+    {
+      "text" : "M4アンダーセット1_3人目",
+      "id" : 61048
+    },
+    {
+      "text" : "M4アンダーセット1_4人目",
+      "id" : 61049
+    },
+    {
+      "text" : "M4アンダーセット2_1人目",
+      "id" : 61050
+    },
+    {
+      "text" : "M4アンダーセット2_2人目",
+      "id" : 61051
+    },
+    {
+      "text" : "M4アンダーセット2_3人目",
+      "id" : 61052
+    },
+    {
+      "text" : "M4アンダーセット2_4人目",
+      "id" : 61053
+    },
+    {
+      "text" : "M4アンダーセット3_1人目",
+      "id" : 61054
+    },
+    {
+      "text" : "M4アンダーセット3_2人目",
+      "id" : 61055
+    },
+    {
+      "text" : "M4アンダーセット3_3人目",
+      "id" : 61056
+    },
+    {
+      "text" : "M4アンダーセット3_4人目",
+      "id" : 61057
+    },
+    {
+      "text" : "M4アンダーセット4_1人目",
+      "id" : 61058
+    },
+    {
+      "text" : "M4アンダーセット4_2人目",
+      "id" : 61059
+    },
+    {
+      "text" : "M4アンダーセット4_3人目",
+      "id" : 61060
+    },
+    {
+      "text" : "M4アンダーセット4_4人目",
+      "id" : 61061
+    },
+    {
+      "text" : "M4アンダーセット5_1人目",
+      "id" : 61062
+    },
+    {
+      "text" : "M4アンダーセット5_2人目",
+      "id" : 61063
+    },
+    {
+      "text" : "M4アンダーセット5_3人目",
+      "id" : 61064
+    },
+    {
+      "text" : "M4アンダーセット5_4人目",
+      "id" : 61065
+    },
+    {
+      "text" : "M4ボトムセット1_1人目",
+      "id" : 61066
+    },
+    {
+      "text" : "M4ボトムセット1_2人目",
+      "id" : 61067
+    },
+    {
+      "text" : "M4ボトムセット1_3人目",
+      "id" : 61068
+    },
+    {
+      "text" : "M4ボトムセット2_1人目",
+      "id" : 61069
+    },
+    {
+      "text" : "M4ボトムセット2_2人目",
+      "id" : 61070
+    },
+    {
+      "text" : "M4ボトムセット2_3人目",
+      "id" : 61071
+    },
+    {
+      "text" : "M4ボトムセット3_1人目",
+      "id" : 61072
+    },
+    {
+      "text" : "M4ボトムセット3_2人目",
+      "id" : 61073
+    },
+    {
+      "text" : "M4ボトムセット3_3人目",
+      "id" : 61074
+    },
+    {
+      "text" : "M4ボトムセット4_1人目",
+      "id" : 61075
+    },
+    {
+      "text" : "M4ボトムセット4_2人目",
+      "id" : 61076
+    },
+    {
+      "text" : "M4ボトムセット4_3人目",
+      "id" : 61077
+    },
+    {
+      "text" : "M4ボトムセット5_1人目",
+      "id" : 61078
+    },
+    {
+      "text" : "M4ボトムセット5_2人目",
+      "id" : 61079
+    },
+    {
+      "text" : "M4ボトムセット5_3人目",
+      "id" : 61080
+    },
+    {
+      "text" : "M4ボトムセット5_4人目",
+      "id" : 61081
+    },
+    {
+      "text" : "ラボン",
+      "id" : 61082
+    },
+    {
+      "text" : "ビイカー",
+      "id" : 61083
+    },
+    {
+      "text" : "ガク1",
+      "id" : 61084
+    },
+    {
+      "text" : "ガク2",
+      "id" : 61085
+    },
+    {
+      "text" : "ガク3",
+      "id" : 61086
+    },
+    {
+      "text" : "リコス1",
+      "id" : 61087
+    },
+    {
+      "text" : "リコス2",
+      "id" : 61088
+    },
+    {
+      "text" : "リコス3",
+      "id" : 61089
+    },
+    {
+      "text" : "マール1",
+      "id" : 61090
+    },
+    {
+      "text" : "マール2",
+      "id" : 61091
+    },
+    {
+      "text" : "マール3",
+      "id" : 61092
+    },
+    {
+      "text" : "ダルル",
+      "id" : 61093
+    },
+    {
+      "text" : "アレン",
+      "id" : 61094
+    },
+    {
+      "text" : "イズナ1",
+      "id" : 61095
+    },
+    {
+      "text" : "イズナ2",
+      "id" : 61096
+    },
+    {
+      "text" : "イズナ3",
+      "id" : 61097
+    },
+    {
+      "text" : "ペリム",
+      "id" : 61098
+    },
+    {
+      "text" : "ガベチ1",
+      "id" : 61099
+    },
+    {
+      "text" : "ガベチ2",
+      "id" : 61100
+    },
+    {
+      "text" : "ガベチ3",
+      "id" : 61101
+    },
+    {
+      "text" : "ニコラ",
+      "id" : 61102
+    },
+    {
+      "text" : "フィア1",
+      "id" : 61103
+    },
+    {
+      "text" : "フィア2",
+      "id" : 61104
+    },
+    {
+      "text" : "フィア3",
+      "id" : 61105
+    },
+    {
+      "text" : "ボーグ1",
+      "id" : 61106
+    },
+    {
+      "text" : "ボーグ2",
+      "id" : 61107
+    },
+    {
+      "text" : "ボーグ3",
+      "id" : 61108
+    },
+    {
+      "text" : "ボーグ4",
+      "id" : 61109
+    },
+    {
+      "text" : "ボーグ5",
+      "id" : 61110
+    },
+    {
+      "text" : "バレル",
+      "id" : 61111
+    },
+    {
+      "text" : "ジニー1",
+      "id" : 61112
+    },
+    {
+      "text" : "ジニー2",
+      "id" : 61113
+    },
+    {
+      "text" : "ジニー3",
+      "id" : 61114
+    },
+    {
+      "text" : "ザイル1",
+      "id" : 61115
+    },
+    {
+      "text" : "ザイル2",
+      "id" : 61116
+    },
+    {
+      "text" : "ザイル3",
+      "id" : 61117
+    },
+    {
+      "text" : "ポトン1",
+      "id" : 61118
+    },
+    {
+      "text" : "ポトン2",
+      "id" : 61119
+    },
+    {
+      "text" : "ポトン3",
+      "id" : 61120
+    },
+    {
+      "text" : "パイン",
+      "id" : 61121
+    },
+    {
+      "text" : "チャリス",
+      "id" : 61122
+    },
+    {
+      "text" : "ライ",
+      "id" : 61123
+    },
+    {
+      "text" : "ティラノ",
+      "id" : 61124
+    },
+    {
+      "text" : "ショウ",
+      "id" : 61125
+    },
+    {
+      "text" : "ジャック",
+      "id" : 61126
+    },
+    {
+      "text" : "トレス",
+      "id" : 61127
+    },
+    {
+      "text" : "ヘルゴンザ1",
+      "id" : 61128
+    },
+    {
+      "text" : "ヘルゴンザ2",
+      "id" : 61129
+    },
+    {
+      "text" : "ヘルゴンザ3",
+      "id" : 61130
+    },
+    {
+      "text" : "チャック",
+      "id" : 61131
+    },
+    {
+      "text" : "ランビー1",
+      "id" : 61132
+    },
+    {
+      "text" : "ランビー2",
+      "id" : 61133
+    },
+    {
+      "text" : "イージー1",
+      "id" : 61134
+    },
+    {
+      "text" : "イージー2",
+      "id" : 61135
+    },
+    {
+      "text" : "エンディ1",
+      "id" : 61136
+    },
+    {
+      "text" : "エンディ2",
+      "id" : 61137
+    },
+    {
+      "text" : "ラスティ1",
+      "id" : 61138
+    },
+    {
+      "text" : "ラスティ2",
+      "id" : 61139
+    },
+    {
+      "text" : "ジャキラ1",
+      "id" : 61140
+    },
+    {
+      "text" : "ジャキラ2",
+      "id" : 61141
+    },
+    {
+      "text" : "ワルダック1",
+      "id" : 61142
+    },
+    {
+      "text" : "ワルダック2",
+      "id" : 61143
+    },
+    {
+      "text" : "マサ7",
+      "id" : 61144
+    },
+    {
+      "text" : "マサ8",
+      "id" : 61145
+    },
+    {
+      "text" : "マサ9",
+      "id" : 61146
+    },
+    {
+      "text" : "マサ10",
+      "id" : 61147
+    },
+    {
+      "text" : "マサ11",
+      "id" : 61148
+    },
+    {
+      "text" : "マサ12",
+      "id" : 61149
+    },
+    {
+      "text" : "リッタ1",
+      "id" : 61150
+    },
+    {
+      "text" : "ディジー1",
+      "id" : 61151
+    },
+    {
+      "text" : "アインス1",
+      "id" : 61152
+    },
+    {
+      "text" : "ドス1",
+      "id" : 61153
+    },
+    {
+      "text" : "トロワ1",
+      "id" : 61154
+    },
+    {
+      "text" : "クアトロ1",
+      "id" : 61155
+    },
+    {
+      "text" : "ファイブ1",
+      "id" : 61156
+    },
+    {
+      "text" : "シス1",
+      "id" : 61157
+    },
+    {
+      "text" : "ユラギム1",
+      "id" : 61158
+    },
+    {
+      "text" : "ザコル4",
+      "id" : 61159
+    },
+    {
+      "text" : "ミルキー1",
+      "id" : 61160
+    },
+    {
+      "text" : "ミルキー2",
+      "id" : 61161
+    },
+    {
+      "text" : "バラルガス1",
+      "id" : 61162
+    },
+    {
+      "text" : "ザブ1",
+      "id" : 61163
+    },
+    {
+      "text" : "ミサンゴ1",
+      "id" : 61164
+    },
+    {
+      "text" : "ケーコ1",
+      "id" : 61165
+    },
+    {
+      "text" : "ピアン1",
+      "id" : 61166
+    },
+    {
+      "text" : "アトリ1",
+      "id" : 61167
+    },
+    {
+      "text" : "アトリ2",
+      "id" : 61168
+    },
+    {
+      "text" : "グーリア1",
+      "id" : 61169
+    },
+    {
+      "text" : "サリルーン1",
+      "id" : 61170
+    },
+    {
+      "text" : "サナリ1",
+      "id" : 61171
+    },
+    {
+      "text" : "ミラクルボ1",
+      "id" : 61172
+    },
+    {
+      "text" : "キエロウ1",
+      "id" : 61173
+    },
+    {
+      "text" : "ガレイン1",
+      "id" : 61174
+    },
+    {
+      "text" : "ニセ主人公1",
+      "id" : 61175
+    },
+    {
+      "text" : "バクサ1",
+      "id" : 61176
+    },
+    {
+      "text" : "デジタス1",
+      "id" : 61177
+    },
+    {
+      "text" : "メンド１",
+      "id" : 61178
+    },
+    {
+      "text" : "チェント1",
+      "id" : 61179
+    },
+    {
+      "text" : "ベイル1",
+      "id" : 61180
+    },
+    {
+      "text" : "リカル1",
+      "id" : 61181
+    },
+    {
+      "text" : "テスト　池",
+      "id" : 61182
+    },
+    {
+      "text" : "しちょうのいえ",
+      "id" : 61183
+    },
+    {
+      "text" : "トレトレ",
+      "id" : 61184
+    },
+    {
+      "text" : "パイラのいりぐち",
+      "id" : 61185
+    },
+    {
+      "text" : "パイラのビル",
+      "id" : 61186
+    },
+    {
+      "text" : "パイラのどうくつ",
+      "id" : 61187
+    },
+    {
+      "text" : "ミラーボのアジト",
+      "id" : 61188
+    },
+    {
+      "text" : "アゲトビレッジ１",
+      "id" : 61189
+    },
+    {
+      "text" : "ほこらのどうくつ",
+      "id" : 61190
+    },
+    {
+      "text" : "アゲトビレッジ２",
+      "id" : 61191
+    },
+    {
+      "text" : "アンダーテレビスタジオ",
+      "id" : 61192
+    },
+    {
+      "text" : "アンダーちかてつ",
+      "id" : 61193
+    },
+    {
+      "text" : "けんきゅうじょまえ",
+      "id" : 61194
+    },
+    {
+      "text" : "けんきゅうじょ",
+      "id" : 61195
+    },
+    {
+      "text" : "バトルやま外",
+      "id" : 61196
+    },
+    {
+      "text" : "バトルやま中",
+      "id" : 61197
+    },
+    {
+      "text" : "バトルやま草",
+      "id" : 61198
+    },
+    {
+      "text" : "バトルやま",
+      "id" : 61199
+    },
+    {
+      "text" : "ラルガタワーのドーム",
+      "id" : 61200
+    },
+    {
+      "text" : "ラルガタワーのロビー",
+      "id" : 61201
+    },
+    {
+      "text" : "ラルガタワーの２かい１",
+      "id" : 61202
+    },
+    {
+      "text" : "ラルガタワーの２かい２",
+      "id" : 61203
+    },
+    {
+      "text" : "フェナススタジアム",
+      "id" : 61204
+    },
+    {
+      "text" : "パイラコロシアム",
+      "id" : 61205
+    },
+    {
+      "text" : "アンダーコロシアム",
+      "id" : 61206
+    },
+    {
+      "text" : "ボトムコロシアム",
+      "id" : 61207
+    },
+    {
+      "text" : "バトルやまコロシアム",
+      "id" : 61208
+    },
+    {
+      "text" : "ラルガタワーコロシアム",
+      "id" : 61209
+    },
+    {
+      "text" : "スナッチだんアジト",
+      "id" : 61210
+    },
+    {
+      "text" : "ツールバトルやま草",
+      "id" : 61211
+    },
+    {
+      "text" : "ツールバトルやまマグマ",
+      "id" : 61212
+    },
+    {
+      "text" : "ツールバトルやま雲",
+      "id" : 61213
+    },
+    {
+      "text" : "ツール水コロシアム",
+      "id" : 61214
+    },
+    {
+      "text" : "ツール地球儀コロシアム",
+      "id" : 61215
+    },
+    {
+      "text" : "ツール円柱コロシアム",
+      "id" : 61216
+    },
+    {
+      "text" : "ツール火口コロシアム",
+      "id" : 61217
+    },
+    {
+      "text" : "ツールカジノコロシアム",
+      "id" : 61218
+    },
+    {
+      "text" : "ツールオーレコロシアム",
+      "id" : 61219
+    },
+    {
+      "text" : "２対２　エントリー２匹　２匹対２匹",
+      "id" : 61220
+    },
+    {
+      "text" : "けんきゅうじょガレージ",
+      "id" : 61221
+    },
+    {
+      "text" : "リライブ",
+      "id" : 61222
+    },
+    {
+      "text" : "戦闘トレーナー台詞テスト",
+      "id" : 61223
+    },
+    {
+      "text" : "登場",
+      "id" : 61224
+    },
+    {
+      "text" : "勝利",
+      "id" : 61225
+    },
+    {
+      "text" : "敗北",
+      "id" : 61226
+    },
+    {
+      "text" : "敗北２",
+      "id" : 61227
+    },
+    {
+      "text" : "ねむり",
+      "id" : 61228
+    },
+    {
+      "text" : "まひ",
+      "id" : 61229
+    },
+    {
+      "text" : "やけど",
+      "id" : 61230
+    },
+    {
+      "text" : "こんらん",
+      "id" : 61231
+    },
+    {
+      "text" : "きのみ",
+      "id" : 61232
+    },
+    {
+      "text" : "やどりぎ",
+      "id" : 61233
+    },
+    {
+      "text" : "ダークポケモン",
+      "id" : 61234
+    },
+    {
+      "text" : "レッドアップ",
+      "id" : 61235
+    },
+    {
+      "text" : "レッドダウン",
+      "id" : 61236
+    },
+    {
+      "text" : "グリーンアップ",
+      "id" : 61237
+    },
+    {
+      "text" : "グリーンダウン",
+      "id" : 61238
+    },
+    {
+      "text" : "ブルーアップ",
+      "id" : 61239
+    },
+    {
+      "text" : "ブルーダウン",
+      "id" : 61240
+    },
+    {
+      "text" : "グレイアップ",
+      "id" : 61241
+    },
+    {
+      "text" : "パープルアップ",
+      "id" : 61242
+    },
+    {
+      "text" : "マスターボールイン",
+      "id" : 61243
+    },
+    {
+      "text" : "マスターボールオープン",
+      "id" : 61244
+    },
+    {
+      "text" : "マスターボールアウト",
+      "id" : 61245
+    },
+    {
+      "text" : "ハイパーボールイン",
+      "id" : 61246
+    },
+    {
+      "text" : "ハイパーボールオープン",
+      "id" : 61247
+    },
+    {
+      "text" : "ハイパーボールアウト",
+      "id" : 61248
+    },
+    {
+      "text" : "スーパーボールイン",
+      "id" : 61249
+    },
+    {
+      "text" : "スーパーボールオープン",
+      "id" : 61250
+    },
+    {
+      "text" : "スーパーボールアウト",
+      "id" : 61251
+    },
+    {
+      "text" : "モンスターボールイン",
+      "id" : 61252
+    },
+    {
+      "text" : "モンスターボールオープン",
+      "id" : 61253
+    },
+    {
+      "text" : "モンスターボールアウト",
+      "id" : 61254
+    },
+    {
+      "text" : "サファリボールイン",
+      "id" : 61255
+    },
+    {
+      "text" : "サファリボールオープン",
+      "id" : 61256
+    },
+    {
+      "text" : "サファリボールアウト",
+      "id" : 61257
+    },
+    {
+      "text" : "ネットボールイン",
+      "id" : 61258
+    },
+    {
+      "text" : "ネットボールオープン",
+      "id" : 61259
+    },
+    {
+      "text" : "ネットボールアウト",
+      "id" : 61260
+    },
+    {
+      "text" : "ダイブボールイン",
+      "id" : 61261
+    },
+    {
+      "text" : "ダイブボールオープン",
+      "id" : 61262
+    },
+    {
+      "text" : "ダイブボールアウト",
+      "id" : 61263
+    },
+    {
+      "text" : "ネストボールイン",
+      "id" : 61264
+    },
+    {
+      "text" : "ネストボールオープン",
+      "id" : 61265
+    },
+    {
+      "text" : "ネストボールアウト",
+      "id" : 61266
+    },
+    {
+      "text" : "リピートボールイン",
+      "id" : 61267
+    },
+    {
+      "text" : "リピートボールオープン",
+      "id" : 61268
+    },
+    {
+      "text" : "リピートボールアウト",
+      "id" : 61269
+    },
+    {
+      "text" : "タイマーボールイン",
+      "id" : 61270
+    },
+    {
+      "text" : "タイマーボールオープン",
+      "id" : 61271
+    },
+    {
+      "text" : "研究員",
+      "id" : 61272
+    },
+    {
+      "text" : "ハンター女",
+      "id" : 61273
+    },
+    {
+      "text" : "ゴージャスボールオープン",
+      "id" : 61274
+    },
+    {
+      "text" : "ゴージャスボールアウト",
+      "id" : 61275
+    },
+    {
+      "text" : "プレミアボールイン",
+      "id" : 61276
+    },
+    {
+      "text" : "プレミアボールオープン",
+      "id" : 61277
+    },
+    {
+      "text" : "プレミアボールアウト",
+      "id" : 61278
+    },
+    {
+      "text" : "ダークポケモンバートル",
+      "id" : 61279
+    },
+    {
+      "text" : "ネオハル",
+      "id" : 61280
+    },
+    {
+      "text" : "グレイダウン",
+      "id" : 61281
+    },
+    {
+      "text" : "マスターボールダウンイン",
+      "id" : 61282
+    },
+    {
+      "text" : "ハイパーボールダウンイン",
+      "id" : 61283
+    },
+    {
+      "text" : "スーパーボールダウンイン",
+      "id" : 61284
+    },
+    {
+      "text" : "モンスターボールダウンイン",
+      "id" : 61285
+    },
+    {
+      "text" : "サファリボールダウンイン",
+      "id" : 61286
+    },
+    {
+      "text" : "ネットボールダウンイン",
+      "id" : 61287
+    },
+    {
+      "text" : "ダイブボールダウンイン",
+      "id" : 61288
+    },
+    {
+      "text" : "ネストボールダウンイン",
+      "id" : 61289
+    },
+    {
+      "text" : "リピートボールダウンイン",
+      "id" : 61290
+    },
+    {
+      "text" : "タイマーボールダウンイン",
+      "id" : 61291
+    },
+    {
+      "text" : "ゴージャスボールダウンイン",
+      "id" : 61292
+    },
+    {
+      "text" : "プレミアボールダウンイン",
+      "id" : 61293
+    },
+    {
+      "text" : "エヴォルションプリ",
+      "id" : 61294
+    },
+    {
+      "text" : "エヴォルションスタルト",
+      "id" : 61295
+    },
+    {
+      "text" : "リライブセレビィーアッパー",
+      "id" : 61296
+    },
+    {
+      "text" : "リライブセレビィートライル",
+      "id" : 61297
+    },
+    {
+      "text" : "リライブセレビィーメイン",
+      "id" : 61298
+    },
+    {
+      "text" : "スナーチぃアッタク",
+      "id" : 61299
+    },
+    {
+      "text" : "スナーチぃバールランド",
+      "id" : 61300
+    },
+    {
+      "text" : "スナーチぃミス",
+      "id" : 61301
+    },
+    {
+      "text" : "スナーチぃポケモンアウト",
+      "id" : 61302
+    },
+    {
+      "text" : "スナーチぃシャイク",
+      "id" : 61303
+    },
+    {
+      "text" : "スナーチぃ",
+      "id" : 61304
+    },
+    {
+      "text" : "カルデBG",
+      "id" : 61305
+    },
+    {
+      "text" : "カルデBG2",
+      "id" : 61306
+    },
+    {
+      "text" : "カルデBG3",
+      "id" : 61307
+    },
+    {
+      "text" : "こおり",
+      "id" : 61308
+    },
+    {
+      "text" : "あくむ",
+      "id" : 61309
+    },
+    {
+      "text" : "どく",
+      "id" : 61310
+    },
+    {
+      "text" : "どくどく",
+      "id" : 61311
+    },
+    {
+      "text" : "のろい",
+      "id" : 61312
+    },
+    {
+      "text" : "メロメロ",
+      "id" : 61313
+    },
+    {
+      "text" : "リライブテスト",
+      "id" : 61314
+    },
+    {
+      "text" : "ダメージノーエフェクト",
+      "id" : 61315
+    },
+    {
+      "text" : "エージェント女",
+      "id" : 61319
+    },
+    {
+      "text" : "エージェント男",
+      "id" : 61320
+    },
+    {
+      "text" : "ベルデ",
+      "id" : 61321
+    },
+    {
+      "text" : "ロッソ",
+      "id" : 61322
+    },
+    {
+      "text" : "ブルーノ",
+      "id" : 61323
+    },
+    {
+      "text" : "コワップ",
+      "id" : 61324
+    },
+    {
+      "text" : "赤緑女",
+      "id" : 61325
+    },
+    {
+      "text" : "赤緑男",
+      "id" : 61326
+    },
+    {
+      "text" : "おばあさんＡ",
+      "id" : 61327
+    },
+    {
+      "text" : "ダキム",
+      "id" : 61328
+    },
+    {
+      "text" : "ヘルゴンザ",
+      "id" : 61329
+    },
+    {
+      "text" : "ミラーボ",
+      "id" : 61330
+    },
+    {
+      "text" : "ヴィーナス",
+      "id" : 61331
+    },
+    {
+      "text" : "ジャキラ",
+      "id" : 61332
+    },
+    {
+      "text" : "キャスターＡ",
+      "id" : 61333
+    },
+    {
+      "text" : "大道芸人",
+      "id" : 61334
+    },
+    {
+      "text" : "ヒヅキ祖父",
+      "id" : 61335
+    },
+    {
+      "text" : "セネティ",
+      "id" : 61336
+    },
+    {
+      "text" : "ジムリーダーＡ",
+      "id" : 61337
+    },
+    {
+      "text" : "ジムリーダーＢ",
+      "id" : 61338
+    },
+    {
+      "text" : "ジムリーダーＣ",
+      "id" : 61339
+    },
+    {
+      "text" : "スーラ",
+      "id" : 61340
+    },
+    {
+      "text" : "ブレス",
+      "id" : 61341
+    },
+    {
+      "text" : "ハンター男",
+      "id" : 61342
+    },
+    {
+      "text" : "ヘボイ",
+      "id" : 61343
+    },
+    {
+      "text" : "おじいさんＡ",
+      "id" : 61346
+    },
+    {
+      "text" : "肉体派女",
+      "id" : 61347
+    },
+    {
+      "text" : "肉体派男",
+      "id" : 61348
+    },
+    {
+      "text" : "おぼっちゃま",
+      "id" : 61349
+    },
+    {
+      "text" : "おじさんＡ",
+      "id" : 61350
+    },
+    {
+      "text" : "おじょうさま",
+      "id" : 61351
+    },
+    {
+      "text" : "ライダー女",
+      "id" : 61352
+    },
+    {
+      "text" : "ウィリー",
+      "id" : 61353
+    },
+    {
+      "text" : "ライダー男",
+      "id" : 61354
+    },
+    {
+      "text" : "先生",
+      "id" : 61355
+    },
+    {
+      "text" : "ワルダック",
+      "id" : 61356
+    },
+    {
+      "text" : "スナッチ団ザコ",
+      "id" : 61357
+    },
+    {
+      "text" : "アスリート男",
+      "id" : 61359
+    },
+    {
+      "text" : "ボーグ",
+      "id" : 61360
+    },
+    {
+      "text" : "どろぼう女",
+      "id" : 61361
+    },
+    {
+      "text" : "どろぼう男",
+      "id" : 61362
+    },
+    {
+      "text" : "ワルガキ",
+      "id" : 61363
+    },
+    {
+      "text" : "はたらくおじさん",
+      "id" : 61364
+    },
+    {
+      "text" : "キエロウ",
+      "id" : 61366
+    },
+    {
+      "text" : "ピアン",
+      "id" : 61367
+    },
+    {
+      "text" : "エリート男",
+      "id" : 61368
+    },
+    {
+      "text" : "エリート女",
+      "id" : 61369
+    },
+    {
+      "text" : "ポケモンマニア",
+      "id" : 61371
+    },
+    {
+      "text" : "バトル山マスター",
+      "id" : 61374
+    },
+    {
+      "text" : "バラルガス",
+      "id" : 61375
+    },
+    {
+      "text" : "ゾルダン",
+      "id" : 61376
+    },
+    {
+      "text" : "マボロシ",
+      "id" : 61377
+    },
+    {
+      "text" : "ムゲンサイ",
+      "id" : 61378
+    },
+    {
+      "text" : "ムゲンダイ",
+      "id" : 61379
+    },
+    {
+      "text" : "ジムリーダーC2",
+      "id" : 61380
+    },
+    {
+      "text" : "保安官助手",
+      "id" : 61381
+    },
+    {
+      "text" : "スナッチ団ザコ2",
+      "id" : 61382
+    },
+    {
+      "text" : "スナッチ団ザコ3",
+      "id" : 61383
+    },
+    {
+      "text" : "ミラクルボ",
+      "id" : 61384
+    },
+    {
+      "text" : "ジムリーダーＡ4",
+      "id" : 61385
+    },
+    {
+      "text" : "ジムリーダーＡ2",
+      "id" : 61386
+    },
+    {
+      "text" : "ジムリーダーＡ3",
+      "id" : 61387
+    },
+    {
+      "text" : "トロイ",
+      "id" : 61388
+    },
+    {
+      "text" : "マサ",
+      "id" : 61389
+    },
+    {
+      "text" : "アインス2",
+      "id" : 61390
+    },
+    {
+      "text" : "アインス3",
+      "id" : 61391
+    },
+    {
+      "text" : "アインス4",
+      "id" : 61392
+    },
+    {
+      "text" : "アインス5",
+      "id" : 61393
+    },
+    {
+      "text" : "ドス2",
+      "id" : 61394
+    },
+    {
+      "text" : "ドス3",
+      "id" : 61395
+    },
+    {
+      "text" : "ドス4",
+      "id" : 61396
+    },
+    {
+      "text" : "ドス5",
+      "id" : 61397
+    },
+    {
+      "text" : "ドス6",
+      "id" : 61398
+    },
+    {
+      "text" : "トロワ2",
+      "id" : 61399
+    },
+    {
+      "text" : "トロワ3",
+      "id" : 61400
+    },
+    {
+      "text" : "トロワ4",
+      "id" : 61401
+    },
+    {
+      "text" : "トロワ5",
+      "id" : 61402
+    },
+    {
+      "text" : "トロワ6",
+      "id" : 61403
+    },
+    {
+      "text" : "クアトロ2",
+      "id" : 61404
+    },
+    {
+      "text" : "クアトロ3",
+      "id" : 61405
+    },
+    {
+      "text" : "クアトロ4",
+      "id" : 61406
+    },
+    {
+      "text" : "クアトロ5",
+      "id" : 61407
+    },
+    {
+      "text" : "クアトロ6",
+      "id" : 61408
+    },
+    {
+      "text" : "ファイブ2",
+      "id" : 61409
+    },
+    {
+      "text" : "ファイブ3",
+      "id" : 61410
+    },
+    {
+      "text" : "ファイブ4",
+      "id" : 61411
+    },
+    {
+      "text" : "ファイブ5",
+      "id" : 61412
+    },
+    {
+      "text" : "ファイブ6",
+      "id" : 61413
+    },
+    {
+      "text" : "シス2",
+      "id" : 61414
+    },
+    {
+      "text" : "シス3",
+      "id" : 61415
+    },
+    {
+      "text" : "シス4",
+      "id" : 61416
+    },
+    {
+      "text" : "シス5",
+      "id" : 61417
+    },
+    {
+      "text" : "シス6",
+      "id" : 61418
+    },
+    {
+      "text" : "ガレイン2",
+      "id" : 61419
+    },
+    {
+      "text" : "ガレイン3",
+      "id" : 61420
+    },
+    {
+      "text" : "マボロシ1",
+      "id" : 61421
+    },
+    {
+      "text" : "マボロシ2",
+      "id" : 61422
+    },
+    {
+      "text" : "マボロシ3",
+      "id" : 61423
+    },
+    {
+      "text" : "マボロシ4",
+      "id" : 61424
+    },
+    {
+      "text" : "マボロシ5",
+      "id" : 61425
+    },
+    {
+      "text" : "マボロシ6",
+      "id" : 61426
+    },
+    {
+      "text" : "マボロシ7",
+      "id" : 61427
+    },
+    {
+      "text" : "マボロシ8",
+      "id" : 61428
+    },
+    {
+      "text" : "デバイ1",
+      "id" : 61429
+    },
+    {
+      "text" : "セルフダメージ",
+      "id" : 61430
+    },
+    {
+      "text" : "ＤＮＡ鑑定装置",
+      "id" : 61431
+    },
+    {
+      "text" : "コワップ0",
+      "id" : 61432
+    },
+    {
+      "text" : "とりあえず使え系でヒットする",
+      "id" : 61433
+    },
+    {
+      "text" : "通常威力　味方がてだすけを選択した",
+      "id" : 61434
+    },
+    {
+      "text" : "必中系　必ず命中する",
+      "id" : 61435
+    },
+    {
+      "text" : "必中系　味方がてだすけを選択した",
+      "id" : 61436
+    },
+    {
+      "text" : "クリティカル系　クリティカルが出やすい",
+      "id" : 61437
+    },
+    {
+      "text" : "クリティカル系　味方がてだすけを選択した",
+      "id" : 61438
+    },
+    {
+      "text" : "高プライオリティ系　プライオリティが高い",
+      "id" : 61439
+    },
+    {
+      "text" : "高プライオリティ系　味方がてだすけを選択した",
+      "id" : 61440
+    },
+    {
+      "text" : "特別優先系　優先点",
+      "id" : 61441
+    },
+    {
+      "text" : "リベンジ　対象の最後に使用した技が威力技",
+      "id" : 61442
+    },
+    {
+      "text" : "リベンジ　プライオリティが低い",
+      "id" : 61443
+    },
+    {
+      "text" : "あてみなげ　必ず命中する",
+      "id" : 61444
+    },
+    {
+      "text" : "あてみなげ　プライオリティが低い",
+      "id" : 61445
+    },
+    {
+      "text" : "きあいパンチ　対象の最後に使用した技がリベンジ",
+      "id" : 61446
+    },
+    {
+      "text" : "きあいパンチ　プライオリティが低い",
+      "id" : 61447
+    },
+    {
+      "text" : "かまいたち　クリティカルが出やすい",
+      "id" : 61448
+    },
+    {
+      "text" : "かまいたち　溜める",
+      "id" : 61449
+    },
+    {
+      "text" : "ロケットずつき　防御が１ランクアップ",
+      "id" : 61450
+    },
+    {
+      "text" : "ロケットずつき　溜める",
+      "id" : 61451
+    },
+    {
+      "text" : "吸収系　ＨＰを？％吸収する",
+      "id" : 61452
+    },
+    {
+      "text" : "吸収系　味方が「てだすけ」を選択した",
+      "id" : 61453
+    },
+    {
+      "text" : "吸収系　対象の特性がヘドロえき",
+      "id" : 61454
+    },
+    {
+      "text" : "あばれる系　特性がマイペース",
+      "id" : 61455
+    },
+    {
+      "text" : "あばれる系　回復アイテムを装備",
+      "id" : 61456
+    },
+    {
+      "text" : "あばれる系　？ターン行動が制限され使用後混乱する",
+      "id" : 61457
+    },
+    {
+      "text" : "そらをとぶ系　対象が毒状態である",
+      "id" : 61458
+    },
+    {
+      "text" : "そらをとぶ系　対象がどくどく状態である",
+      "id" : 61459
+    },
+    {
+      "text" : "そらをとぶ系　対象が火傷状態である",
+      "id" : 61460
+    },
+    {
+      "text" : "そらをとぶ系　対象が麻痺状態である",
+      "id" : 61461
+    },
+    {
+      "text" : "そらをとぶ系　対象が混乱状態である",
+      "id" : 61462
+    },
+    {
+      "text" : "そらをとぶ系　対象がメロメロ状態である",
+      "id" : 61463
+    },
+    {
+      "text" : "そらをとぶ系　対象が呪い状態である",
+      "id" : 61464
+    },
+    {
+      "text" : "そらをとぶ系　対象が滅び状態である",
+      "id" : 61465
+    },
+    {
+      "text" : "そらをとぶ系　対象が宿られ状態である",
+      "id" : 61466
+    },
+    {
+      "text" : "そらをとぶ系　対象より素早さが高い",
+      "id" : 61467
+    },
+    {
+      "text" : "そらをとぶ系　自分が毒状態である",
+      "id" : 61468
+    },
+    {
+      "text" : "そらをとぶ系　自分がどくどく状態である",
+      "id" : 61469
+    },
+    {
+      "text" : "そらをとぶ系　自分が火傷状態である",
+      "id" : 61470
+    },
+    {
+      "text" : "そらをとぶ系　自分が麻痺状態である",
+      "id" : 61471
+    },
+    {
+      "text" : "そらをとぶ系　自分が混乱状態である",
+      "id" : 61472
+    },
+    {
+      "text" : "そらをとぶ系　自分がメロメロ状態である",
+      "id" : 61473
+    },
+    {
+      "text" : "そらをとぶ系　自分が呪い状態である",
+      "id" : 61474
+    },
+    {
+      "text" : "そらをとぶ系　自分が滅び状態である",
+      "id" : 61475
+    },
+    {
+      "text" : "そらをとぶ系　自分が宿られ状態である",
+      "id" : 61476
+    },
+    {
+      "text" : "そらをとぶ系　場にいなくてもヒットする技を敵が持っている",
+      "id" : 61477
+    },
+    {
+      "text" : "そらをとぶ系　ロックオン状態",
+      "id" : 61478
+    },
+    {
+      "text" : "とびはねる　対象が毒状態である",
+      "id" : 61479
+    },
+    {
+      "text" : "とびはねる　対象がどくどく状態である",
+      "id" : 61480
+    },
+    {
+      "text" : "とびはねる　対象が火傷状態である",
+      "id" : 61481
+    },
+    {
+      "text" : "とびはねる　対象が麻痺状態である",
+      "id" : 61482
+    },
+    {
+      "text" : "とびはねる　対象が混乱状態である",
+      "id" : 61483
+    },
+    {
+      "text" : "とびはねる　対象がメロメロ状態である",
+      "id" : 61484
+    },
+    {
+      "text" : "とびはねる　対象が呪い状態である",
+      "id" : 61485
+    },
+    {
+      "text" : "とびはねる　対象が滅び状態である",
+      "id" : 61486
+    },
+    {
+      "text" : "とびはねる　対象が宿られ状態である",
+      "id" : 61487
+    },
+    {
+      "text" : "とびはねる　対象より素早さが高い",
+      "id" : 61488
+    },
+    {
+      "text" : "とびはねる　追加効果で麻痺する可能性がある",
+      "id" : 61489
+    },
+    {
+      "text" : "とびはねる　自分が毒状態である",
+      "id" : 61490
+    },
+    {
+      "text" : "とびはねる　自分がどくどく状態である",
+      "id" : 61491
+    },
+    {
+      "text" : "とびはねる　自分が火傷状態である",
+      "id" : 61492
+    },
+    {
+      "text" : "とびはねる　自分が麻痺状態である",
+      "id" : 61493
+    },
+    {
+      "text" : "とびはねる　自分が混乱状態である",
+      "id" : 61494
+    },
+    {
+      "text" : "とびはねる　自分がメロメロ状態である",
+      "id" : 61495
+    },
+    {
+      "text" : "とびはねる　自分が呪い状態である",
+      "id" : 61496
+    },
+    {
+      "text" : "とびはねる　自分が滅び状態である",
+      "id" : 61497
+    },
+    {
+      "text" : "とびはねる　自分が宿られ状態である",
+      "id" : 61498
+    },
+    {
+      "text" : "とびはねる　場にいなくてもヒットする技を敵が持っている",
+      "id" : 61499
+    },
+    {
+      "text" : "とびはねる　ロックオン状態",
+      "id" : 61500
+    },
+    {
+      "text" : "自爆系　行動可能な控えを含む味方の属性に効果がない",
+      "id" : 61501
+    },
+    {
+      "text" : "自爆系　行動可能な控えを含む味方の属性に効果がいまひとつ",
+      "id" : 61502
+    },
+    {
+      "text" : "自爆系　味方が「まもる」か「みきる」か「こらえる」を持っている",
+      "id" : 61503
+    },
+    {
+      "text" : "自爆系　味方が「まもる」か「みきる」か「こらえる」を選択している",
+      "id" : 61504
+    },
+    {
+      "text" : "自爆系　敵１がみがわりを出している",
+      "id" : 61505
+    },
+    {
+      "text" : "自爆系　敵２がみがわりを出している",
+      "id" : 61506
+    },
+    {
+      "text" : "自爆系　味方の最後に使用した技が「まもる」か「みきる」か「こらえる」",
+      "id" : 61507
+    },
+    {
+      "text" : "自爆系　味方がそのダメージで気絶する",
+      "id" : 61508
+    },
+    {
+      "text" : "ころがる系　まるくなるを使用済みである",
+      "id" : 61509
+    },
+    {
+      "text" : "ころがる系　使用者の残りＨＰが？％である",
+      "id" : 61510
+    },
+    {
+      "text" : "ころがる系　５ターン行動が制限される",
+      "id" : 61511
+    },
+    {
+      "text" : "束縛系　対象が交代可能状態である",
+      "id" : 61512
+    },
+    {
+      "text" : "束縛系　対象が毒状態である",
+      "id" : 61513
+    },
+    {
+      "text" : "束縛系　対象がどくどく状態である",
+      "id" : 61514
+    },
+    {
+      "text" : "束縛系　対象が火傷状態である",
+      "id" : 61515
+    },
+    {
+      "text" : "束縛系　対象が宿られ状態である",
+      "id" : 61516
+    },
+    {
+      "text" : "束縛系　対象が混乱状態である",
+      "id" : 61517
+    },
+    {
+      "text" : "束縛系　対象がメロメロ状態である",
+      "id" : 61518
+    },
+    {
+      "text" : "束縛系　対象が呪い状態である",
+      "id" : 61519
+    },
+    {
+      "text" : "束縛系　対象が滅び状態である",
+      "id" : 61520
+    },
+    {
+      "text" : "束縛系　対象が交代不能状態である",
+      "id" : 61521
+    },
+    {
+      "text" : "じしん　行動可能な控えを含む味方の属性に効果がない",
+      "id" : 61522
+    },
+    {
+      "text" : "じしん　行動可能な控えを含む味方の属性に効果がいまひとつ",
+      "id" : 61523
+    },
+    {
+      "text" : "じしん　味方が「まもる」か「みきり」を持っている",
+      "id" : 61524
+    },
+    {
+      "text" : "じしん　味方が「まもる」か「みきり」を選択している",
+      "id" : 61525
+    },
+    {
+      "text" : "じしん　味方が「てだすけ」を選択した",
+      "id" : 61526
+    },
+    {
+      "text" : "じしん　味方の最後に使用した技が「まもる」か「みきる」か「こらえる」",
+      "id" : 61527
+    },
+    {
+      "text" : "じしん　味方がそのダメージで気絶する",
+      "id" : 61528
+    },
+    {
+      "text" : "追加ひるみ系　対象より素早さが高く？％の確立でひるませる可能性がある",
+      "id" : 61529
+    },
+    {
+      "text" : "追加ひるみ系　対象より素早さが高く対象が毒状態",
+      "id" : 61530
+    },
+    {
+      "text" : "追加ひるみ系　対象より素早さが高く対象がどくどく状態",
+      "id" : 61531
+    },
+    {
+      "text" : "追加ひるみ系　対象より素早さが高く対象が火傷状態",
+      "id" : 61532
+    },
+    {
+      "text" : "追加ひるみ系　対象より素早さが高く対象が宿られ状態",
+      "id" : 61533
+    },
+    {
+      "text" : "追加ひるみ系　対象より素早さが高く対象が呪い状態",
+      "id" : 61534
+    },
+    {
+      "text" : "追加ひるみ系　対象より素早さが高く対象が麻痺状態",
+      "id" : 61535
+    },
+    {
+      "text" : "追加ひるみ系　対象より素早さが高く対象が混乱状態",
+      "id" : 61536
+    },
+    {
+      "text" : "追加ひるみ系　対象より素早さが高く対象がメロメロ状態",
+      "id" : 61537
+    },
+    {
+      "text" : "追加ひるみ系　対象より素早さが高く対象が滅び状態",
+      "id" : 61538
+    },
+    {
+      "text" : "追加ひるみ系　味方がてだすけを選択した",
+      "id" : 61539
+    },
+    {
+      "text" : "ゴッドバード　対象より素早さが高くひるませる可能性がある",
+      "id" : 61540
+    },
+    {
+      "text" : "ゴッドバード　溜める",
+      "id" : 61541
+    },
+    {
+      "text" : "ねこだまし　場に出てきた最初のターンである",
+      "id" : 61542
+    },
+    {
+      "text" : "ねこだまし　対象が特性「せいしんりょく」か「りんぷん」を持っている",
+      "id" : 61543
+    },
+    {
+      "text" : "追効攻撃ダウン系　対象が？％の確立で攻撃がダウンする可能性がある",
+      "id" : 61544
+    },
+    {
+      "text" : "追効攻撃ダウン系　味方が「てだすけ」を選択した",
+      "id" : 61545
+    },
+    {
+      "text" : "追効防御ダウン系　対象が？％の確立で防御がダウンする可能性がある",
+      "id" : 61546
+    },
+    {
+      "text" : "追効防御ダウン系　味方が「てだすけ」を選択した",
+      "id" : 61547
+    },
+    {
+      "text" : "追効素早さダウン系　対象が？％の確立で素早さがダウンする可能性がある",
+      "id" : 61548
+    },
+    {
+      "text" : "追効素早さダウン系　味方が「てだすけ」を選択した",
+      "id" : 61549
+    },
+    {
+      "text" : "追効素早さダウン系　対象が麻痺状態である",
+      "id" : 61550
+    },
+    {
+      "text" : "追効特攻ダウン系　対象が？％の確立で特攻がダウンする可能性がある",
+      "id" : 61551
+    },
+    {
+      "text" : "追効特攻ダウン系　味方が「てだすけ」を選択した",
+      "id" : 61552
+    },
+    {
+      "text" : "追効特防ダウン系　対象が？％の確立で特防がダウンする可能性がある",
+      "id" : 61553
+    },
+    {
+      "text" : "追効特防ダウン系　味方が「てだすけ」を選択した",
+      "id" : 61554
+    },
+    {
+      "text" : "追効命中ダウン系　対象が？％の確立で命中がダウンする可能性がある",
+      "id" : 61555
+    },
+    {
+      "text" : "追効命中ダウン系　味方が「てだすけ」を選択した",
+      "id" : 61556
+    },
+    {
+      "text" : "追効混乱系　対象が？％の確立で混乱する可能性がある",
+      "id" : 61557
+    },
+    {
+      "text" : "追効混乱系　味方が「てだすけ」を選択した",
+      "id" : 61558
+    },
+    {
+      "text" : "威力炎系　対象が？％の確立で火傷する可能性がある",
+      "id" : 61559
+    },
+    {
+      "text" : "威力炎系　味方が「てだすけ」を選択した",
+      "id" : 61560
+    },
+    {
+      "text" : "威力炎系　対象が凍り状態である",
+      "id" : 61561
+    },
+    {
+      "text" : "ほのおのうず　対象が交代可能状態である",
+      "id" : 61562
+    },
+    {
+      "text" : "ほのおのうず　対象が毒状態である",
+      "id" : 61563
+    },
+    {
+      "text" : "ほのおのうず　対象がどくどく状態である",
+      "id" : 61564
+    },
+    {
+      "text" : "ほのおのうず　対象が火傷状態である",
+      "id" : 61565
+    },
+    {
+      "text" : "ほのおのうず　対象が宿られ状態である",
+      "id" : 61566
+    },
+    {
+      "text" : "ほのおのうず　対象が混乱状態である",
+      "id" : 61567
+    },
+    {
+      "text" : "ほのおのうず　対象がメロメロ状態である",
+      "id" : 61568
+    },
+    {
+      "text" : "ほのおのうず　対象が呪い状態である",
+      "id" : 61569
+    },
+    {
+      "text" : "ほのおのうず　対象が滅び状態である",
+      "id" : 61570
+    },
+    {
+      "text" : "ほのおのうず　対象が凍り状態である",
+      "id" : 61571
+    },
+    {
+      "text" : "ほのおのうず　対象が交代不可能状態である",
+      "id" : 61572
+    },
+    {
+      "text" : "自己解凍炎系　自分が凍り状態である",
+      "id" : 61573
+    },
+    {
+      "text" : "自己解凍炎系　対象が？％の確立で火傷する可能性がある",
+      "id" : 61574
+    },
+    {
+      "text" : "自己解凍炎系　味方が「てだすけ」を選択した",
+      "id" : 61575
+    },
+    {
+      "text" : "自己解凍炎系　対象が凍り状態である",
+      "id" : 61576
+    },
+    {
+      "text" : "ブレイズキック　クリティカルが出やすい",
+      "id" : 61577
+    },
+    {
+      "text" : "ブレイズキック　対象が火傷する可能性がある",
+      "id" : 61578
+    },
+    {
+      "text" : "ブレイズキック　味方が「てだすけ」を選択した",
+      "id" : 61579
+    },
+    {
+      "text" : "ブレイズキック　対象が凍り状態である",
+      "id" : 61580
+    },
+    {
+      "text" : "追加凍り系　対象が？％の確立で凍る可能性がある",
+      "id" : 61581
+    },
+    {
+      "text" : "追加凍り系　味方が「てだすけ」を選択した",
+      "id" : 61582
+    },
+    {
+      "text" : "追加凍り系　対象以外の相手ポケモン（控え含む）が既に凍っている",
+      "id" : 61583
+    },
+    {
+      "text" : "追加麻痺系　対象が？％の確立で麻痺する可能性がある",
+      "id" : 61584
+    },
+    {
+      "text" : "追加麻痺系　味方が「てだすけ」を選択した",
+      "id" : 61585
+    },
+    {
+      "text" : "追加眠り系　対象が？％の確立で眠る可能性がある",
+      "id" : 61586
+    },
+    {
+      "text" : "追加眠り系　対象以外の相手ポケモン（控え含む）が既に眠っている",
+      "id" : 61587
+    },
+    {
+      "text" : "反動系　味方が「てだすけ」を選択した",
+      "id" : 61588
+    },
+    {
+      "text" : "反動系　次のターン反動で動けない",
+      "id" : 61589
+    },
+    {
+      "text" : "追加毒系　対象が？％の確立で毒になる可能性がある",
+      "id" : 61590
+    },
+    {
+      "text" : "追加毒系　味方が「てだすけ」を選択した",
+      "id" : 61591
+    },
+    {
+      "text" : "ポイズンテール　対象が毒になる可能性がある",
+      "id" : 61592
+    },
+    {
+      "text" : "ポイズンテール　クリティカルが出やすい",
+      "id" : 61593
+    },
+    {
+      "text" : "ポイズンテール　味方が「てだすけ」を選択した",
+      "id" : 61594
+    },
+    {
+      "text" : "どくどくのキバ　対象が？％の確立で毒々になる可能性がある",
+      "id" : 61595
+    },
+    {
+      "text" : "どくどくのキバ　味方が「てだすけ」を選択した",
+      "id" : 61596
+    },
+    {
+      "text" : "トライアタック　対象が状態異常になる可能性がある",
+      "id" : 61597
+    },
+    {
+      "text" : "ソーラービーム　場が「晴れ」状態である",
+      "id" : 61598
+    },
+    {
+      "text" : "ソーラービーム　味方が「てだすけ」を選択した",
+      "id" : 61599
+    },
+    {
+      "text" : "ソーラービーム　場が「雨」状態である",
+      "id" : 61600
+    },
+    {
+      "text" : "ソーラービーム　場が「通常」「あられ」「砂嵐」状態である",
+      "id" : 61601
+    },
+    {
+      "text" : "道具奪う系　対象の道具を奪える可能性がある",
+      "id" : 61602
+    },
+    {
+      "text" : "道具奪う系　対象の特性が「ねんちゃく」である",
+      "id" : 61603
+    },
+    {
+      "text" : "はたきおとす　対象の道具をはたき落とせる可能性がある",
+      "id" : 61604
+    },
+    {
+      "text" : "はたきおとす　対象の特性が「ねんちゃく」である",
+      "id" : 61605
+    },
+    {
+      "text" : "オーバーヒート系　回復アイテムを装備",
+      "id" : 61606
+    },
+    {
+      "text" : "オーバーヒート系　味方が「てだすけ」を選択した",
+      "id" : 61607
+    },
+    {
+      "text" : "オーバーヒート系　使用後能力が下がる",
+      "id" : 61608
+    },
+    {
+      "text" : "追加防御アップ系　自分の防御が１ランクアップする可能性がある",
+      "id" : 61609
+    },
+    {
+      "text" : "追加攻撃アップ系　自分の攻撃が？％の確立で１ランクアップする可能性がある",
+      "id" : 61610
+    },
+    {
+      "text" : "全能力アップ系　自分のいずれかの能力が１ランクアップする可能性がある",
+      "id" : 61611
+    },
+    {
+      "text" : "全能力アップ系　味方が「てだすけ」を選択した",
+      "id" : 61612
+    },
+    {
+      "text" : "一撃必殺系　対象を一撃で倒せる可能性がある",
+      "id" : 61613
+    },
+    {
+      "text" : "ひみつのちから　",
+      "id" : 61614
+    },
+    {
+      "text" : "ウェザーボール　天気が「晴れ」か「雨」",
+      "id" : 61615
+    },
+    {
+      "text" : "ウェザーボール　天気が「あられ」",
+      "id" : 61616
+    },
+    {
+      "text" : "ウェザーボール　天気が「砂嵐」",
+      "id" : 61617
+    },
+    {
+      "text" : "おいうち　対象が毒状態である",
+      "id" : 61618
+    },
+    {
+      "text" : "おいうち　対象がどくどく状態である",
+      "id" : 61619
+    },
+    {
+      "text" : "おいうち　対象が火傷状態である",
+      "id" : 61620
+    },
+    {
+      "text" : "おいうち　対象が宿られ状態である",
+      "id" : 61621
+    },
+    {
+      "text" : "おいうち　対象が混乱状態である",
+      "id" : 61622
+    },
+    {
+      "text" : "おいうち　対象がメロメロ状態である",
+      "id" : 61623
+    },
+    {
+      "text" : "おいうち　対象が呪い状態である",
+      "id" : 61624
+    },
+    {
+      "text" : "おいうち　対象が滅び状態である",
+      "id" : 61625
+    },
+    {
+      "text" : "おいうち　対象があくび状態である",
+      "id" : 61626
+    },
+    {
+      "text" : "おいうち　対象が交代不可能状態である",
+      "id" : 61627
+    },
+    {
+      "text" : "きつけ　対象が麻痺状態である",
+      "id" : 61628
+    },
+    {
+      "text" : "回復系１　天候が「晴れ」",
+      "id" : 61629
+    },
+    {
+      "text" : "回復系１　現在ＨＰが半分以下",
+      "id" : 61630
+    },
+    {
+      "text" : "回復系１　天候が「雨」か「あられ」か「砂嵐」",
+      "id" : 61631
+    },
+    {
+      "text" : "回復系２　現在ＨＰが半分以下",
+      "id" : 61632
+    },
+    {
+      "text" : "ねむる　回復アイテムを装備",
+      "id" : 61633
+    },
+    {
+      "text" : "ねむる　現在ＨＰが半分以下",
+      "id" : 61634
+    },
+    {
+      "text" : "ねむる　自分が状態異常である",
+      "id" : 61635
+    },
+    {
+      "text" : "ねむる　２ターン行動不可能",
+      "id" : 61636
+    },
+    {
+      "text" : "眠らせ系　対象が状態異常でない",
+      "id" : 61637
+    },
+    {
+      "text" : "眠らせ系　対象以外の相手ポケモン（控え含む）が既に眠っている",
+      "id" : 61638
+    },
+    {
+      "text" : "あまごい　天候が「雨」以外",
+      "id" : 61639
+    },
+    {
+      "text" : "あまごい　天候が「雨」",
+      "id" : 61640
+    },
+    {
+      "text" : "にほんばれ　天候が「晴れ」以外",
+      "id" : 61641
+    },
+    {
+      "text" : "にほんばれ　天候が「晴れ」",
+      "id" : 61642
+    },
+    {
+      "text" : "あられ　天候が「あられ」以外",
+      "id" : 61643
+    },
+    {
+      "text" : "あられ　天候が「あられ」",
+      "id" : 61644
+    },
+    {
+      "text" : "すなあらし　天候が「すなあらし」以外",
+      "id" : 61645
+    },
+    {
+      "text" : "すなあらし　天候が「すなあらし」",
+      "id" : 61646
+    },
+    {
+      "text" : "リフレッシュ　自分が状態異常である",
+      "id" : 61647
+    },
+    {
+      "text" : "アロマ系　控えを含む味方が状態異常である",
+      "id" : 61648
+    },
+    {
+      "text" : "カウンター　対象の基本固体値の攻撃が特攻より高い",
+      "id" : 61649
+    },
+    {
+      "text" : "カウンター　対象が最後に物理攻撃を使用した",
+      "id" : 61650
+    },
+    {
+      "text" : "ミラーコート　対象の基本固体値の特攻が攻撃より高い",
+      "id" : 61651
+    },
+    {
+      "text" : "ミラーコート　対象が最後に特殊攻撃を使用した",
+      "id" : 61652
+    },
+    {
+      "text" : "マジックコート　登場して一回目の行動",
+      "id" : 61653
+    },
+    {
+      "text" : "みやぶる系　対象の属性が「ゴースト」である",
+      "id" : 61654
+    },
+    {
+      "text" : "みやぶる系　対象の回避が３ランク以上アップしている",
+      "id" : 61655
+    },
+    {
+      "text" : "こらえる　対象の属性が自分の弱点になっている",
+      "id" : 61656
+    },
+    {
+      "text" : "こらえる　自分が「火傷」か「毒」か「毒々」か「麻痺」か「呪い」か「宿られ」状態",
+      "id" : 61657
+    },
+    {
+      "text" : "とりあえず使え系　使用可能状態である",
+      "id" : 61658
+    },
+    {
+      "text" : "のろい　自分の属性が「ゴースト」で残りＨＰが半分以上",
+      "id" : 61659
+    },
+    {
+      "text" : "のろい　自分の属性が「ゴースト」で残りＨＰが４分の１以下",
+      "id" : 61660
+    },
+    {
+      "text" : "のろい　自分の属性が「ゴースト」である",
+      "id" : 61661
+    },
+    {
+      "text" : "ロックオン系　対象がロックオン状態でない",
+      "id" : 61662
+    },
+    {
+      "text" : "あくむ　対象が悪夢状態でない",
+      "id" : 61663
+    },
+    {
+      "text" : "いたみわけ　対象のＨＰゲージが自分のＨＰゲージの２倍以上",
+      "id" : 61664
+    },
+    {
+      "text" : "いたみわけ　対象のＨＰゲージが自分のＨＰゲージの３倍以上",
+      "id" : 61665
+    },
+    {
+      "text" : "いたみわけ　自分のＨＰゲージが対象者のＨＰゲージの２倍以上",
+      "id" : 61666
+    },
+    {
+      "text" : "いたみわけ　自分のＨＰゲージが対象者のＨＰゲージの３倍以上",
+      "id" : 61667
+    },
+    {
+      "text" : "がむしゃら　自分のＨＰが最大ＨＰの５割以下",
+      "id" : 61668
+    },
+    {
+      "text" : "がむしゃら　自分のＨＰが最大ＨＰの３割以下",
+      "id" : 61669
+    },
+    {
+      "text" : "がむしゃら　自分のＨＰが最大ＨＰの１割以下",
+      "id" : 61670
+    },
+    {
+      "text" : "素早さダウン系　対象の素早さが味方より高い",
+      "id" : 61671
+    },
+    {
+      "text" : "素早さダウン系　対象の素早さが味方より低い",
+      "id" : 61672
+    },
+    {
+      "text" : "攻撃ダウン系　下げようとしている能力が２ランク以上下がっている",
+      "id" : 61673
+    },
+    {
+      "text" : "防御ダウン系　下げようとしている能力が２ランク以上下がっている",
+      "id" : 61674
+    },
+    {
+      "text" : "特防ダウン系　下げようとしている能力が２ランク以上下がっている",
+      "id" : 61675
+    },
+    {
+      "text" : "命中ダウン系　下げようとしている能力が２ランク以上下がっている",
+      "id" : 61676
+    },
+    {
+      "text" : "回避ダウン系　下げようとしている能力が２ランク以上下がっている",
+      "id" : 61677
+    },
+    {
+      "text" : "くすぐる　下げようとしている能力２種が２ランク以上下がっている",
+      "id" : 61678
+    },
+    {
+      "text" : "いかりのまえば　対象のＨＰメーターが５割以上",
+      "id" : 61679
+    },
+    {
+      "text" : "アンコール　対象より速くて最後に使用した技が威力技以外",
+      "id" : 61680
+    },
+    {
+      "text" : "いばる　対象の基本固体値の特攻が攻撃より高い",
+      "id" : 61681
+    },
+    {
+      "text" : "いばる　対象の基本固体値の攻撃が防御より高い",
+      "id" : 61682
+    },
+    {
+      "text" : "おだてる　対象の基本固体値の攻撃が特攻より高い",
+      "id" : 61683
+    },
+    {
+      "text" : "おだてる　対象の基本固体値の攻撃が防御より高い",
+      "id" : 61684
+    },
+    {
+      "text" : "うらみ　対象より速くて最後に使用した技の最大ＰＰが５以下",
+      "id" : 61685
+    },
+    {
+      "text" : "うらみ　対象より速く最後に使用した技の最大ＰＰが１０以下",
+      "id" : 61686
+    },
+    {
+      "text" : "みちづれ系　自分のＨＰが最大ＨＰの５割以下",
+      "id" : 61687
+    },
+    {
+      "text" : "みちづれ系　自分のＨＰが最大ＨＰの３割以下",
+      "id" : 61688
+    },
+    {
+      "text" : "みちづれ系　自分のＨＰが最大ＨＰの１割以下",
+      "id" : 61689
+    },
+    {
+      "text" : "かなしばり　対象より速くて最後に使用した技が威力技",
+      "id" : 61690
+    },
+    {
+      "text" : "交代禁止系　対象が毒状態である",
+      "id" : 61691
+    },
+    {
+      "text" : "交代禁止系　対象がどくどく状態である",
+      "id" : 61692
+    },
+    {
+      "text" : "交代禁止系　対象が火傷状態である",
+      "id" : 61693
+    },
+    {
+      "text" : "交代禁止系　対象が麻痺状態である",
+      "id" : 61694
+    },
+    {
+      "text" : "交代禁止系　対象が混乱状態である",
+      "id" : 61695
+    },
+    {
+      "text" : "交代禁止系　対象がメロメロ状態である",
+      "id" : 61696
+    },
+    {
+      "text" : "交代禁止系　対象が呪い状態である",
+      "id" : 61697
+    },
+    {
+      "text" : "交代禁止系　対象が滅び状態である",
+      "id" : 61698
+    },
+    {
+      "text" : "交代禁止系　対象が宿られ状態である",
+      "id" : 61699
+    },
+    {
+      "text" : "このゆびとまれ　味方の弱点になる属性をもったポケモンが敵側にいる",
+      "id" : 61700
+    },
+    {
+      "text" : "このゆびとまれ　敵側に「テッカニン」か「ハッサム」が出撃している",
+      "id" : 61701
+    },
+    {
+      "text" : "強化阻止系　対象が最後に能力強化系の技を使用した",
+      "id" : 61702
+    },
+    {
+      "text" : "てだすけ　味方が威力技を選択している",
+      "id" : 61703
+    },
+    {
+      "text" : "てだすけ　味方が威力技を持っている",
+      "id" : 61704
+    },
+    {
+      "text" : "くろいきり　敵に２～３ランク能力が上がっている者がいる",
+      "id" : 61705
+    },
+    {
+      "text" : "くろいきり　味方に２～３ランク能力が下がっている者がいる",
+      "id" : 61706
+    },
+    {
+      "text" : "くろいきり　敵に４ランク以上能力が上がっている者がいる",
+      "id" : 61707
+    },
+    {
+      "text" : "くろいきり　味方に４ランク以上能力が下がっている者がいる",
+      "id" : 61708
+    },
+    {
+      "text" : "くろいきり　味方に２～３ランク能力が上がっている者がいる",
+      "id" : 61709
+    },
+    {
+      "text" : "くろいきり　敵に２～３ランク能力が下がっている者がいる",
+      "id" : 61710
+    },
+    {
+      "text" : "くろいきり　味方に４ランク以上能力が上がっている者がいる",
+      "id" : 61711
+    },
+    {
+      "text" : "くろいきり　敵に４ランク以上能力が下がっている者がいる",
+      "id" : 61712
+    },
+    {
+      "text" : "じこあんじ　対象の能力が２～３ランク上がっている",
+      "id" : 61713
+    },
+    {
+      "text" : "じこあんじ　対象の能力が４ランク以上上がっている",
+      "id" : 61714
+    },
+    {
+      "text" : "じこあんじ　対象の能力が２～３ランク下がっている",
+      "id" : 61715
+    },
+    {
+      "text" : "じこあんじ　対象の能力が４ランク以上下がっている",
+      "id" : 61716
+    },
+    {
+      "text" : "しろいきり　敵が最後に能力ダウン系を使用した",
+      "id" : 61717
+    },
+    {
+      "text" : "リサイクル　手持ちアイテムを使用した",
+      "id" : 61718
+    },
+    {
+      "text" : "まきびし　１度もまきびしを撒いていない",
+      "id" : 61719
+    },
+    {
+      "text" : "まきびし　１度まきびしを撒いた",
+      "id" : 61720
+    },
+    {
+      "text" : "まきびし　２度まきびしを撒いた",
+      "id" : 61721
+    },
+    {
+      "text" : "フラフラダンス　敵２体を混乱させる可能性がある",
+      "id" : 61722
+    },
+    {
+      "text" : "フラフラダンス　回復アイテムを装備",
+      "id" : 61723
+    },
+    {
+      "text" : "フラフラダンス　味方の特性がマイペース",
+      "id" : 61724
+    },
+    {
+      "text" : "フラフラダンス　味方も混乱させてしまう",
+      "id" : 61725
+    },
+    {
+      "text" : "かわらわり　敵の場が「リフレクター」か「ひかりのかべ」である",
+      "id" : 61726
+    },
+    {
+      "text" : "ゆめくい　ＨＰを？％吸収する",
+      "id" : 61727
+    },
+    {
+      "text" : "ゆめくい　味方が「てだすけ」を選択した",
+      "id" : 61728
+    },
+    {
+      "text" : "[7]{03}M1:VS VERDE\/ROSSO\/BLUNO",
+      "id" : 61729
+    },
+    {
+      "text" : "[7]{03}M2:Before missing of GEAR",
+      "id" : 61730
+    },
+    {
+      "text" : "拡張ディスク用",
+      "id" : 61731
+    },
+    {
+      "text" : "拡張ディスク用タイトル",
+      "id" : 61732
+    },
+    {
+      "text" : "拡張ディスク用トップメニュー",
+      "id" : 61733
+    },
+    {
+      "text" : "拡張ディスク用ポケクーポン",
+      "id" : 61734
+    },
+    {
+      "text" : "拡張ディスク用聖なるほこら",
+      "id" : 61735
+    },
+    {
+      "text" : "負け",
+      "id" : 61736
+    },
+    {
+      "text" : "あたり無効ボタンON\/OFF",
+      "id" : 61737
+    },
+    {
+      "text" : "わざ選択メニュー",
+      "id" : 61738
+    },
+    {
+      "text" : "データ順に出撃",
+      "id" : 61739
+    },
+    {
+      "text" : "エース・ボス１体選ぶ",
+      "id" : 61740
+    },
+    {
+      "text" : "進化テスト",
+      "id" : 61741
+    },
+    {
+      "text" : "エースである",
+      "id" : 61742
+    },
+    {
+      "text" : "ボスである",
+      "id" : 61743
+    },
+    {
+      "text" : "味方が防御者に選んだ",
+      "id" : 61744
+    },
+    {
+      "text" : "種族値合計が高い",
+      "id" : 61745
+    },
+    {
+      "text" : "ヒットする技がない",
+      "id" : 61746
+    },
+    {
+      "text" : "ヒットして気絶させる技がある",
+      "id" : 61747
+    },
+    {
+      "text" : "相手を倒す事ができる",
+      "id" : 61748
+    },
+    {
+      "text" : "ロッソ4",
+      "id" : 61749
+    },
+    {
+      "text" : "ベルデ4",
+      "id" : 61750
+    },
+    {
+      "text" : "ブルーノ4",
+      "id" : 61751
+    },
+    {
+      "text" : "[7]{03}INTRO",
+      "id" : 61752
+    },
+    {
+      "text" : "技初期表価値",
+      "id" : 61753
+    },
+    {
+      "text" : "エボルーションキャンセルＡ",
+      "id" : 61754
+    },
+    {
+      "text" : "エボルーションキャンセルＢ",
+      "id" : 61755
+    },
+    {
+      "text" : "エボルーションキャンセルＣ",
+      "id" : 61756
+    },
+    {
+      "text" : "エボルーションエンド",
+      "id" : 61757
+    },
+    {
+      "text" : "ザコ紹介",
+      "id" : 61758
+    },
+    {
+      "text" : "ダキム紹介",
+      "id" : 61759
+    },
+    {
+      "text" : "ヘルゴンザ紹介",
+      "id" : 61760
+    },
+    {
+      "text" : "ミラーボ紹介",
+      "id" : 61761
+    },
+    {
+      "text" : "ヴィーナス紹介",
+      "id" : 61762
+    },
+    {
+      "text" : "ジャキラ紹介",
+      "id" : 61763
+    },
+    {
+      "text" : "ワルダック紹介",
+      "id" : 61764
+    },
+    {
+      "text" : "ボーグ紹介",
+      "id" : 61765
+    },
+    {
+      "text" : "レアポケモン",
+      "id" : 61766
+    },
+    {
+      "text" : "マスターボール投げ",
+      "id" : 61767
+    },
+    {
+      "text" : "ハイパーボール投げ",
+      "id" : 61768
+    },
+    {
+      "text" : "スーパーボール投げ",
+      "id" : 61769
+    },
+    {
+      "text" : "モンスターボール投げ",
+      "id" : 61770
+    },
+    {
+      "text" : "サファリボール投げ",
+      "id" : 61771
+    },
+    {
+      "text" : "ネットボール投げ",
+      "id" : 61772
+    },
+    {
+      "text" : "ダイブボール投げ",
+      "id" : 61773
+    },
+    {
+      "text" : "ネストボール投げ",
+      "id" : 61774
+    },
+    {
+      "text" : "リピートボール投げ",
+      "id" : 61775
+    },
+    {
+      "text" : "タイマーボール投げ",
+      "id" : 61776
+    },
+    {
+      "text" : "ゴージャスボール投げ",
+      "id" : 61777
+    },
+    {
+      "text" : "プレミアボール投げ",
+      "id" : 61778
+    },
+    {
+      "text" : "ダーメジ",
+      "id" : 61779
+    },
+    {
+      "text" : "Ｄ２バトル山挑戦可能時",
+      "id" : 61780
+    },
+    {
+      "text" : "天候があめで特性がすいすいかあめうけざらである",
+      "id" : 61781
+    },
+    {
+      "text" : "天候がはれで特性がようりょくそである",
+      "id" : 61782
+    },
+    {
+      "text" : "天候がすなあらしで特性がすながくれか属性が鋼か岩か地面である",
+      "id" : 61783
+    },
+    {
+      "text" : "天候があられで属性が氷である",
+      "id" : 61784
+    },
+    {
+      "text" : "[13]\n[14]\n[MsgID 77]\n[Quantity 47]",
+      "id" : 61785
+    },
+    {
+      "text" : "ムービーテスト",
+      "id" : 61786
+    },
+    {
+      "text" : "[7]{03}D2:MT.BATTLE liberated",
+      "id" : 61787
+    },
+    {
+      "text" : "スタッフロール",
+      "id" : 61788
+    },
+    {
+      "text" : "攻略メモテスト",
+      "id" : 61789
+    },
+    {
+      "text" : "攻略メモを使えるようにする",
+      "id" : 61790
+    },
+    {
+      "text" : "攻略メモに全ポケモンを追加",
+      "id" : 61791
+    },
+    {
+      "text" : "先生に会ったことにする",
+      "id" : 61792
+    },
+    {
+      "text" : "必中系　対象の回避率がアップしている",
+      "id" : 61793
+    },
+    {
+      "text" : "必中系　自分の命中率がダウンしている",
+      "id" : 61794
+    },
+    {
+      "text" : "あてみなげ　対象の回避率がアップしている",
+      "id" : 61795
+    },
+    {
+      "text" : "あてみなげ　自分の命中率がダウンしている",
+      "id" : 61796
+    },
+    {
+      "text" : "きあいパンチ　相手側に眠り状態のポケモンがいる",
+      "id" : 61797
+    },
+    {
+      "text" : "きあいパンチ　相手側に凍り状態のポケモンがいる",
+      "id" : 61798
+    },
+    {
+      "text" : "自爆系　味方の属性に効果がない",
+      "id" : 61799
+    },
+    {
+      "text" : "自爆系　味方の属性に効果がいまひとつ",
+      "id" : 61800
+    },
+    {
+      "text" : "じしん　味方の属性に効果がない",
+      "id" : 61801
+    },
+    {
+      "text" : "じしん　味方の属性に効果がいまひとつ",
+      "id" : 61802
+    },
+    {
+      "text" : "じしん　味方が「まもる」か「みきり」か「こらえる」を持っている",
+      "id" : 61803
+    },
+    {
+      "text" : "じしん　味方が「まもる」か「みきり」か「こらえる」を選択している",
+      "id" : 61804
+    },
+    {
+      "text" : "追効攻撃ダウン系　対象の攻撃がこれ以上下がらない",
+      "id" : 61805
+    },
+    {
+      "text" : "追効攻撃ダウン系　対象のポケモンが特性「クリアボディ」「りんぷん」「しろいけむり」「かいりきバサミ」を持っている",
+      "id" : 61806
+    },
+    {
+      "text" : "追効防御ダウン系　対象の防御がこれ以上下がらない",
+      "id" : 61807
+    },
+    {
+      "text" : "追効防御ダウン系　対象のポケモンが特性「クリアボディ」「りんぷん」「しろいけむり」を持っている",
+      "id" : 61808
+    },
+    {
+      "text" : "追効素早さダウン系　対象の素早さがこれ以上下がらない",
+      "id" : 61809
+    },
+    {
+      "text" : "追効素早さダウン系　対象のポケモンが特性「クリアボディ」「りんぷん」「しろいけむり」を持っている",
+      "id" : 61810
+    },
+    {
+      "text" : "必ず素早さダウン系　相手側に自分側より素早いポケモンがいる",
+      "id" : 61811
+    },
+    {
+      "text" : "必ず素早さダウン系　対象の素早さがこれ以上下がらない",
+      "id" : 61812
+    },
+    {
+      "text" : "必ず素早さダウン系　対象のポケモンが特性「クリアボディ」「りんぷん」「しろいけむり」を持っている",
+      "id" : 61813
+    },
+    {
+      "text" : "こごえるかぜ　相手側に自分側より素早いポケモンがいる",
+      "id" : 61814
+    },
+    {
+      "text" : "こごえるかぜ　ダブルバトルである",
+      "id" : 61815
+    },
+    {
+      "text" : "こごえるかぜ　対象の素早さが自分側より低い",
+      "id" : 61816
+    },
+    {
+      "text" : "こごえるかぜ　対象のポケモンが特性「クリアボディ」「りんぷん」「しろいけむり」を持っている",
+      "id" : 61817
+    },
+    {
+      "text" : "追効特攻ダウン系　対象の特攻がこれ以上下がらない",
+      "id" : 61818
+    },
+    {
+      "text" : "追効特攻ダウン系　対象のポケモンが特性「クリアボディ」「りんぷん」「しろいけむり」を持っている",
+      "id" : 61819
+    },
+    {
+      "text" : "追効特防ダウン系　対象の特防がこれ以上下がらない",
+      "id" : 61820
+    },
+    {
+      "text" : "追効特防ダウン系　対象のポケモンが特性「クリアボディ」「りんぷん」「しろいけむり」を持っている",
+      "id" : 61821
+    },
+    {
+      "text" : "追効命中ダウン系　対象の命中がこれ以上下がらない",
+      "id" : 61822
+    },
+    {
+      "text" : "追効命中ダウン系　対象のポケモンが特性「クリアボディ」「りんぷん」「しろいけむり」「するどいめ」を持っている",
+      "id" : 61823
+    },
+    {
+      "text" : "どろかけ　追加効果で必ず命中率を下げることが出来る",
+      "id" : 61824
+    },
+    {
+      "text" : "どろかけ　対象の命中がこれ以上下がらない",
+      "id" : 61825
+    },
+    {
+      "text" : "どろかけ　対象のポケモンが特性「クリアボディ」「りんぷん」「しろいけむり」「するどいめ」を持っている",
+      "id" : 61826
+    },
+    {
+      "text" : "どろかけ　対象の命中率が２ランク以上下がっている",
+      "id" : 61827
+    },
+    {
+      "text" : "追効混乱系　対象が既に混乱状態",
+      "id" : 61828
+    },
+    {
+      "text" : "追効混乱系　対象のポケモンが特性「マイペース」「りんぷん」を持っている",
+      "id" : 61829
+    },
+    {
+      "text" : "威力炎系　対象が既に状態異常か特性「みずのべール」をもっている",
+      "id" : 61830
+    },
+    {
+      "text" : "自己解凍炎系　対象が既に状態異常か特性「みずのべール」「りんぷん」をもっている",
+      "id" : 61831
+    },
+    {
+      "text" : "ブレイズキック　対象が既に状態異常か特性「みずのべール」「りんぷん」をもっている",
+      "id" : 61832
+    },
+    {
+      "text" : "追加凍り系　対象が既に状態異常か対象が特性「マグマのよろい」「りんぷん」を持っている",
+      "id" : 61833
+    },
+    {
+      "text" : "追加麻痺系　対象が既に状態異常か対象が特性「じゅうなん」「りんぷん」を持っている",
+      "id" : 61834
+    },
+    {
+      "text" : "でんじほう　対象が味方側より素早い",
+      "id" : 61835
+    },
+    {
+      "text" : "でんじほう　対象がロックオン状態",
+      "id" : 61836
+    },
+    {
+      "text" : "でんじほう　対象が既に状態異常か対象が特性「じゅうなん」「りんぷん」を持っている",
+      "id" : 61837
+    },
+    {
+      "text" : "ばくれつパンチ　対象がロックオン状態",
+      "id" : 61838
+    },
+    {
+      "text" : "ばくれつパンチ　追加効果で必ず対象を混乱させる",
+      "id" : 61839
+    },
+    {
+      "text" : "ばくれつパンチ　対象が既に混乱か対象が特性「マイペース」を持っている",
+      "id" : 61840
+    },
+    {
+      "text" : "追加眠り系　対象が既に状態異常か対象が特性「ふみん」「りんぷん」をもっている",
+      "id" : 61841
+    },
+    {
+      "text" : "反動系　自分が特性「なまけ」を持っている",
+      "id" : 61842
+    },
+    {
+      "text" : "追加毒系　対象が既に状態異常か対象が特性「めんえき」「りんぷん」をもっている",
+      "id" : 61843
+    },
+    {
+      "text" : "ポイズンテール　対象が既に状態異常か対象が特性「めんえき」「りんぷん」をもっている",
+      "id" : 61844
+    },
+    {
+      "text" : "どくどくのキバ　対象が既に状態異常か対象が特性「めんえき」「りんぷん」をもっている",
+      "id" : 61845
+    },
+    {
+      "text" : "トライアタック　対象が既に状態異常",
+      "id" : 61846
+    },
+    {
+      "text" : "トライアタック　対象の特性が「りんぷん」「じゅうなん」「みずのベール」「マグマのよろい」である",
+      "id" : 61847
+    },
+    {
+      "text" : "ソーラービーム　場が「雨」「あられ」「砂嵐」状態である",
+      "id" : 61848
+    },
+    {
+      "text" : "ソーラービーム　場が「通常」状態である",
+      "id" : 61849
+    },
+    {
+      "text" : "オーバーヒート系　対象が凍り状態である",
+      "id" : 61850
+    },
+    {
+      "text" : "特殊大技系　回復アイテムを装備",
+      "id" : 61851
+    },
+    {
+      "text" : "特殊大技系　味方が「てだすけ」を選択した",
+      "id" : 61852
+    },
+    {
+      "text" : "特殊大技系　使用後能力が下がる",
+      "id" : 61853
+    },
+    {
+      "text" : "追加防御アップ系　自分の防御がこれ以上上がらない",
+      "id" : 61854
+    },
+    {
+      "text" : "追加攻撃アップ系　自分の攻撃がこれ以上上がらない",
+      "id" : 61855
+    },
+    {
+      "text" : "あまごい　控えを含む味方の属性が水か特性「すいすい」「あめうけざら」のポケモンがいる",
+      "id" : 61856
+    },
+    {
+      "text" : "あまごい　控えを含む味方に「ポワルン」がいる",
+      "id" : 61857
+    },
+    {
+      "text" : "にほんばれ　控えを含む味方の属性が炎か草か特性「ようりょくそ」のポケモンがいる",
+      "id" : 61858
+    },
+    {
+      "text" : "にほんばれ　控えを含む味方に「ポワルン」がいる",
+      "id" : 61859
+    },
+    {
+      "text" : "あられ　控えを含む味方の属性が氷のポケモンがいる",
+      "id" : 61860
+    },
+    {
+      "text" : "あられ　敵側に「ヌケニン」がいる",
+      "id" : 61861
+    },
+    {
+      "text" : "あられ　控えを含む味方に「ポワルン」がいる",
+      "id" : 61862
+    },
+    {
+      "text" : "すなあらし　控えを含む味方に岩か地面か鋼か特性「すながくれ」を持ったポケモンがいる",
+      "id" : 61863
+    },
+    {
+      "text" : "すなあらし　敵に「ヌケニン」がいる",
+      "id" : 61864
+    },
+    {
+      "text" : "すなあらし　控えを含む味方に「ポワルン」がいる",
+      "id" : 61865
+    },
+    {
+      "text" : "カウンター　敵に攻撃が特攻より高いポケモンがいる",
+      "id" : 61866
+    },
+    {
+      "text" : "ミラーコート　敵に特攻が攻撃より高いポケモンがいる",
+      "id" : 61867
+    },
+    {
+      "text" : "みやぶる系　対象の回避が２ランク以上アップしている",
+      "id" : 61868
+    },
+    {
+      "text" : "みやぶる系　対象がみやぶられ状態",
+      "id" : 61869
+    },
+    {
+      "text" : "こらえる　自分のＨＰが最大ＨＰの５割以下",
+      "id" : 61870
+    },
+    {
+      "text" : "こらえる　味方がじしん系か自爆系の技を持っている",
+      "id" : 61871
+    },
+    {
+      "text" : "こらえる　味方がじしん系か自爆系を選択している",
+      "id" : 61872
+    },
+    {
+      "text" : "こらえる　既に「こらえる」が成功している",
+      "id" : 61873
+    },
+    {
+      "text" : "こらえる　「カムラのみ」か「チイラのみ」を持っていない",
+      "id" : 61874
+    },
+    {
+      "text" : "こらえる　自分のＨＰが１",
+      "id" : 61875
+    },
+    {
+      "text" : "こらえる　天候が「あられ」「砂嵐」である",
+      "id" : 61876
+    },
+    {
+      "text" : "のろい　使用者の属性が「ゴースト」以外で能力カウント最大値でない",
+      "id" : 61877
+    },
+    {
+      "text" : "のろい　使用者の属性が「ゴースト」で現在ＨＰが半分削られる",
+      "id" : 61878
+    },
+    {
+      "text" : "のろい　使用者の属性が「ゴースト」以外で能力カウントが最大値である",
+      "id" : 61879
+    },
+    {
+      "text" : "ロックオン系　対象がロックオン状態",
+      "id" : 61880
+    },
+    {
+      "text" : "がむしゃら　対象の残ＨＰが自分の残ＨＰの？倍",
+      "id" : 61881
+    },
+    {
+      "text" : "攻撃ダウン系　対象の能力値の攻撃が特攻より高い",
+      "id" : 61882
+    },
+    {
+      "text" : "防御ダウン系　対象の能力値の防御が特防より高い",
+      "id" : 61883
+    },
+    {
+      "text" : "特防ダウン系　対象の能力値の特防が防御より高い",
+      "id" : 61884
+    },
+    {
+      "text" : "回避ダウン系　対象の回避率が１ランク以上上がっている",
+      "id" : 61885
+    },
+    {
+      "text" : "くすぐる　対象の能力値の攻撃が特攻より高い",
+      "id" : 61886
+    },
+    {
+      "text" : "くすぐる　対象の能力値の防御が特防より高い",
+      "id" : 61887
+    },
+    {
+      "text" : "いばる　対象が特性「マイペース」を持っている",
+      "id" : 61888
+    },
+    {
+      "text" : "おだてる　対象が特性「マイペース」を持っている",
+      "id" : 61889
+    },
+    {
+      "text" : "このゆびとまれ　味方がエースポケモン",
+      "id" : 61890
+    },
+    {
+      "text" : "このゆびとまれ　敵側に「テッカニン」「ハッサム」「サクラビス」が出撃している",
+      "id" : 61891
+    },
+    {
+      "text" : "よこどり　対象が最後に能力強化系の技を使用した",
+      "id" : 61892
+    },
+    {
+      "text" : "よこどり　敵側に「テッカニン」「ハッサム」「サクラビス」がいる",
+      "id" : 61893
+    },
+    {
+      "text" : "よこどり　自分が最後に「よこどり」を出した",
+      "id" : 61894
+    },
+    {
+      "text" : "強制交代系　対象の能力が２ランク以上上がっている",
+      "id" : 61895
+    },
+    {
+      "text" : "強制交代系　対象の場にまきびしが１度撒かれている",
+      "id" : 61896
+    },
+    {
+      "text" : "強制交代系　対象の場にまきびしが２度撒かれている",
+      "id" : 61897
+    },
+    {
+      "text" : "強制交代系　対象の場にまきびしが３度撒かれている",
+      "id" : 61898
+    },
+    {
+      "text" : "てだすけ　味方が威力技を選択しなかった",
+      "id" : 61899
+    },
+    {
+      "text" : "てだすけ　味方が反動で動けない",
+      "id" : 61900
+    },
+    {
+      "text" : "てだすけ　味方が特性なまけで動けない",
+      "id" : 61901
+    },
+    {
+      "text" : "てだすけ　味方の眠りカウントが２以上",
+      "id" : 61902
+    },
+    {
+      "text" : "ランダム選択系　気が向いたら使う",
+      "id" : 61903
+    },
+    {
+      "text" : "オウムがえし　使用者が最後に受けた技の分類を参照",
+      "id" : 61904
+    },
+    {
+      "text" : "さわぐ　味方の眠りカウントが２以上",
+      "id" : 61905
+    },
+    {
+      "text" : "さわぐ　味方が「ねむる」を持っている",
+      "id" : 61906
+    },
+    {
+      "text" : "さわぐ　対象の眠りカウントが２以上",
+      "id" : 61907
+    },
+    {
+      "text" : "みがわり　自分のＨＰゲージが８割以上",
+      "id" : 61908
+    },
+    {
+      "text" : "眠り行動系　使用者の眠りカウントが２以上",
+      "id" : 61909
+    },
+    {
+      "text" : "眠り行動系　使用者の眠りカウントが１",
+      "id" : 61910
+    },
+    {
+      "text" : "じゅうでん　自分が「じゅうでん」以外の電気技を持っている",
+      "id" : 61911
+    },
+    {
+      "text" : "じゅうでん　使用者が充電状態",
+      "id" : 61912
+    },
+    {
+      "text" : "たくわえる　蓄え０",
+      "id" : 61913
+    },
+    {
+      "text" : "たくわえる　蓄え１",
+      "id" : 61914
+    },
+    {
+      "text" : "たくわえる　蓄え２",
+      "id" : 61915
+    },
+    {
+      "text" : "まもる系　味方がじしん系か自爆系の技を持っている",
+      "id" : 61916
+    },
+    {
+      "text" : "まもる系　味方がじしん系か自爆系を選択した",
+      "id" : 61917
+    },
+    {
+      "text" : "まもる系　自分の特性が「かそく」で最後に強化技を使用した",
+      "id" : 61918
+    },
+    {
+      "text" : "まもる系　「まもる」か「みきり」が成功した",
+      "id" : 61919
+    },
+    {
+      "text" : "まもる系　自分の属性がゴーストで味方が自爆系の技を持っている",
+      "id" : 61920
+    },
+    {
+      "text" : "まもる系　自分の属性がゴーストで味方が自爆系の技を選択した",
+      "id" : 61921
+    },
+    {
+      "text" : "まもる系　自分の属性が飛行か特性「ふゆう」「ふしぎなまもり」で味方がじしん系の技を持っている",
+      "id" : 61922
+    },
+    {
+      "text" : "まもる系　自分の属性が飛行か特性が「ふゆう」「ふしぎなまもり」で味方がじしん系の技を選択した",
+      "id" : 61923
+    },
+    {
+      "text" : "まもる系　味方が「このゆびとまれ」を持っている",
+      "id" : 61924
+    },
+    {
+      "text" : "スキルスワップ　自分が特性「なまけ」「へんしょく」を持っている",
+      "id" : 61925
+    },
+    {
+      "text" : "スキルスワップ　対象が特性「なまけ」「へんしょく」を持っている",
+      "id" : 61926
+    },
+    {
+      "text" : "トリック　自分が「こだわりハチマキ」「きょうせいギプス」を持っている",
+      "id" : 61927
+    },
+    {
+      "text" : "トリック　対象の特性が「ねんちゃく」である",
+      "id" : 61928
+    },
+    {
+      "text" : "攻撃アップ系　能力カウント最大値に達していない",
+      "id" : 61929
+    },
+    {
+      "text" : "攻撃アップ系　味方が「このゆびとまれ」を持っている",
+      "id" : 61930
+    },
+    {
+      "text" : "攻撃アップ系　能力カウント最大値に達している",
+      "id" : 61931
+    },
+    {
+      "text" : "攻撃アップ系　攻撃のランクが？段階上がっている",
+      "id" : 61932
+    },
+    {
+      "text" : "防御アップ系　能力カウント最大値に達していない",
+      "id" : 61933
+    },
+    {
+      "text" : "防御アップ系　味方が「このゆびとまれ」を持っている",
+      "id" : 61934
+    },
+    {
+      "text" : "防御アップ系　能力カウント最大値に達している",
+      "id" : 61935
+    },
+    {
+      "text" : "防御アップ系　防御のランクが？段階上がっている",
+      "id" : 61936
+    },
+    {
+      "text" : "こうそくいどう　能力カウント最大値に達していない",
+      "id" : 61937
+    },
+    {
+      "text" : "こうそくいどう　味方が「このゆびとまれ」を持っている",
+      "id" : 61938
+    },
+    {
+      "text" : "こうそくいどう　能力カウント最大値に達している",
+      "id" : 61939
+    },
+    {
+      "text" : "こうそくいどう　素早さのランクが？段階上がっている",
+      "id" : 61940
+    },
+    {
+      "text" : "特攻アップ系　能力カウント最大値に達していない",
+      "id" : 61941
+    },
+    {
+      "text" : "特攻アップ系　味方が「このゆびとまれ」を持っている",
+      "id" : 61942
+    },
+    {
+      "text" : "特攻アップ系　能力カウント最大値に達している",
+      "id" : 61943
+    },
+    {
+      "text" : "特攻アップ系　特攻のランクが？段階上がっている",
+      "id" : 61944
+    },
+    {
+      "text" : "ドわすれ　能力カウント最大値に達していない",
+      "id" : 61945
+    },
+    {
+      "text" : "ドわすれ　味方が「このゆびとまれ」を持っている",
+      "id" : 61946
+    },
+    {
+      "text" : "ドわすれ　能力カウント最大値に達している",
+      "id" : 61947
+    },
+    {
+      "text" : "ドわすれ　特防のランクが？段階上がっている",
+      "id" : 61948
+    },
+    {
+      "text" : "回避率アップ系　能力カウント最大値に達していない",
+      "id" : 61949
+    },
+    {
+      "text" : "回避率アップ系　味方が「このゆびとまれ」を持っている",
+      "id" : 61950
+    },
+    {
+      "text" : "回避率アップ系　能力カウント最大値に達している",
+      "id" : 61951
+    },
+    {
+      "text" : "回避率アップ系　回避率のランクが？段階上がっている",
+      "id" : 61952
+    },
+    {
+      "text" : "コスモパワー　能力カウント最大値に達していない",
+      "id" : 61953
+    },
+    {
+      "text" : "コスモパワー　味方が「このゆびとまれ」を持っている",
+      "id" : 61954
+    },
+    {
+      "text" : "コスモパワー　能力カウント最大値に達している",
+      "id" : 61955
+    },
+    {
+      "text" : "コスモパワー　特防のランクが？段階上がっている",
+      "id" : 61956
+    },
+    {
+      "text" : "ビルドアップ　能力カウント最大値に達していない",
+      "id" : 61957
+    },
+    {
+      "text" : "ビルドアップ　味方が「このゆびとまれ」を持っている",
+      "id" : 61958
+    },
+    {
+      "text" : "ビルドアップ　能力カウント最大値に達している",
+      "id" : 61959
+    },
+    {
+      "text" : "ビルドアップ　攻撃のランクが？段階上がっている",
+      "id" : 61960
+    },
+    {
+      "text" : "りゅうのまい　能力カウント最大値に達していない",
+      "id" : 61961
+    },
+    {
+      "text" : "りゅうのまい　味方が「このゆびとまれ」を持っている",
+      "id" : 61962
+    },
+    {
+      "text" : "りゅうのまい　能力カウント最大値に達している",
+      "id" : 61963
+    },
+    {
+      "text" : "りゅうのまい　素早さののランクが？段階上がっている",
+      "id" : 61964
+    },
+    {
+      "text" : "めいそう　能力カウント最大値に達していない",
+      "id" : 61965
+    },
+    {
+      "text" : "めいそう　味方が「このゆびとまれ」を持っている",
+      "id" : 61966
+    },
+    {
+      "text" : "めいそう　能力カウント最大値に達している",
+      "id" : 61967
+    },
+    {
+      "text" : "めいそう　特防のランクが？段階上がっている",
+      "id" : 61968
+    },
+    {
+      "text" : "まるくなる　能力カウント最大値に達していない",
+      "id" : 61969
+    },
+    {
+      "text" : "まるくなる　「ころがる」か「アイスボール」を持っている",
+      "id" : 61970
+    },
+    {
+      "text" : "まるくなる　能力カウント最大値に達している",
+      "id" : 61971
+    },
+    {
+      "text" : "まるくなる　防御のランクが？段階上がっている",
+      "id" : 61972
+    },
+    {
+      "text" : "はらだいこ　能力カウント最大値に達していない",
+      "id" : 61973
+    },
+    {
+      "text" : "はらだいこ　味方が「このゆびとまれ」を持っている",
+      "id" : 61974
+    },
+    {
+      "text" : "はらだいこ　能力カウント最大値に達している",
+      "id" : 61975
+    },
+    {
+      "text" : "はらだいこ　自分の現在ＨＰが最大の半分以下",
+      "id" : 61976
+    },
+    {
+      "text" : "バトンタッチ　能力カウント最大値に達している",
+      "id" : 61977
+    },
+    {
+      "text" : "毒系　対象の場に「ソーナンス」「ソーナノ」「ヌケニン」「ツボツボ」がいる",
+      "id" : 61978
+    },
+    {
+      "text" : "毒系　対象が最後に使用した技が「リフレッシュ」",
+      "id" : 61979
+    },
+    {
+      "text" : "おにび　対象の場に「ソーナンス」「ソーナノ」「ヌケニン」「ツボツボ」がいる",
+      "id" : 61980
+    },
+    {
+      "text" : "おにび　対象の現在能力値の攻撃が特攻より高い",
+      "id" : 61981
+    },
+    {
+      "text" : "おにび　対象が最後に使用した技が「リフレッシュ」",
+      "id" : 61982
+    },
+    {
+      "text" : "リフレクター　使用可能状態である",
+      "id" : 61983
+    },
+    {
+      "text" : "リフレクター　対象の現在能力値の攻撃が特攻より高い",
+      "id" : 61984
+    },
+    {
+      "text" : "リフレクター　敵が最後に使用した技が「かわらわり」",
+      "id" : 61985
+    },
+    {
+      "text" : "ひかりのかべ　使用可能状態である",
+      "id" : 61986
+    },
+    {
+      "text" : "ひかりのかべ　対象の現在能力値の特攻が攻撃より高い",
+      "id" : 61987
+    },
+    {
+      "text" : "ひかりのかべ　敵が最後に使用した技が「かわらわり」",
+      "id" : 61988
+    },
+    {
+      "text" : "定量ダメージ系　対象が「ツボツボ」",
+      "id" : 61989
+    },
+    {
+      "text" : "かわらわり　味方が「てだすけ」を選択した",
+      "id" : 61990
+    },
+    {
+      "text" : "最終評価値補正値",
+      "id" : 61991
+    },
+    {
+      "text" : "追効攻撃ダウン系　対象のポケモンが特性「クリアボディ」「りんぷん」「しろいけむり」「かいりきばさみ」を持っている",
+      "id" : 61992
+    },
+    {
+      "text" : "Do Camera Update",
+      "id" : 61993
+    },
+    {
+      "text" : "ＤＮＡキーテスト",
+      "id" : 61994
+    },
+    {
+      "text" : "(M4)UFO",
+      "id" : 61995
+    },
+    {
+      "text" : "起動ディスク（デフォルト）",
+      "id" : 61996
+    },
+    {
+      "text" : "起動ディスク（前）",
+      "id" : 61997
+    },
+    {
+      "text" : "起動ディスク（右）",
+      "id" : 61998
+    },
+    {
+      "text" : "起動ディスク（左）",
+      "id" : 61999
+    },
+    {
+      "text" : "起動ディスク（上）",
+      "id" : 62000
+    },
+    {
+      "text" : "起動ディスク（下）",
+      "id" : 62001
+    },
+    {
+      "text" : "ＡＩばらつきフラグ",
+      "id" : 62002
+    },
+    {
+      "text" : "[7]{03}TOOL BATTLE",
+      "id" : 62003
+    },
+    {
+      "text" : "ＡＧＢの接続をスキップする",
+      "id" : 62004
+    },
+    {
+      "text" : "ＡＧＢの接続をスキップしない",
+      "id" : 62005
+    },
+    {
+      "text" : "オープニングデモ",
+      "id" : 62006
+    },
+    {
+      "text" : "クーポン交換所ツール",
+      "id" : 62007
+    },
+    {
+      "text" : "アイテム選択",
+      "id" : 62008
+    },
+    {
+      "text" : "ダークポケモン以外で残りＨＰが少ないので選ぶ",
+      "id" : 62009
+    },
+    {
+      "text" : "ダークポケモン以外で状態異常なので選ぶ",
+      "id" : 62010
+    },
+    {
+      "text" : "能力最大値では無いので選ぶ",
+      "id" : 62011
+    },
+    {
+      "text" : "アタッカーなので選ぶ",
+      "id" : 62012
+    },
+    {
+      "text" : "味方側に能力最小値のポケモンがいるので選ぶ",
+      "id" : 62013
+    },
+    {
+      "text" : "エース・ボス以外で自分以外にエース・ボスが生存しているので選ばない",
+      "id" : 62014
+    },
+    {
+      "text" : "[7]{03}Delete Saved Game Data",
+      "id" : 62015
+    },
+    {
+      "text" : "トロイ1b",
+      "id" : 62016
+    },
+    {
+      "text" : "ベルデ1b",
+      "id" : 62017
+    },
+    {
+      "text" : "ロッソ1b",
+      "id" : 62018
+    },
+    {
+      "text" : "ブルーノ1b",
+      "id" : 62019
+    },
+    {
+      "text" : "ワイルド1b",
+      "id" : 62020
+    },
+    {
+      "text" : "ブレス1b",
+      "id" : 62021
+    },
+    {
+      "text" : "スーラ1b",
+      "id" : 62022
+    },
+    {
+      "text" : "タンカ1b",
+      "id" : 62023
+    },
+    {
+      "text" : "リード1b",
+      "id" : 62024
+    },
+    {
+      "text" : "トレモ1b",
+      "id" : 62025
+    },
+    {
+      "text" : "ナチュラ1b",
+      "id" : 62026
+    },
+    {
+      "text" : "ミラーボ1b",
+      "id" : 62027
+    },
+    {
+      "text" : "コワップ1b",
+      "id" : 62028
+    },
+    {
+      "text" : "ダキム1b",
+      "id" : 62029
+    },
+    {
+      "text" : "ヴィーナス1b",
+      "id" : 62030
+    },
+    {
+      "text" : "ヘシティ1b",
+      "id" : 62031
+    },
+    {
+      "text" : "シャイナ1b",
+      "id" : 62032
+    },
+    {
+      "text" : "ウィス1b",
+      "id" : 62033
+    },
+    {
+      "text" : "ラル1b",
+      "id" : 62034
+    },
+    {
+      "text" : "ガク1b",
+      "id" : 62035
+    },
+    {
+      "text" : "リコス1b",
+      "id" : 62036
+    },
+    {
+      "text" : "マール1b",
+      "id" : 62037
+    },
+    {
+      "text" : "イズナ1b",
+      "id" : 62038
+    },
+    {
+      "text" : "ガベチ1b",
+      "id" : 62039
+    },
+    {
+      "text" : "フィア1b",
+      "id" : 62040
+    },
+    {
+      "text" : "ボーグ1b",
+      "id" : 62041
+    },
+    {
+      "text" : "ジニー1b",
+      "id" : 62042
+    },
+    {
+      "text" : "ザイル1b",
+      "id" : 62043
+    },
+    {
+      "text" : "ポトン1b",
+      "id" : 62044
+    },
+    {
+      "text" : "ヘルゴンザ1b",
+      "id" : 62045
+    },
+    {
+      "text" : "ウィリー3",
+      "id" : 62046
+    },
+    {
+      "text" : "DPエクストラ30",
+      "id" : 62047
+    },
+    {
+      "text" : "DPエクストラ31",
+      "id" : 62048
+    },
+    {
+      "text" : "DPエクストラ32",
+      "id" : 62049
+    },
+    {
+      "text" : "DPエクストラ33",
+      "id" : 62050
+    },
+    {
+      "text" : "DPエクストラ34",
+      "id" : 62051
+    },
+    {
+      "text" : "DPエクストラ35",
+      "id" : 62052
+    },
+    {
+      "text" : "DPエクストラ36",
+      "id" : 62053
+    },
+    {
+      "text" : "DPエクストラ37",
+      "id" : 62054
+    },
+    {
+      "text" : "DPエクストラ38",
+      "id" : 62055
+    },
+    {
+      "text" : "DPエクストラ39",
+      "id" : 62056
+    },
+    {
+      "text" : "DPリングマ",
+      "id" : 62057
+    },
+    {
+      "text" : "DPエクストラ41",
+      "id" : 62058
+    },
+    {
+      "text" : "DPエクストラ42",
+      "id" : 62059
+    },
+    {
+      "text" : "DPエクストラ43",
+      "id" : 62060
+    },
+    {
+      "text" : "DPエクストラ44",
+      "id" : 62061
+    },
+    {
+      "text" : "DPエクストラ45",
+      "id" : 62062
+    },
+    {
+      "text" : "DPエクストラ46",
+      "id" : 62063
+    },
+    {
+      "text" : "DPエクストラ47",
+      "id" : 62064
+    },
+    {
+      "text" : "DPエクストラ48",
+      "id" : 62065
+    },
+    {
+      "text" : "DPエクストラ49",
+      "id" : 62066
+    },
+    {
+      "text" : "ナーガ",
+      "id" : 62067
+    },
+    {
+      "text" : "カエデ",
+      "id" : 62068
+    },
+    {
+      "text" : "サアヤ",
+      "id" : 62069
+    },
+    {
+      "text" : "シュウ",
+      "id" : 62070
+    },
+    {
+      "text" : "ボンバー",
+      "id" : 62071
+    },
+    {
+      "text" : "マーリ",
+      "id" : 62072
+    },
+    {
+      "text" : "オカムー",
+      "id" : 62073
+    },
+    {
+      "text" : "シュン",
+      "id" : 62074
+    },
+    {
+      "text" : "[7]{03}COLOSSEUM ENTRANCE(Black Out) (M2_enter_1F_2)",
+      "id" : 62075
+    },
+    {
+      "text" : "天候",
+      "id" : 62076
+    },
+    {
+      "text" : "必殺",
+      "id" : 62077
+    },
+    {
+      "text" : "注目",
+      "id" : 62078
+    },
+    {
+      "text" : "強化",
+      "id" : 62079
+    },
+    {
+      "text" : "バトン",
+      "id" : 62080
+    },
+    {
+      "text" : "バトンII",
+      "id" : 62081
+    },
+    {
+      "text" : "ヒヅキルックA",
+      "id" : 62082
+    },
+    {
+      "text" : "ヒヅキルックB",
+      "id" : 62083
+    },
+    {
+      "text" : "ヒヅキルックC",
+      "id" : 62084
+    },
+    {
+      "text" : "ヒヅキルックD",
+      "id" : 62085
+    },
+    {
+      "text" : "ヒヅキルックE",
+      "id" : 62086
+    },
+    {
+      "text" : "ヒヅキルックF",
+      "id" : 62087
+    },
+    {
+      "text" : "ねむりループ",
+      "id" : 62088
+    },
+    {
+      "text" : "こおりループ",
+      "id" : 62089
+    },
+    {
+      "text" : "あられ（全体）",
+      "id" : 62090
+    },
+    {
+      "text" : "すなあらし（全体）",
+      "id" : 62091
+    },
+    {
+      "text" : "はれ（全体）",
+      "id" : 62092
+    },
+    {
+      "text" : "あまごい（全体）",
+      "id" : 62093
+    },
+    {
+      "text" : "ポワルン変身スタート",
+      "id" : 62094
+    },
+    {
+      "text" : "ポワルン変身Ｉ",
+      "id" : 62095
+    },
+    {
+      "text" : "ポワルン変身N",
+      "id" : 62096
+    },
+    {
+      "text" : "ポワルン変身F",
+      "id" : 62097
+    },
+    {
+      "text" : "ポワルン変身W",
+      "id" : 62098
+    },
+    {
+      "text" : "きあいのハチマキ",
+      "id" : 62099
+    },
+    {
+      "text" : "ハイパーモードバトル",
+      "id" : 62100
+    },
+    {
+      "text" : "オーレコロシアム紹介",
+      "id" : 62101
+    },
+    {
+      "text" : "ボトムコロシアム紹介",
+      "id" : 62102
+    },
+    {
+      "text" : "ラルガタワーコロシアム紹介",
+      "id" : 62103
+    },
+    {
+      "text" : "バトルやまコロシアム紹介",
+      "id" : 62104
+    },
+    {
+      "text" : "アンダーコロシアム紹介",
+      "id" : 62105
+    },
+    {
+      "text" : "パイラコロシアム紹介",
+      "id" : 62106
+    },
+    {
+      "text" : "フェナススタジアム紹介",
+      "id" : 62107
+    },
+    {
+      "text" : "オーレコロシアム名前",
+      "id" : 62108
+    },
+    {
+      "text" : "ボトムコロシアム名前",
+      "id" : 62109
+    },
+    {
+      "text" : "ラルガタワーコロシアム名前",
+      "id" : 62110
+    },
+    {
+      "text" : "バトルやまコロシアム名前",
+      "id" : 62111
+    },
+    {
+      "text" : "アンダーコロシアム名前",
+      "id" : 62112
+    },
+    {
+      "text" : "パイラコロシアム名前",
+      "id" : 62113
+    },
+    {
+      "text" : "フェナススタジアム名前",
+      "id" : 62114
+    },
+    {
+      "text" : "トレーナー紹介A",
+      "id" : 62115
+    },
+    {
+      "text" : "トレーナー紹介B",
+      "id" : 62116
+    },
+    {
+      "text" : "トレーナー紹介C",
+      "id" : 62117
+    },
+    {
+      "text" : "トレーナー紹介D",
+      "id" : 62118
+    },
+    {
+      "text" : "トレーナー紹介E",
+      "id" : 62119
+    },
+    {
+      "text" : "バトル１",
+      "id" : 62120
+    },
+    {
+      "text" : "バトル２",
+      "id" : 62121
+    },
+    {
+      "text" : "バトル３",
+      "id" : 62122
+    },
+    {
+      "text" : "バトル４",
+      "id" : 62123
+    },
+    {
+      "text" : "バトル５",
+      "id" : 62124
+    },
+    {
+      "text" : "バトル６",
+      "id" : 62125
+    },
+    {
+      "text" : "ファイナル",
+      "id" : 62126
+    },
+    {
+      "text" : "セミファイナル",
+      "id" : 62127
+    },
+    {
+      "text" : "ノーエフェクト",
+      "id" : 62128
+    },
+    {
+      "text" : "スナッチリストテスト",
+      "id" : 62129
+    },
+    {
+      "text" : "スナッチリストにダークポケモン追加",
+      "id" : 62130
+    },
+    {
+      "text" : "スナッチ済みにする",
+      "id" : 62131
+    },
+    {
+      "text" : "リライブ済みにする",
+      "id" : 62132
+    },
+    {
+      "text" : "ベルデ5",
+      "id" : 62133
+    },
+    {
+      "text" : "ロッソ5",
+      "id" : 62134
+    },
+    {
+      "text" : "ブルーノ5",
+      "id" : 62135
+    },
+    {
+      "text" : "M4ボトムセット5_4人目b",
+      "id" : 62136
+    },
+    {
+      "text" : "[7]{03}D2:First visiting to MT.BATTLE",
+      "id" : 62137
+    },
+    {
+      "text" : "[7]{03}M3:First visiting to AGATE VILLAGE",
+      "id" : 62138
+    },
+    {
+      "text" : "[7]{03}D2:Before VS DAKIM",
+      "id" : 62139
+    },
+    {
+      "text" : "[7]{03}Got the mail MIRROR B.PEONS arrested",
+      "id" : 62140
+    },
+    {
+      "text" : "カードＥバーチャルパネルをサンプルで埋める",
+      "id" : 62141
+    },
+    {
+      "text" : "[7]{03}M4:Before VENUS's TV show starting",
+      "id" : 62142
+    },
+    {
+      "text" : "Ｍ3に初めて来た後",
+      "id" : 62143
+    },
+    {
+      "text" : "[7]{03}D4:Before meeting NASCOUR again",
+      "id" : 62144
+    },
+    {
+      "text" : "ノーエフェクトアタック",
+      "id" : 62145
+    },
+    {
+      "text" : "ノーエフェクトきめ",
+      "id" : 62146
+    },
+    {
+      "text" : "GBAメニュー",
+      "id" : 62147
+    },
+    {
+      "text" : "GBA2のクーポンを増やす",
+      "id" : 62148
+    },
+    {
+      "text" : "GBA2のクリアフラグをたてる",
+      "id" : 62149
+    },
+    {
+      "text" : "GBA2のクリアフラグをおろす",
+      "id" : 62150
+    },
+    {
+      "text" : "GBA2のフラグ(クーポン金銀動、クリア、セレビィ)を下ろす",
+      "id" : 62151
+    },
+    {
+      "text" : "GBA2のクーポンをリセット",
+      "id" : 62152
+    },
+    {
+      "text" : "ダークポケモンルック",
+      "id" : 62153
+    },
+    {
+      "text" : "シャドウ外枠表示 ON\/OFF",
+      "id" : 62154
+    },
+    {
+      "text" : "プレゼーント00",
+      "id" : 62155
+    },
+    {
+      "text" : "プレゼーント01",
+      "id" : 62156
+    },
+    {
+      "text" : "アベン",
+      "id" : 62157
+    },
+    {
+      "text" : "サポーター２",
+      "id" : 62158
+    },
+    {
+      "text" : "シナリオ１",
+      "id" : 62159
+    },
+    {
+      "text" : "シナリオ２",
+      "id" : 62160
+    },
+    {
+      "text" : "シナリオ３",
+      "id" : 62161
+    },
+    {
+      "text" : "シナリオ４",
+      "id" : 62162
+    },
+    {
+      "text" : "シナリオ５",
+      "id" : 62163
+    },
+    {
+      "text" : "シナリオ６",
+      "id" : 62164
+    },
+    {
+      "text" : "シナリオ７",
+      "id" : 62165
+    },
+    {
+      "text" : "シナリオ８",
+      "id" : 62166
+    },
+    {
+      "text" : "シナリオ９",
+      "id" : 62167
+    },
+    {
+      "text" : "シナリオ１０",
+      "id" : 62168
+    },
+    {
+      "text" : "シナリオ１１",
+      "id" : 62169
+    },
+    {
+      "text" : "シナリオ１２",
+      "id" : 62170
+    },
+    {
+      "text" : "シナリオ１３",
+      "id" : 62171
+    },
+    {
+      "text" : "シナリオ１４",
+      "id" : 62172
+    },
+    {
+      "text" : "シナリオ１５",
+      "id" : 62173
+    },
+    {
+      "text" : "シナリオ１６",
+      "id" : 62174
+    },
+    {
+      "text" : "シナリオ１７",
+      "id" : 62175
+    },
+    {
+      "text" : "シナリオ１８",
+      "id" : 62176
+    },
+    {
+      "text" : "シナリオ１９",
+      "id" : 62177
+    },
+    {
+      "text" : "シナリオ２０",
+      "id" : 62178
+    },
+    {
+      "text" : "８人ダブル１",
+      "id" : 62179
+    },
+    {
+      "text" : "８人ダブル２",
+      "id" : 62180
+    },
+    {
+      "text" : "８人ダブル３",
+      "id" : 62181
+    },
+    {
+      "text" : "８人ダブル４",
+      "id" : 62182
+    },
+    {
+      "text" : "８人ダブル５",
+      "id" : 62183
+    },
+    {
+      "text" : "８人ダブル６",
+      "id" : 62184
+    },
+    {
+      "text" : "８人ダブル７",
+      "id" : 62185
+    },
+    {
+      "text" : "８人ダブル８",
+      "id" : 62186
+    },
+    {
+      "text" : "８人ダブル９",
+      "id" : 62187
+    },
+    {
+      "text" : "８人ダブル１０",
+      "id" : 62188
+    },
+    {
+      "text" : "８人ダブル１１",
+      "id" : 62189
+    },
+    {
+      "text" : "８人ダブル１２",
+      "id" : 62190
+    },
+    {
+      "text" : "８人ダブル１３",
+      "id" : 62191
+    },
+    {
+      "text" : "８人ダブル１４",
+      "id" : 62192
+    },
+    {
+      "text" : "８人ダブル１５",
+      "id" : 62193
+    },
+    {
+      "text" : "８人ダブル１６",
+      "id" : 62194
+    },
+    {
+      "text" : "８人ダブル１７",
+      "id" : 62195
+    },
+    {
+      "text" : "８人ダブル１８",
+      "id" : 62196
+    },
+    {
+      "text" : "８人ダブル１９",
+      "id" : 62197
+    },
+    {
+      "text" : "８人ダブル２０",
+      "id" : 62198
+    },
+    {
+      "text" : "爆発岩",
+      "id" : 62199
+    },
+    {
+      "text" : "爆発天狗",
+      "id" : 62200
+    },
+    {
+      "text" : "８人シングルＳ４　バトンタッチ用テッカニン",
+      "id" : 62201
+    },
+    {
+      "text" : "８人シングルＳ４　バトンタッチ用サクラビス",
+      "id" : 62202
+    },
+    {
+      "text" : "８人ダブルＵ５　アタッカー",
+      "id" : 62203
+    },
+    {
+      "text" : "８人ダブルＵ５　手助けハリテヤマ",
+      "id" : 62204
+    },
+    {
+      "text" : "８人ダブルＵ５　強化＆戦闘ギャラドス",
+      "id" : 62205
+    },
+    {
+      "text" : "８人ダブルＵ５　雨乞い＆戦闘キングドラ",
+      "id" : 62206
+    },
+    {
+      "text" : "テッカ通常バトン",
+      "id" : 62207
+    },
+    {
+      "text" : "ふういん",
+      "id" : 62208
+    },
+    {
+      "text" : "はらだいこ",
+      "id" : 62209
+    },
+    {
+      "text" : "ツールバトル登録トレーナー",
+      "id" : 62210
+    },
+    {
+      "text" : "起きる",
+      "id" : 62211
+    },
+    {
+      "text" : "バトル山のプレゼントルーム",
+      "id" : 62212
+    },
+    {
+      "text" : "手持ちにゲット",
+      "id" : 62213
+    },
+    {
+      "text" : "PCにゲット",
+      "id" : 62214
+    },
+    {
+      "text" : "ゲット失敗",
+      "id" : 62215
+    },
+    {
+      "text" : "８人シングルS１　ブラッキー",
+      "id" : 62216
+    },
+    {
+      "text" : "８人シングルS１　ワタッコ",
+      "id" : 62217
+    },
+    {
+      "text" : "状態変化優先",
+      "id" : 62218
+    },
+    {
+      "text" : "８人シングルA２　一撃",
+      "id" : 62219
+    },
+    {
+      "text" : "８人シングルS１　メガニウム",
+      "id" : 62220
+    },
+    {
+      "text" : "８人シングルS１　ミロカロス",
+      "id" : 62221
+    },
+    {
+      "text" : "やどりぎどくどくみきり",
+      "id" : 62222
+    },
+    {
+      "text" : "大爆発",
+      "id" : 62223
+    },
+    {
+      "text" : "[7]{03}Time out",
+      "id" : 62224
+    },
+    {
+      "text" : "GSmemのメモリ オプティマイズ",
+      "id" : 62225
+    },
+    {
+      "text" : "GSmem内部構造を確認",
+      "id" : 62226
+    },
+    {
+      "text" : "GSmemのメモリマップを表示",
+      "id" : 62227
+    },
+    {
+      "text" : "GSmem",
+      "id" : 62228
+    },
+    {
+      "text" : "無効なポリゴンをGXに送る",
+      "id" : 62229
+    },
+    {
+      "text" : "PAL50\/60設定",
+      "id" : 62230
+    },
+    {
+      "text" : "PAL 50Hz",
+      "id" : 62231
+    },
+    {
+      "text" : "PAL 60Hz (EuRgb)",
+      "id" : 62232
+    }
+  ]
+}
