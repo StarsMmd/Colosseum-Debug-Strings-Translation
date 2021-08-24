@@ -955,7 +955,7 @@
     },
     {
       "id" : 60237,
-      "text" : "なつき度"
+      "text" : "Friendship"
     },
     {
       "id" : 60238,
@@ -1178,8 +1178,8 @@
       "text" : "Shop M1_1F"
     },
     {
-      "id": 60293,
-      "text": "Shop M1_2F"
+      "id" : 60293,
+      "text" : "Shop M1_2F"
     },
     {
       "id" : 60294,
@@ -1190,8 +1190,8 @@
       "text" : "Shop M3"
     },
     {
-      "id": 60296,
-      "text": "Shop M4"
+      "id" : 60296,
+      "text" : "Shop M4"
     },
     {
       "id" : 60297,
@@ -1227,15 +1227,15 @@
     },
     {
       "id" : 60305,
-      "text" : "Tour　1-1　1 ON 1"
+      "text" : "Tool　1-1　1 ON 1"
     },
     {
       "id" : 60306,
-      "text" : "Tour　1-1　2 ON 2"
+      "text" : "Tool　1-1　2 ON 2"
     },
     {
       "id" : 60307,
-      "text" : "Tour　2-2　1 ON 1"
+      "text" : "Tool　2-2　1 ON 1"
     },
     {
       "id" : 60308,
@@ -1442,8 +1442,8 @@
       "text" : "Record with Z button 　ON\/OFF（BBA）"
     },
     {
-      "id": 60359,
-      "text": "Record with Z button　ON\/OFF（SD Card）"
+      "id" : 60359,
+      "text" : "Record with Z button　ON\/OFF（SD Card）"
     },
     {
       "id" : 60360,
@@ -1542,20 +1542,20 @@
       "text" : "Debug Save（SD Card）"
     },
     {
-      "id": 60384,
-      "text": "Debug Save（BBA)"
+      "id" : 60384,
+      "text" : "Debug Save（BBA)"
     },
     {
       "id" : 60385,
       "text" : "Debug Load (Memory Card）"
     },
     {
-      "id": 60386,
-      "text": "Debug Load (SD Card)"
+      "id" : 60386,
+      "text" : "Debug Load (SD Card)"
     },
     {
-      "id": 60387,
-      "text": "Debug Load(BBA)"
+      "id" : 60387,
+      "text" : "Debug Load(BBA)"
     },
     {
       "id" : 60388,
@@ -2118,8 +2118,8 @@
       "text" : "Initialize e-Reader Save Data"
     },
     {
-      "id": 60531,
-      "text": "Transfer e-Reader program to e-Reader+"
+      "id" : 60531,
+      "text" : "Transfer e-Reader program to e-Reader+"
     },
     {
       "id" : 60532,
@@ -2154,100 +2154,100 @@
       "text" : "Shadow Noctowl"
     },
     {
-      "id": 60540,
-      "text": "Shadow Flaafy"
+      "id" : 60540,
+      "text" : "Shadow Flaafy"
     },
     {
-      "id": 60541,
-      "text": "Shadow Skiploom"
+      "id" : 60541,
+      "text" : "Shadow Skiploom"
     },
     {
-      "id": 60542,
-      "text": "Shadow Quagsire"
+      "id" : 60542,
+      "text" : "Shadow Quagsire"
     },
     {
-      "id": 60543,
-      "text": "Shadow Misdreavus"
+      "id" : 60543,
+      "text" : "Shadow Misdreavus"
     },
     {
-      "id": 60544,
-      "text": "Shadow Spoink"
+      "id" : 60544,
+      "text" : "Shadow Spoink"
     },
     {
-      "id": 60545,
-      "text": "Shadow Furret"
+      "id" : 60545,
+      "text" : "Shadow Furret"
     },
     {
-      "id": 60546,
-      "text": "Shadow Slugma"
+      "id" : 60546,
+      "text" : "Shadow Slugma"
     },
     {
-      "id": 60547,
-      "text": "Shadow Remoraid"
+      "id" : 60547,
+      "text" : "Shadow Remoraid"
     },
     {
-      "id": 60548,
-      "text": "Shadow Mantine"
+      "id" : 60548,
+      "text" : "Shadow Mantine"
     },
     {
-      "id": 60549,
-      "text": "Shadow Psyduck"
+      "id" : 60549,
+      "text" : "Shadow Psyduck"
     },
     {
-      "id": 60550,
-      "text": "Shadow Meditite"
+      "id" : 60550,
+      "text" : "Shadow Meditite"
     },
     {
-      "id": 60551,
-      "text": "Shadow Baltoy"
+      "id" : 60551,
+      "text" : "Shadow Baltoy"
     },
     {
-      "id": 60552,
-      "text": "Shadow Swablu"
+      "id" : 60552,
+      "text" : "Shadow Swablu"
     },
     {
-      "id": 60553,
-      "text": "Shadow Sudowoodo"
+      "id" : 60553,
+      "text" : "Shadow Sudowoodo"
     },
     {
-      "id": 60554,
-      "text": "Shadow Mightyena"
+      "id" : 60554,
+      "text" : "Shadow Mightyena"
     },
     {
-      "id": 60555,
-      "text": "Shadow Entei"
+      "id" : 60555,
+      "text" : "Shadow Entei"
     },
     {
-      "id": 60556,
-      "text": "Shadow Ledian"
+      "id" : 60556,
+      "text" : "Shadow Ledian"
     },
     {
-      "id": 60557,
-      "text": "Shadow Suicune"
+      "id" : 60557,
+      "text" : "Shadow Suicune"
     },
     {
-      "id": 60558,
-      "text": "Shadow Gligar"
+      "id" : 60558,
+      "text" : "Shadow Gligar"
     },
     {
-      "id": 60559,
-      "text": "Shadow Stantler"
+      "id" : 60559,
+      "text" : "Shadow Stantler"
     },
     {
-      "id": 60560,
-      "text": "Shadow Piloswine"
+      "id" : 60560,
+      "text" : "Shadow Piloswine"
     },
     {
-      "id": 60561,
-      "text": "Shadow Sneasel"
+      "id" : 60561,
+      "text" : "Shadow Sneasel"
     },
     {
-      "id": 60562,
-      "text": "Shadow Castform"
+      "id" : 60562,
+      "text" : "Shadow Castform"
     },
     {
-      "id": 60563,
-      "text": "Shadow Murkrow"
+      "id" : 60563,
+      "text" : "Shadow Murkrow"
     },
     {
       "id" : 60564,
@@ -2523,7 +2523,7 @@
     },
     {
       "id" : 60632,
-      "text" : "保存なつき度"
+      "text" : "Save Friendship"
     },
     {
       "id" : 60633,
@@ -2598,8 +2598,8 @@
       "text" : "e-Reader Battle 1"
     },
     {
-      "id": 60651,
-      "text": "e-Reader Battle 2"
+      "id" : 60651,
+      "text" : "e-Reader Battle 2"
     },
     {
       "id" : 60652,
@@ -2619,7 +2619,7 @@
     },
     {
       "id" : 60656,
-      "text" : "Tour Battle"
+      "text" : "Tool Battle"
     },
     {
       "id" : 60657,
@@ -2631,39 +2631,39 @@
     },
     {
       "id" : 60659,
-      "text" : "1対1参加6匹1匹対1匹"
+      "text" : "1vs1 6 Pokémon 1on1"
     },
     {
       "id" : 60660,
-      "text" : "1対1参加6匹2匹対2匹"
+      "text" : "1vs1 6 Pokémon 2on2"
     },
     {
       "id" : 60661,
-      "text" : "2対2参加6匹2匹対2匹"
+      "text" : "2vs2 6 Pokémon 2on2"
     },
     {
       "id" : 60662,
-      "text" : "1対1参加3匹1匹対1匹"
+      "text" : "1vs1 3 Pokémon 1on1"
     },
     {
       "id" : 60663,
-      "text" : "1対1参加４匹2匹対2匹"
+      "text" : "1vs1 4 Pokémon 2on2"
     },
     {
       "id" : 60664,
-      "text" : "2対2参加3匹2匹対2匹"
+      "text" : "2vs2 3 Pokémon 2on2"
     },
     {
       "id" : 60665,
-      "text" : "戦闘種別　　　　"
+      "text" : "Battle Type　　　　"
     },
     {
       "id" : 60666,
-      "text" : "戦闘形式　　　　"
+      "text" : "Battle Format　　　　"
     },
     {
       "id" : 60667,
-      "text" : "戦闘フロア　　　"
+      "text" : "Battle Floor　　　"
     },
     {
       "id" : 60668,
@@ -2679,7 +2679,7 @@
     },
     {
       "id" : 60671,
-      "text" : "Battle Trainer４"
+      "text" : "Battle Trainer4"
     },
     {
       "id" : 60672,
@@ -2878,32 +2878,32 @@
       "text" : "Trudly 3"
     },
     {
-      "id": 60721,
-      "text": "Drig"
+      "id" : 60721,
+      "text" : "Drig"
     },
     {
-      "id": 60722,
-      "text": "Kaib"
+      "id" : 60722,
+      "text" : "Kaib"
     },
     {
-      "id": 60723,
-      "text": "Botan"
+      "id" : 60723,
+      "text" : "Botan"
     },
     {
-      "id": 60724,
-      "text": "Liqui"
+      "id" : 60724,
+      "text" : "Liqui"
     },
     {
-      "id": 60725,
-      "text": "Dugo"
+      "id" : 60725,
+      "text" : "Dugo"
     },
     {
-      "id": 60726,
-      "text": "Gwin"
+      "id" : 60726,
+      "text" : "Gwin"
     },
     {
-      "id": 60727,
-      "text": "Wakin"
+      "id" : 60727,
+      "text" : "Wakin"
     },
     {
       "id" : 60728,
@@ -2947,683 +2947,683 @@
     },
     {
       "id" : 60738,
-      "text" : "M1セット1_1人目"
+      "text" : "M1 Set 1_1st"
     },
     {
       "id" : 60739,
-      "text" : "M1セット1_2人目"
+      "text" : "M1 Set 1_2nd"
     },
     {
       "id" : 60740,
-      "text" : "M1セット1_3人目"
+      "text" : "M1 Set 1_3rd"
     },
     {
       "id" : 60741,
-      "text" : "M1セット1_4人目"
+      "text" : "M1 Set 1_4th"
     },
     {
       "id" : 60742,
-      "text" : "M1セット2_1人目"
+      "text" : "M1 Set 2_1st"
     },
     {
       "id" : 60743,
-      "text" : "M1セット2_2人目"
+      "text" : "M1 Set 2_2nd"
     },
     {
       "id" : 60744,
-      "text" : "M1セット2_3人目"
+      "text" : "M1 Set 2_3rd"
     },
     {
       "id" : 60745,
-      "text" : "M1セット2_4人目"
+      "text" : "M1 Set 2_4th"
     },
     {
       "id" : 60746,
-      "text" : "M1セット3_1人目"
+      "text" : "M1 Set 3_1st"
     },
     {
       "id" : 60747,
-      "text" : "M1セット3_2人目"
+      "text" : "M1 Set 3_2nd"
     },
     {
       "id" : 60748,
-      "text" : "M1セット3_3人目"
+      "text" : "M1 Set 3_3rd"
     },
     {
       "id" : 60749,
-      "text" : "M1セット3_4人目"
+      "text" : "M1 Set 3_4th"
     },
     {
       "id" : 60750,
-      "text" : "M1セット4_1人目"
+      "text" : "M1 Set 4_1st"
     },
     {
       "id" : 60751,
-      "text" : "M1セット4_2人目"
+      "text" : "M1 Set 4_2nd"
     },
     {
       "id" : 60752,
-      "text" : "M1セット4_3人目"
+      "text" : "M1 Set 4_3rd"
     },
     {
       "id" : 60753,
-      "text" : "M1セット4_4人目"
+      "text" : "M1 Set 4_4th"
     },
     {
       "id" : 60754,
-      "text" : "ラルゴ1"
+      "text" : "Margo 1"
     },
     {
       "id" : 60755,
-      "text" : "ラルゴ2"
+      "text" : "Margo 2"
     },
     {
       "id" : 60756,
-      "text" : "ラルゴ3"
+      "text" : "Margo 3"
     },
     {
       "id" : 60757,
-      "text" : "アージェ1"
+      "text" : "Emok 1"
     },
     {
       "id" : 60758,
-      "text" : "アージェ2"
+      "text" : "Emok 2"
     },
     {
       "id" : 60759,
-      "text" : "アージェ3"
+      "text" : "Emok 3"
     },
     {
       "id" : 60760,
-      "text" : "バップ1"
+      "text" : "Nover 1"
     },
     {
       "id" : 60761,
-      "text" : "バップ2"
+      "text" : "Nover 2"
     },
     {
       "id" : 60762,
-      "text" : "バップ3"
+      "text" : "Nover 3"
     },
     {
       "id" : 60763,
-      "text" : "バップ4"
+      "text" : "Nover 4"
     },
     {
       "id" : 60764,
-      "text" : "バップ5"
+      "text" : "Nover 5"
     },
     {
       "id" : 60765,
-      "text" : "バップ6"
+      "text" : "Nover 6"
     },
     {
       "id" : 60766,
-      "text" : "チェレス1"
+      "text" : "Diogo 1"
     },
     {
       "id" : 60767,
-      "text" : "チェレス2"
+      "text" : "Diogo 2"
     },
     {
       "id" : 60768,
-      "text" : "チェレス3"
+      "text" : "Diogo 3"
     },
     {
       "id" : 60769,
-      "text" : "チェレス4"
+      "text" : "Diogo 4"
     },
     {
       "id" : 60770,
-      "text" : "チェレス5"
+      "text" : "Diogo 5"
     },
     {
       "id" : 60771,
-      "text" : "チェレス6"
+      "text" : "Diogo 6"
     },
     {
       "id" : 60772,
-      "text" : "ラプソ1"
+      "text" : "Leba 1"
     },
     {
       "id" : 60773,
-      "text" : "ラプソ2"
+      "text" : "Leba 2"
     },
     {
       "id" : 60774,
-      "text" : "ラプソ3"
+      "text" : "Leba 3"
     },
     {
       "id" : 60775,
-      "text" : "ラプソ4"
+      "text" : "Leba 4"
     },
     {
       "id" : 60776,
-      "text" : "ラプソ5"
+      "text" : "Leba 5"
     },
     {
       "id" : 60777,
-      "text" : "ラプソ6"
+      "text" : "Leba 6"
     },
     {
       "id" : 60778,
-      "text" : "ビック1"
+      "text" : "Divel 1"
     },
     {
       "id" : 60779,
-      "text" : "ビック2"
+      "text" : "Divel 2"
     },
     {
       "id" : 60780,
-      "text" : "ビック3"
+      "text" : "Divel 3"
     },
     {
       "id" : 60781,
-      "text" : "ビック4"
+      "text" : "Divel 4"
     },
     {
       "id" : 60782,
-      "text" : "ビック5"
+      "text" : "Divel 5"
     },
     {
       "id" : 60783,
-      "text" : "ビック6"
+      "text" : "Divel 6"
     },
     {
       "id" : 60784,
-      "text" : "セニョ1"
+      "text" : "Vant 1"
     },
     {
       "id" : 60785,
-      "text" : "セニョ2"
+      "text" : "Vant 2"
     },
     {
       "id" : 60786,
-      "text" : "セニョ3"
+      "text" : "Vant 3"
     },
     {
       "id" : 60787,
-      "text" : "セニョ4"
+      "text" : "Vant 4"
     },
     {
       "id" : 60788,
-      "text" : "セニョ5"
+      "text" : "Vant 5"
     },
     {
       "id" : 60789,
-      "text" : "セニョ6"
+      "text" : "Vant 6"
     },
     {
       "id" : 60790,
-      "text" : "トオン1"
+      "text" : "Lon 1"
     },
     {
       "id" : 60791,
-      "text" : "トオン2"
+      "text" : "Lon 2"
     },
     {
       "id" : 60792,
-      "text" : "トオン3"
+      "text" : "Lon 3"
     },
     {
       "id" : 60793,
-      "text" : "トオン4"
+      "text" : "Lon 4"
     },
     {
       "id" : 60794,
-      "text" : "トオン5"
+      "text" : "Lon 5"
     },
     {
       "id" : 60795,
-      "text" : "トオン6"
+      "text" : "Lon 6"
     },
     {
       "id" : 60796,
-      "text" : "マサ1"
+      "text" : "Cail 1"
     },
     {
       "id" : 60797,
-      "text" : "マサ2"
+      "text" : "Cail 2"
     },
     {
       "id" : 60798,
-      "text" : "マサ3"
+      "text" : "Cail 3"
     },
     {
       "id" : 60799,
-      "text" : "マサ4"
+      "text" : "Cail 4"
     },
     {
       "id" : 60800,
-      "text" : "マサ5"
+      "text" : "Cail 5"
     },
     {
       "id" : 60801,
-      "text" : "マサ6"
+      "text" : "Cail 6"
     },
     {
       "id" : 60802,
-      "text" : "ワイルド1"
+      "text" : "Nore 1"
     },
     {
       "id" : 60803,
-      "text" : "ワイルド2"
+      "text" : "Nore 2"
     },
     {
       "id" : 60804,
-      "text" : "ワイルド3"
+      "text" : "Nore 3"
     },
     {
       "id" : 60805,
-      "text" : "ワイルド4"
+      "text" : "Nore 4"
     },
     {
       "id" : 60806,
-      "text" : "ワイルド5"
+      "text" : "Nore 5"
     },
     {
       "id" : 60807,
-      "text" : "モニ1"
+      "text" : "Kai 1"
     },
     {
       "id" : 60808,
-      "text" : "モニ2"
+      "text" : "Kai 2"
     },
     {
       "id" : 60809,
-      "text" : "デクレ1"
+      "text" : "Pike 1"
     },
     {
       "id" : 60810,
-      "text" : "デクレ2"
+      "text" : "Pike 2"
     },
     {
       "id" : 60811,
-      "text" : "リスト1"
+      "text" : "Geats 1"
     },
     {
       "id" : 60812,
-      "text" : "リスト2"
+      "text" : "Geats 2"
     },
     {
       "id" : 60813,
-      "text" : "305ハンター男1"
+      "text" : "305 Male Hunter 1"
     },
     {
       "id" : 60814,
-      "text" : "305ハンター男2"
+      "text" : "305 Male Hunter 2"
     },
     {
       "id" : 60815,
-      "text" : "ベン1"
+      "text" : "Akmen 1"
     },
     {
       "id" : 60816,
-      "text" : "ベン2"
+      "text" : "Akmen 2"
     },
     {
       "id" : 60817,
-      "text" : "モルツ1"
+      "text" : "Loba 1"
     },
     {
       "id" : 60818,
-      "text" : "モルツ2"
+      "text" : "Loba 2"
     },
     {
       "id" : 60819,
-      "text" : "ヒップ1"
+      "text" : "Raleen 1"
     },
     {
       "id" : 60820,
-      "text" : "ヒップ2"
+      "text" : "Raleen 2"
     },
     {
       "id" : 60821,
-      "text" : "ビット1"
+      "text" : "Tura 1"
     },
     {
       "id" : 60822,
-      "text" : "ビット2"
+      "text" : "Tura 2"
     },
     {
       "id" : 60823,
-      "text" : "ユロ1"
+      "text" : "Toti 1"
     },
     {
       "id" : 60824,
-      "text" : "ユロ2"
+      "text" : "Toti 2"
     },
     {
       "id" : 60825,
-      "text" : "ホップ1"
+      "text" : "Elidi 1"
     },
     {
       "id" : 60826,
-      "text" : "ホップ2"
+      "text" : "Elidi 2"
     },
     {
       "id" : 60827,
-      "text" : "ブレス1"
+      "text" : "Reath 1"
     },
     {
       "id" : 60828,
-      "text" : "ブレス2"
+      "text" : "Reath 2"
     },
     {
       "id" : 60829,
-      "text" : "ブレス3"
+      "text" : "Reath 3"
     },
     {
       "id" : 60830,
-      "text" : "スーラ1"
+      "text" : "Ferma 1"
     },
     {
       "id" : 60831,
-      "text" : "スーラ2"
+      "text" : "Ferma 2"
     },
     {
       "id" : 60832,
-      "text" : "スーラ3"
+      "text" : "Ferma 3"
     },
     {
       "id" : 60833,
-      "text" : "タンカ1"
+      "text" : "Doken 1"
     },
     {
       "id" : 60834,
-      "text" : "タンカ2"
+      "text" : "Doken 2"
     },
     {
       "id" : 60835,
-      "text" : "タンカ3"
+      "text" : "Doken 3"
     },
     {
       "id" : 60836,
-      "text" : "スタック1"
+      "text" : "Simes 1"
     },
     {
       "id" : 60837,
-      "text" : "スタック2"
+      "text" : "Simes 2"
     },
     {
       "id" : 60838,
-      "text" : "ビブ1"
+      "text" : "Maiz 1"
     },
     {
       "id" : 60839,
-      "text" : "ビブ2"
+      "text" : "Maiz 2"
     },
     {
       "id" : 60840,
-      "text" : "フェルマ1"
+      "text" : "Valen 1"
     },
     {
       "id" : 60841,
-      "text" : "フェルマ2"
+      "text" : "Valen 2"
     },
     {
       "id" : 60842,
-      "text" : "リード1"
+      "text" : "Twan 1"
     },
     {
       "id" : 60843,
-      "text" : "リード2"
+      "text" : "Twan 2"
     },
     {
       "id" : 60844,
-      "text" : "リード3"
+      "text" : "Twan 3"
     },
     {
       "id" : 60845,
-      "text" : "ビバル1"
+      "text" : "Rehan 1"
     },
     {
       "id" : 60846,
-      "text" : "ビバル2"
+      "text" : "Rehan 2"
     },
     {
       "id" : 60847,
-      "text" : "ストラ1"
+      "text" : "Noxy 1"
     },
     {
       "id" : 60848,
-      "text" : "ストラ2"
+      "text" : "Noxy 2"
     },
     {
       "id" : 60849,
-      "text" : "アレク1"
+      "text" : "Evat 1"
     },
     {
       "id" : 60850,
-      "text" : "アレク2"
+      "text" : "Evat 2"
     },
     {
       "id" : 60851,
-      "text" : "レガト1"
+      "text" : "Derid 1"
     },
     {
       "id" : 60852,
-      "text" : "レガト2"
+      "text" : "Derid 2"
     },
     {
       "id" : 60853,
-      "text" : "トレモ1"
+      "text" : "Zalo 1"
     },
     {
       "id" : 60854,
-      "text" : "トレモ2"
+      "text" : "Zalo 2"
     },
     {
       "id" : 60855,
-      "text" : "トレモ3"
+      "text" : "Zalo 3"
     },
     {
       "id" : 60856,
-      "text" : "ナチュラ1"
+      "text" : "Sosh 1"
     },
     {
       "id" : 60857,
-      "text" : "ナチュラ2"
+      "text" : "Sosh 2"
     },
     {
       "id" : 60858,
-      "text" : "ナチュラ3"
+      "text" : "Sosh 3"
     },
     {
       "id" : 60859,
-      "text" : "ハモニ1"
+      "text" : "Meli 1"
     },
     {
       "id" : 60860,
-      "text" : "ハモニ2"
+      "text" : "Meli 2"
     },
     {
       "id" : 60861,
-      "text" : "スーザ1"
+      "text" : "Mela 1"
     },
     {
       "id" : 60862,
-      "text" : "スーザ2"
+      "text" : "Mela 2"
     },
     {
       "id" : 60863,
-      "text" : "ソット1"
+      "text" : "Sema 1"
     },
     {
       "id" : 60864,
-      "text" : "ソット2"
+      "text" : "Sema 2"
     },
     {
       "id" : 60865,
-      "text" : "ミラーボ1"
+      "text" : "Miror B. 1"
     },
     {
       "id" : 60866,
-      "text" : "ミラーボ2"
+      "text" : "Miror B. 2"
     },
     {
       "id" : 60867,
-      "text" : "ミラーボ3"
+      "text" : "Miror B. 3"
     },
     {
       "id" : 60868,
-      "text" : "ミラーボ4"
+      "text" : "Miror B. 4"
     },
     {
       "id" : 60869,
-      "text" : "ミラーボ5"
+      "text" : "Miror B. 5"
     },
     {
       "id" : 60870,
-      "text" : "M2勝ち抜き1人目"
+      "text" : "M2 continuous win 1st"
     },
     {
       "id" : 60871,
-      "text" : "M2勝ち抜き2人目"
+      "text" : "M2 continuous win 2nd"
     },
     {
       "id" : 60872,
-      "text" : "M2勝ち抜き3人目"
+      "text" : "M2 continuous win 3rd"
     },
     {
       "id" : 60873,
-      "text" : "M2勝ち抜き４人目"
+      "text" : "M2 continuous win 4th"
     },
     {
       "id" : 60874,
-      "text" : "M2セット1_1人目"
+      "text" : "M2 Set1_1st"
     },
     {
       "id" : 60875,
-      "text" : "M2セット1_2人目"
+      "text" : "M2Set1_2nd"
     },
     {
       "id" : 60876,
-      "text" : "M2セット1_3人目"
+      "text" : "M2Set1_3rd"
     },
     {
       "id" : 60877,
-      "text" : "M2セット1_4人目"
+      "text" : "M2Set1_4th"
     },
     {
       "id" : 60878,
-      "text" : "M2セット2_1人目"
+      "text" : "M2Set2_1st"
     },
     {
       "id" : 60879,
-      "text" : "M2セット2_2人目"
+      "text" : "M2Set2_2nd"
     },
     {
       "id" : 60880,
-      "text" : "M2セット2_3人目"
+      "text" : "M2Set2_3rd"
     },
     {
       "id" : 60881,
-      "text" : "M2セット2_4人目"
+      "text" : "M2Set2_4th"
     },
     {
       "id" : 60882,
-      "text" : "M2セット3_1人目"
+      "text" : "M2Set3_1st"
     },
     {
       "id" : 60883,
-      "text" : "M2セット3_2人目"
+      "text" : "M2Set3_2nd"
     },
     {
       "id" : 60884,
-      "text" : "M2セット3_3人目"
+      "text" : "M2Set3_3rd"
     },
     {
       "id" : 60885,
-      "text" : "M2セット3_4人目"
+      "text" : "M2Set3_4th"
     },
     {
       "id" : 60886,
-      "text" : "M2セット4_1人目"
+      "text" : "M2Set4_1st"
     },
     {
       "id" : 60887,
-      "text" : "M2セット4_2人目"
+      "text" : "M2Set4_2nd"
     },
     {
       "id" : 60888,
-      "text" : "M2セット4_3人目"
+      "text" : "M2Set4_3rd"
     },
     {
       "id" : 60889,
-      "text" : "M2セット4_4人目"
+      "text" : "M2Set4_4th"
     },
     {
       "id" : 60890,
-      "text" : "M2セット5_1人目"
+      "text" : "M2Set5_1st"
     },
     {
       "id" : 60891,
-      "text" : "M2セット5_2人目"
+      "text" : "M2Set5_2nd"
     },
     {
       "id" : 60892,
-      "text" : "M2セット5_3人目"
+      "text" : "M2Set5_3rd"
     },
     {
       "id" : 60893,
-      "text" : "M2セット5_4人目"
+      "text" : "M2Set5_4th"
     },
     {
       "id" : 60894,
-      "text" : "オルド1"
+      "text" : "Skof 1"
     },
     {
       "id" : 60895,
-      "text" : "オルド2"
+      "text" : "Skof 2"
     },
     {
       "id" : 60896,
-      "text" : "ハミル"
+      "text" : "Doven"
     },
     {
       "id" : 60897,
-      "text" : "ダイン"
+      "text" : "Silton"
     },
     {
       "id" : 60898,
-      "text" : "ファミ"
+      "text" : "Kass"
     },
     {
       "id" : 60899,
-      "text" : "コワップ1"
+      "text" : "Skrub 1"
     },
     {
       "id" : 60900,
-      "text" : "コワップ2"
+      "text" : "Skrub 2"
     },
     {
       "id" : 60901,
-      "text" : "コワップ3"
+      "text" : "Skrub 3"
     },
     {
       "id" : 60902,
-      "text" : "コワップ4"
+      "text" : "Skrub 4"
     },
     {
       "id" : 60903,
-      "text" : "コワップ5"
+      "text" : "Skrub 5"
     },
     {
       "id" : 60904,
-      "text" : "タカト"
+      "text" : "Dury"
     },
     {
       "id" : 60905,
-      "text" : "ボブ"
+      "text" : "Turo"
     },
     {
       "id" : 60906,
-      "text" : "ダン"
+      "text" : "Drovic"
     },
     {
       "id" : 60907,
-      "text" : "キャシー"
+      "text" : "Kimit"
     },
     {
       "id" : 60908,
@@ -3631,11 +3631,11 @@
     },
     {
       "id" : 60909,
-      "text" : "マリ"
+      "text" : "Telia"
     },
     {
       "id" : 60910,
-      "text" : "ルウ"
+      "text" : "Nortz"
     },
     {
       "id" : 60911,
@@ -3643,727 +3643,727 @@
     },
     {
       "id" : 60912,
-      "text" : "ミサ"
+      "text" : "Kison"
     },
     {
       "id" : 60913,
-      "text" : "エージ"
+      "text" : "Berin"
     },
     {
       "id" : 60914,
-      "text" : "ダキム1"
+      "text" : "Dakim 1"
     },
     {
       "id" : 60915,
-      "text" : "ダキム2"
+      "text" : "Dakim 2"
     },
     {
       "id" : 60916,
-      "text" : "ダキム3"
+      "text" : "Dakim 3"
     },
     {
       "id" : 60917,
-      "text" : "ダキム4"
+      "text" : "Dakim 4"
     },
     {
       "id" : 60918,
-      "text" : "ダキム5"
+      "text" : "Dakim 5"
     },
     {
       "id" : 60919,
-      "text" : "レイ1"
+      "text" : "Aidel 1"
     },
     {
       "id" : 60920,
-      "text" : "レイ2"
+      "text" : "Aidel 2"
     },
     {
       "id" : 60921,
-      "text" : "D2_1人目"
+      "text" : "D2_1st"
     },
     {
       "id" : 60922,
-      "text" : "D2_2人目"
+      "text" : "D2_2nd"
     },
     {
       "id" : 60923,
-      "text" : "D2_3人目"
+      "text" : "D2_3rd"
     },
     {
       "id" : 60924,
-      "text" : "D2_4人目"
+      "text" : "D2_4th"
     },
     {
       "id" : 60925,
-      "text" : "D2_5人目"
+      "text" : "D2_5th"
     },
     {
       "id" : 60926,
-      "text" : "D2_6人目"
+      "text" : "D2_6th"
     },
     {
       "id" : 60927,
-      "text" : "D2_7人目"
+      "text" : "D2_7th"
     },
     {
       "id" : 60928,
-      "text" : "D2_8人目"
+      "text" : "D2_8th"
     },
     {
       "id" : 60929,
-      "text" : "D2_9人目"
+      "text" : "D2_9th"
     },
     {
       "id" : 60930,
-      "text" : "D2_10人目"
+      "text" : "D2_10th"
     },
     {
       "id" : 60931,
-      "text" : "D2_11人目"
+      "text" : "D2_11th"
     },
     {
       "id" : 60932,
-      "text" : "D2_12人目"
+      "text" : "D2_12th"
     },
     {
       "id" : 60933,
-      "text" : "D2_13人目"
+      "text" : "D2_13th"
     },
     {
       "id" : 60934,
-      "text" : "D2_14人目"
+      "text" : "D2_14th"
     },
     {
       "id" : 60935,
-      "text" : "D2_15人目"
+      "text" : "D2_15th"
     },
     {
       "id" : 60936,
-      "text" : "D2_16人目"
+      "text" : "D2_16th"
     },
     {
       "id" : 60937,
-      "text" : "D2_17人目"
+      "text" : "D2_17th"
     },
     {
       "id" : 60938,
-      "text" : "D2_18人目"
+      "text" : "D2_18th"
     },
     {
       "id" : 60939,
-      "text" : "D2_19人目"
+      "text" : "D2_19th"
     },
     {
       "id" : 60940,
-      "text" : "D2_20人目"
+      "text" : "D2_20th"
     },
     {
       "id" : 60941,
-      "text" : "D2_21人目"
+      "text" : "D2_21st"
     },
     {
       "id" : 60942,
-      "text" : "D2_22人目"
+      "text" : "D2_22nd"
     },
     {
       "id" : 60943,
-      "text" : "D2_23人目"
+      "text" : "D2_23rd"
     },
     {
       "id" : 60944,
-      "text" : "D2_24人目"
+      "text" : "D2_24th"
     },
     {
       "id" : 60945,
-      "text" : "D2_25人目"
+      "text" : "D2_25th"
     },
     {
       "id" : 60946,
-      "text" : "D2_26人目"
+      "text" : "D2_26th"
     },
     {
       "id" : 60947,
-      "text" : "D2_27人目"
+      "text" : "D2_27th"
     },
     {
       "id" : 60948,
-      "text" : "D2_28人目"
+      "text" : "D2_28th"
     },
     {
       "id" : 60949,
-      "text" : "D2_29人目"
+      "text" : "D2_29th"
     },
     {
       "id" : 60950,
-      "text" : "D2_30人目"
+      "text" : "D2_30th"
     },
     {
       "id" : 60951,
-      "text" : "D2_31人目"
+      "text" : "D2_31st"
     },
     {
       "id" : 60952,
-      "text" : "D2_32人目"
+      "text" : "D2_32nd"
     },
     {
       "id" : 60953,
-      "text" : "D2_33人目"
+      "text" : "D2_33rd"
     },
     {
       "id" : 60954,
-      "text" : "D2_34人目"
+      "text" : "D2_34th"
     },
     {
       "id" : 60955,
-      "text" : "D2_35人目"
+      "text" : "D2_35th"
     },
     {
       "id" : 60956,
-      "text" : "D2_36人目"
+      "text" : "D2_36th"
     },
     {
       "id" : 60957,
-      "text" : "D2_37人目"
+      "text" : "D2_37th"
     },
     {
       "id" : 60958,
-      "text" : "D2_38人目"
+      "text" : "D2_38th"
     },
     {
       "id" : 60959,
-      "text" : "D2_39人目"
+      "text" : "D2_39th"
     },
     {
       "id" : 60960,
-      "text" : "D2_40人目"
+      "text" : "D2_40th"
     },
     {
       "id" : 60961,
-      "text" : "D2_41人目"
+      "text" : "D2_41st"
     },
     {
       "id" : 60962,
-      "text" : "D2_42人目"
+      "text" : "D2_42nd"
     },
     {
       "id" : 60963,
-      "text" : "D2_43人目"
+      "text" : "D2_43rd"
     },
     {
       "id" : 60964,
-      "text" : "D2_44人目"
+      "text" : "D2_44th"
     },
     {
       "id" : 60965,
-      "text" : "D2_45人目"
+      "text" : "D2_45th"
     },
     {
       "id" : 60966,
-      "text" : "D2_46人目"
+      "text" : "D2_46th"
     },
     {
       "id" : 60967,
-      "text" : "D2_47人目"
+      "text" : "D2_47th"
     },
     {
       "id" : 60968,
-      "text" : "D2_48人目"
+      "text" : "D2_48th"
     },
     {
       "id" : 60969,
-      "text" : "D2_49人目"
+      "text" : "D2_49th"
     },
     {
       "id" : 60970,
-      "text" : "D2_50人目"
+      "text" : "D2_50th"
     },
     {
       "id" : 60971,
-      "text" : "D2_51人目"
+      "text" : "D2_51st"
     },
     {
       "id" : 60972,
-      "text" : "D2_52人目"
+      "text" : "D2_52nd"
     },
     {
       "id" : 60973,
-      "text" : "D2_53人目"
+      "text" : "D2_53rd"
     },
     {
       "id" : 60974,
-      "text" : "D2_54人目"
+      "text" : "D2_54th"
     },
     {
       "id" : 60975,
-      "text" : "D2_55人目"
+      "text" : "D2_55th"
     },
     {
       "id" : 60976,
-      "text" : "D2_56人目"
+      "text" : "D2_56th"
     },
     {
       "id" : 60977,
-      "text" : "D2_57人目"
+      "text" : "D2_57th"
     },
     {
       "id" : 60978,
-      "text" : "D2_58人目"
+      "text" : "D2_58th"
     },
     {
       "id" : 60979,
-      "text" : "D2_59人目"
+      "text" : "D2_59th"
     },
     {
       "id" : 60980,
-      "text" : "D2_60人目"
+      "text" : "D2_60th"
     },
     {
       "id" : 60981,
-      "text" : "D2_61人目"
+      "text" : "D2_61st"
     },
     {
       "id" : 60982,
-      "text" : "D2_62人目"
+      "text" : "D2_62nd"
     },
     {
       "id" : 60983,
-      "text" : "D2_63人目"
+      "text" : "D2_63rd"
     },
     {
       "id" : 60984,
-      "text" : "D2_64人目"
+      "text" : "D2_64th"
     },
     {
       "id" : 60985,
-      "text" : "D2_65人目"
+      "text" : "D2_65th"
     },
     {
       "id" : 60986,
-      "text" : "D2_66人目"
+      "text" : "D2_66th"
     },
     {
       "id" : 60987,
-      "text" : "D2_67人目"
+      "text" : "D2_67th"
     },
     {
       "id" : 60988,
-      "text" : "D2_68人目"
+      "text" : "D2_68th"
     },
     {
       "id" : 60989,
-      "text" : "D2_69人目"
+      "text" : "D2_69th"
     },
     {
       "id" : 60990,
-      "text" : "D2_70人目"
+      "text" : "D2_70th"
     },
     {
       "id" : 60991,
-      "text" : "D2_71人目"
+      "text" : "D2_71st"
     },
     {
       "id" : 60992,
-      "text" : "D2_72人目"
+      "text" : "D2_72nd"
     },
     {
       "id" : 60993,
-      "text" : "D2_73人目"
+      "text" : "D2_73rd"
     },
     {
       "id" : 60994,
-      "text" : "D2_74人目"
+      "text" : "D2_74th"
     },
     {
       "id" : 60995,
-      "text" : "D2_75人目"
+      "text" : "D2_75th"
     },
     {
       "id" : 60996,
-      "text" : "D2_76人目"
+      "text" : "D2_76th"
     },
     {
       "id" : 60997,
-      "text" : "D2_77人目"
+      "text" : "D2_77th"
     },
     {
       "id" : 60998,
-      "text" : "D2_78人目"
+      "text" : "D2_78th"
     },
     {
       "id" : 60999,
-      "text" : "D2_79人目"
+      "text" : "D2_79th"
     },
     {
       "id" : 61000,
-      "text" : "D2_80人目"
+      "text" : "D2_80th"
     },
     {
       "id" : 61001,
-      "text" : "D2_81人目"
+      "text" : "D2_81st"
     },
     {
       "id" : 61002,
-      "text" : "D2_82人目"
+      "text" : "D2_82nd"
     },
     {
       "id" : 61003,
-      "text" : "D2_83人目"
+      "text" : "D2_83rd"
     },
     {
       "id" : 61004,
-      "text" : "D2_84人目"
+      "text" : "D2_84th"
     },
     {
       "id" : 61005,
-      "text" : "D2_85人目"
+      "text" : "D2_85th"
     },
     {
       "id" : 61006,
-      "text" : "D2_86人目"
+      "text" : "D2_86th"
     },
     {
       "id" : 61007,
-      "text" : "D2_87人目"
+      "text" : "D2_87th"
     },
     {
       "id" : 61008,
-      "text" : "D2_88人目"
+      "text" : "D2_88th"
     },
     {
       "id" : 61009,
-      "text" : "D2_89人目"
+      "text" : "D2_89th"
     },
     {
       "id" : 61010,
-      "text" : "D2_90人目"
+      "text" : "D2_90th"
     },
     {
       "id" : 61011,
-      "text" : "D2_91人目"
+      "text" : "D2_91st"
     },
     {
       "id" : 61012,
-      "text" : "D2_92人目"
+      "text" : "D2_92nd"
     },
     {
       "id" : 61013,
-      "text" : "D2_93人目"
+      "text" : "D2_93rd"
     },
     {
       "id" : 61014,
-      "text" : "D2_94人目"
+      "text" : "D2_94th"
     },
     {
       "id" : 61015,
-      "text" : "D2_95人目"
+      "text" : "D2_95th"
     },
     {
       "id" : 61016,
-      "text" : "D2_96人目"
+      "text" : "D2_96th"
     },
     {
       "id" : 61017,
-      "text" : "D2_97人目"
+      "text" : "D2_97th"
     },
     {
       "id" : 61018,
-      "text" : "D2_98人目"
+      "text" : "D2_98th"
     },
     {
       "id" : 61019,
-      "text" : "D2_99人目"
+      "text" : "D2_99th"
     },
     {
       "id" : 61020,
-      "text" : "D2_100人目"
+      "text" : "D2_100th"
     },
     {
       "id" : 61021,
-      "text" : "サイズ"
+      "text" : "Zada"
     },
     {
       "id" : 61022,
-      "text" : "ザコル1"
+      "text" : "Gurks 1"
     },
     {
       "id" : 61023,
-      "text" : "ザコル2"
+      "text" : "Gurks 2"
     },
     {
       "id" : 61024,
-      "text" : "ザコル3"
+      "text" : "Gurks 3"
     },
     {
       "id" : 61025,
-      "text" : "コルガ1"
+      "text" : "Kloak 1"
     },
     {
       "id" : 61026,
-      "text" : "コルガ2"
+      "text" : "Kloak 2"
     },
     {
       "id" : 61027,
-      "text" : "コルガ3"
+      "text" : "Kloak 3"
     },
     {
       "id" : 61028,
-      "text" : "イガロ"
+      "text" : "Dagur"
     },
     {
       "id" : 61029,
-      "text" : "ヴィーナス1"
+      "text" : "Venus 1"
     },
     {
       "id" : 61030,
-      "text" : "ヴィーナス2"
+      "text" : "Venus 2"
     },
     {
       "id" : 61031,
-      "text" : "ヴィーナス3"
+      "text" : "Venus 3"
     },
     {
       "id" : 61032,
-      "text" : "ヴィーナス4"
+      "text" : "Venus 4"
     },
     {
       "id" : 61033,
-      "text" : "ヴィーナス5"
+      "text" : "Venus 5"
     },
     {
       "id" : 61034,
-      "text" : "ヘシティ1"
+      "text" : "Venus 1"
     },
     {
       "id" : 61035,
-      "text" : "ヘシティ2"
+      "text" : "Venus 2"
     },
     {
       "id" : 61036,
-      "text" : "ヘシティ3"
+      "text" : "Venus 3"
     },
     {
       "id" : 61037,
-      "text" : "シャイナ1"
+      "text" : "Liaks 1"
     },
     {
       "id" : 61038,
-      "text" : "シャイナ2"
+      "text" : "Liaks 2"
     },
     {
       "id" : 61039,
-      "text" : "シャイナ3"
+      "text" : "Liaks 3"
     },
     {
-      "id" : 61040,
-      "text" : "ウィス1"
+      "id" : ,
+      "text" : "Lonia 1"
     },
     {
       "id" : 61041,
-      "text" : "ウィス2"
+      "text" : "Lonia 2"
     },
     {
       "id" : 61042,
-      "text" : "ウィス3"
+      "text" : "Lonia 3"
     },
     {
       "id" : 61043,
-      "text" : "ラル1"
+      "text" : "Nelis 1"
     },
     {
       "id" : 61044,
-      "text" : "ラル2"
+      "text" : "Nelis 2"
     },
     {
       "id" : 61045,
-      "text" : "ラル3"
+      "text" : "Nelis 3"
     },
     {
       "id" : 61046,
-      "text" : "M4アンダーセット1_1人目"
+      "text" : "M4 Under Set 1_1st"
     },
     {
       "id" : 61047,
-      "text" : "M4アンダーセット1_2人目"
+      "text" : "M4 Under Set 1_2nd"
     },
     {
       "id" : 61048,
-      "text" : "M4アンダーセット1_3人目"
+      "text" : "M4 Under Set 1_3rd"
     },
     {
       "id" : 61049,
-      "text" : "M4アンダーセット1_4人目"
+      "text" : "M4 Under Set 1_4th"
     },
     {
       "id" : 61050,
-      "text" : "M4アンダーセット2_1人目"
+      "text" : "M4 Under Set 2_1st"
     },
     {
       "id" : 61051,
-      "text" : "M4アンダーセット2_2人目"
+      "text" : "M4 Under Set 2_2nd"
     },
     {
       "id" : 61052,
-      "text" : "M4アンダーセット2_3人目"
+      "text" : "M4 Under Set 2_3rd"
     },
     {
       "id" : 61053,
-      "text" : "M4アンダーセット2_4人目"
+      "text" : "M4 Under Set 2_4th"
     },
     {
       "id" : 61054,
-      "text" : "M4アンダーセット3_1人目"
+      "text" : "M4 Under Set 3_1st"
     },
     {
       "id" : 61055,
-      "text" : "M4アンダーセット3_2人目"
+      "text" : "M4 Under Set 3_2nd"
     },
     {
       "id" : 61056,
-      "text" : "M4アンダーセット3_3人目"
+      "text" : "M4 Under Set 3_3rd"
     },
     {
       "id" : 61057,
-      "text" : "M4アンダーセット3_4人目"
+      "text" : "M4 Under Set 3_4th"
     },
     {
       "id" : 61058,
-      "text" : "M4アンダーセット4_1人目"
+      "text" : "M4 Under Set 4_1st"
     },
     {
       "id" : 61059,
-      "text" : "M4アンダーセット4_2人目"
+      "text" : "M4 Under Set 4_2nd"
     },
     {
       "id" : 61060,
-      "text" : "M4アンダーセット4_3人目"
+      "text" : "M4 Under Set 4_3rd"
     },
     {
       "id" : 61061,
-      "text" : "M4アンダーセット4_4人目"
+      "text" : "M4 Under Set 4_4th"
     },
     {
       "id" : 61062,
-      "text" : "M4アンダーセット5_1人目"
+      "text" : "M4 Under Set 5_1st"
     },
     {
       "id" : 61063,
-      "text" : "M4アンダーセット5_2人目"
+      "text" : "M4 Under Set 5_2nd"
     },
     {
       "id" : 61064,
-      "text" : "M4アンダーセット5_3人目"
+      "text" : "M4 Under Set 5_3rd"
     },
     {
       "id" : 61065,
-      "text" : "M4アンダーセット5_4人目"
+      "text" : "M4 Under Set 5_4th"
     },
     {
       "id" : 61066,
-      "text" : "M4ボトムセット1_1人目"
+      "text" : "M4 Deep Set 1_1st"
     },
     {
       "id" : 61067,
-      "text" : "M4ボトムセット1_2人目"
+      "text" : "M4 Deep Set 1_2nd"
     },
     {
       "id" : 61068,
-      "text" : "M4ボトムセット1_3人目"
+      "text" : "M4 Deep Set 1_3rd"
     },
     {
       "id" : 61069,
-      "text" : "M4ボトムセット2_1人目"
+      "text" : "M4 Deep Set 2_1st"
     },
     {
       "id" : 61070,
-      "text" : "M4ボトムセット2_2人目"
+      "text" : "M4 Deep Set 2_2nd"
     },
     {
       "id" : 61071,
-      "text" : "M4ボトムセット2_3人目"
+      "text" : "M4 Deep Set 2_3rd"
     },
     {
       "id" : 61072,
-      "text" : "M4ボトムセット3_1人目"
+      "text" : "M4 Deep Set 3_1st"
     },
     {
       "id" : 61073,
-      "text" : "M4ボトムセット3_2人目"
+      "text" : "M4 Deep Set 3_2nd"
     },
     {
       "id" : 61074,
-      "text" : "M4ボトムセット3_3人目"
+      "text" : "M4 Deep Set 3_3rd"
     },
     {
       "id" : 61075,
-      "text" : "M4ボトムセット4_1人目"
+      "text" : "M4 Deep Set 4_1st"
     },
     {
       "id" : 61076,
-      "text" : "M4ボトムセット4_2人目"
+      "text" : "M4 Deep Set 4_2nd"
     },
     {
       "id" : 61077,
-      "text" : "M4ボトムセット4_3人目"
+      "text" : "M4 Deep Set 4_3rd"
     },
     {
       "id" : 61078,
-      "text" : "M4ボトムセット5_1人目"
+      "text" : "M4 Deep Set 5_1st"
     },
     {
       "id" : 61079,
-      "text" : "M4ボトムセット5_2人目"
+      "text" : "M4 Deep Set 5_2nd"
     },
     {
       "id" : 61080,
-      "text" : "M4ボトムセット5_3人目"
+      "text" : "M4 Deep Set 5_3rd"
     },
     {
       "id" : 61081,
-      "text" : "M4ボトムセット5_4人目"
+      "text" : "M4 Deep Set 5_4th"
     },
     {
       "id" : 61082,
-      "text" : "ラボン"
+      "text" : "Myron"
     },
     {
       "id" : 61083,
-      "text" : "ビイカー"
+      "text" : "Lethco"
     },
     {
       "id" : 61084,
-      "text" : "ガク1"
+      "text" : "Cole 1"
     },
     {
       "id" : 61085,
-      "text" : "ガク2"
+      "text" : "Cole 2"
     },
     {
       "id" : 61086,
-      "text" : "ガク3"
+      "text" : "Cole 3"
     },
     {
       "id" : 61087,
-      "text" : "リコス1"
+      "text" : "Lare 1"
     },
     {
       "id" : 61088,
-      "text" : "リコス2"
+      "text" : "Lare 2"
     },
     {
       "id" : 61089,
-      "text" : "リコス3"
+      "text" : "Lare 3"
     },
     {
       "id" : 61090,
-      "text" : "マール1"
+      "text" : "Vana 1"
     },
     {
       "id" : 61091,
-      "text" : "マール2"
+      "text" : "Vana 2"
     },
     {
       "id" : 61092,
-      "text" : "マール3"
+      "text" : "Vana 3"
     },
     {
       "id" : 61093,
@@ -4375,47 +4375,47 @@
     },
     {
       "id" : 61095,
-      "text" : "イズナ1"
+      "text" : "Remil 1"
     },
     {
       "id" : 61096,
-      "text" : "イズナ2"
+      "text" : "Remil 2"
     },
     {
       "id" : 61097,
-      "text" : "イズナ3"
+      "text" : "Remil 3"
     },
     {
       "id" : 61098,
-      "text" : "ペリム"
+      "text" : "Odlow"
     },
     {
       "id" : 61099,
-      "text" : "ガベチ1"
+      "text" : "Lesar 1"
     },
     {
       "id" : 61100,
-      "text" : "ガベチ2"
+      "text" : "Lesar 2"
     },
     {
       "id" : 61101,
-      "text" : "ガベチ3"
+      "text" : "Lesar 3"
     },
     {
       "id" : 61102,
-      "text" : "ニコラ"
+      "text" : "Dubik"
     },
     {
       "id" : 61103,
-      "text" : "フィア1"
+      "text" : "Tanie 1"
     },
     {
       "id" : 61104,
-      "text" : "フィア2"
+      "text" : "Tanie 2"
     },
     {
       "id" : 61105,
-      "text" : "フィア3"
+      "text" : "Tanie 3"
     },
     {
       "id" : 61106,
@@ -4439,87 +4439,87 @@
     },
     {
       "id" : 61111,
-      "text" : "バレル"
+      "text" : "Bopen"
     },
     {
       "id" : 61112,
-      "text" : "ジニー1"
+      "text" : "Baila 1"
     },
     {
       "id" : 61113,
-      "text" : "ジニー2"
+      "text" : "Baila 2"
     },
     {
       "id" : 61114,
-      "text" : "ジニー3"
+      "text" : "Baila 3"
     },
     {
       "id" : 61115,
-      "text" : "ザイル1"
+      "text" : "Arton 1"
     },
     {
       "id" : 61116,
-      "text" : "ザイル2"
+      "text" : "Arton 2"
     },
     {
       "id" : 61117,
-      "text" : "ザイル3"
+      "text" : "Arton 3"
     },
     {
       "id" : 61118,
-      "text" : "ポトン1"
+      "text" : "Dioge 1"
     },
     {
       "id" : 61119,
-      "text" : "ポトン2"
+      "text" : "Dioge 2"
     },
     {
       "id" : 61120,
-      "text" : "ポトン3"
+      "text" : "Dioge 3"
     },
     {
       "id" : 61121,
-      "text" : "パイン"
+      "text" : "Aline"
     },
     {
       "id" : 61122,
-      "text" : "チャリス"
+      "text" : "Luper"
     },
     {
       "id" : 61123,
-      "text" : "ライ"
+      "text" : "Klest"
     },
     {
       "id" : 61124,
-      "text" : "ティラノ"
+      "text" : "Givern"
     },
     {
       "id" : 61125,
-      "text" : "ショウ"
+      "text" : "Trus"
     },
     {
       "id" : 61126,
-      "text" : "ジャック"
+      "text" : "Kevel"
     },
     {
       "id" : 61127,
-      "text" : "トレス"
+      "text" : "Elose"
     },
     {
       "id" : 61128,
-      "text" : "ヘルゴンザ1"
+      "text" : "Gonzap 1"
     },
     {
       "id" : 61129,
-      "text" : "ヘルゴンザ2"
+      "text" : "Gonzap 2"
     },
     {
       "id" : 61130,
-      "text" : "ヘルゴンザ3"
+      "text" : "Gonzap 3"
     },
     {
       "id" : 61131,
-      "text" : "チャック"
+      "text" : "Rugen"
     },
     {
       "id" : 61132,
@@ -4555,43 +4555,43 @@
     },
     {
       "id" : 61140,
-      "text" : "ジャキラ1"
+      "text" : "Nascour 1"
     },
     {
       "id" : 61141,
-      "text" : "ジャキラ2"
+      "text" : "Nascour 2"
     },
     {
       "id" : 61142,
-      "text" : "ワルダック1"
+      "text" : "Evice 1"
     },
     {
       "id" : 61143,
-      "text" : "ワルダック2"
+      "text" : "Evice 2"
     },
     {
       "id" : 61144,
-      "text" : "マサ7"
+      "text" : "Cail 7"
     },
     {
       "id" : 61145,
-      "text" : "マサ8"
+      "text" : "Cail 8"
     },
     {
       "id" : 61146,
-      "text" : "マサ9"
+      "text" : "Cail 9"
     },
     {
       "id" : 61147,
-      "text" : "マサ10"
+      "text" : "Cail 10"
     },
     {
       "id" : 61148,
-      "text" : "マサ11"
+      "text" : "Cail 11"
     },
     {
       "id" : 61149,
-      "text" : "マサ12"
+      "text" : "Cail 12"
     },
     {
       "id" : 61150,
@@ -4631,7 +4631,7 @@
     },
     {
       "id" : 61159,
-      "text" : "ザコル4"
+      "text" : "Gurks 4"
     },
     {
       "id" : 61160,
@@ -4647,11 +4647,11 @@
     },
     {
       "id" : 61163,
-      "text" : "ザブ1"
+      "text" : "Biden 1"
     },
     {
       "id" : 61164,
-      "text" : "ミサンゴ1"
+      "text" : "Agrev 1"
     },
     {
       "id" : 61165,
@@ -4659,7 +4659,7 @@
     },
     {
       "id" : 61166,
-      "text" : "ピアン1"
+      "text" : "Peon 1"
     },
     {
       "id" : 61167,
@@ -4683,7 +4683,7 @@
     },
     {
       "id" : 61172,
-      "text" : "ミラクルボ1"
+      "text" : "Mirakle B. 1"
     },
     {
       "id" : 61173,
@@ -4695,39 +4695,39 @@
     },
     {
       "id" : 61175,
-      "text" : "ニセ主人公1"
+      "text" : "Fake Protagonist 1"
     },
     {
       "id" : 61176,
-      "text" : "バクサ1"
+      "text" : "Niver 1"
     },
     {
       "id" : 61177,
-      "text" : "デジタス1"
+      "text" : "Fuston 1"
     },
     {
       "id" : 61178,
-      "text" : "メンド1"
+      "text" : "Colas 1"
     },
     {
       "id" : 61179,
-      "text" : "チェント1"
+      "text" : "Crudo 1"
     },
     {
       "id" : 61180,
-      "text" : "ベイル1"
+      "text" : "Driton 1"
     },
     {
       "id" : 61181,
-      "text" : "リカル1"
+      "text" : "Rions 1"
     },
     {
       "id" : 61182,
-      "text" : "テスト　池"
+      "text" : "Test　pond"
     },
     {
       "id" : 61183,
-      "text" : "しちょうのいえ"
+      "text" : "Mayor's house"
     },
     {
       "id" : 61184,
@@ -4735,51 +4735,51 @@
     },
     {
       "id" : 61185,
-      "text" : "Pyrite のいりぐち"
+      "text" : "Pyrite Entrance"
     },
     {
       "id" : 61186,
-      "text" : "Pyrite のビル"
+      "text" : "Pyrite Building"
     },
     {
       "id" : 61187,
-      "text" : "Pyrite のどうくつ"
+      "text" : "Pyrite Cave"
     },
     {
       "id" : 61188,
-      "text" : "ミラーボのアジト"
+      "text" : "Miror B. Hideout"
     },
     {
       "id" : 61189,
-      "text" : "アゲトビレッジ1"
+      "text" : "Agate Village 1"
     },
     {
       "id" : 61190,
-      "text" : "ほこらのどうくつ"
+      "text" : "Shrine's Cave"
     },
     {
       "id" : 61191,
-      "text" : "アゲトビレッジ2"
+      "text" : "Agate Village 2"
     },
     {
       "id" : 61192,
-      "text" : "Under テレビスタジオ"
+      "text" : "Under TV Studio"
     },
     {
       "id" : 61193,
-      "text" : "Under ちかてつ"
+      "text" : "Under Subway"
     },
     {
       "id" : 61194,
-      "text" : "けんきゅうじょまえ"
+      "text" : "Front of Lab"
     },
     {
       "id" : 61195,
-      "text" : "けんきゅうじょ"
+      "text" : "Lab"
     },
     {
-      "id": 61196,
-      "text": "Outside Mt. Battle"
+      "id" : 61196,
+      "text" : "Outside Mt. Battle"
     },
     {
       "id" : 61197,
@@ -4795,19 +4795,19 @@
     },
     {
       "id" : 61200,
-      "text" : "Realgem Towerのドーム"
+      "text" : "Realgem Tower Dome"
     },
     {
       "id" : 61201,
-      "text" : "Realgem Towerのロビー"
+      "text" : "Realgem Tower Lobby"
     },
     {
       "id" : 61202,
-      "text" : "Realgem Towerの2かい1"
+      "text" : "Realgem Tower Floor 2-1"
     },
     {
       "id" : 61203,
-      "text" : "Realgem Towerの2かい2"
+      "text" : "Realgem Tower Floor 2-2"
     },
     {
       "id" : 61204,
@@ -4831,99 +4831,99 @@
     },
     {
       "id" : 61209,
-      "text" : "Realgem TowerColosseum"
+      "text" : "Realgem Tower Colosseum"
     },
     {
       "id" : 61210,
-      "text" : "スナッチだんアジト"
+      "text" : "Team Snagem Hideout"
     },
     {
       "id" : 61211,
-      "text" : "ツールMt. Battle 草"
+      "text" : "Tool Mt. Battle Grass"
     },
     {
       "id" : 61212,
-      "text" : "ツールMt. Battle マグマ"
+      "text" : "Tool Mt. Battle Magma"
     },
     {
       "id" : 61213,
-      "text" : "ツールMt. Battle 雲"
+      "text" : "Tool Mt. Battle Cloud"
     },
     {
       "id" : 61214,
-      "text" : "ツール水Colosseum"
+      "text" : "Tool Water Colosseum"
     },
     {
       "id" : 61215,
-      "text" : "ツール地球儀Colosseum"
+      "text" : "Tool Globe Colosseum"
     },
     {
       "id" : 61216,
-      "text" : "ツール円柱Colosseum"
+      "text" : "Tool Column Colosseum"
     },
     {
       "id" : 61217,
-      "text" : "ツール火口Colosseum"
+      "text" : "Tool Crater Colosseum"
     },
     {
       "id" : 61218,
-      "text" : "ツールカジノColosseum"
+      "text" : "Tool Casino Colosseum"
     },
     {
       "id" : 61219,
-      "text" : "ツールOrre Colosseum"
+      "text" : "Tool Orre Colosseum"
     },
     {
       "id" : 61220,
-      "text" : "2対2　エントリー2匹　2匹対2匹"
+      "text" : "2vs2　Entry 2 Pokémon　2on2"
     },
     {
       "id" : 61221,
-      "text" : "けんきゅうじょガレージ"
+      "text" : "Lab garage"
     },
     {
       "id" : 61222,
-      "text" : "リライブ"
+      "text" : "Purification"
     },
     {
       "id" : 61223,
-      "text" : "Battle Trainer台詞テスト"
+      "text" : "Battle Trainer Dialog Test"
     },
     {
       "id" : 61224,
-      "text" : "登場"
+      "text" : "Appearance"
     },
     {
       "id" : 61225,
-      "text" : "勝利"
+      "text" : "Victory"
     },
     {
       "id" : 61226,
-      "text" : "敗北"
+      "text" : "Defeat"
     },
     {
       "id" : 61227,
-      "text" : "敗北2"
+      "text" : "Defeat 2"
     },
     {
       "id" : 61228,
-      "text" : "ねむり"
+      "text" : "Sleep"
     },
     {
       "id" : 61229,
-      "text" : "まひ"
+      "text" : "Paralysis"
     },
     {
       "id" : 61230,
-      "text" : "やけど"
+      "text" : "Burn"
     },
     {
       "id" : 61231,
-      "text" : "こんらん"
+      "text" : "Confusion"
     },
     {
       "id" : 61232,
-      "text" : "きのみ"
+      "text" : "Berry"
     },
     {
       "id" : 61233,
@@ -4931,187 +4931,187 @@
     },
     {
       "id" : 61234,
-      "text" : "ダークポケモン"
+      "text" : "Shadow Pokémon"
     },
     {
       "id" : 61235,
-      "text" : "レッドアップ"
+      "text" : "Red Up"
     },
     {
       "id" : 61236,
-      "text" : "レッドダウン"
+      "text" : "Red Down"
     },
     {
       "id" : 61237,
-      "text" : "グリーンアップ"
+      "text" : "Green Up"
     },
     {
       "id" : 61238,
-      "text" : "グリーンダウン"
+      "text" : "Green Down"
     },
     {
       "id" : 61239,
-      "text" : "ブルーアップ"
+      "text" : "Blue Up"
     },
     {
       "id" : 61240,
-      "text" : "ブルーダウン"
+      "text" : "Blue Down"
     },
     {
       "id" : 61241,
-      "text" : "グレイアップ"
+      "text" : "Gray Up"
     },
     {
       "id" : 61242,
-      "text" : "パープルアップ"
+      "text" : "Purple Up"
     },
     {
       "id" : 61243,
-      "text" : "マスターボールイン"
+      "text" : "Master Ball In"
     },
     {
       "id" : 61244,
-      "text" : "マスターボールオープン"
+      "text" : "Master Ball Open"
     },
     {
       "id" : 61245,
-      "text" : "マスターボールアウト"
+      "text" : "Master Ball Out"
     },
     {
       "id" : 61246,
-      "text" : "ハイパーボールイン"
+      "text" : "Ultra Ball In"
     },
     {
       "id" : 61247,
-      "text" : "ハイパーボールオープン"
+      "text" : "Ultra Ball Open"
     },
     {
       "id" : 61248,
-      "text" : "ハイパーボールアウト"
+      "text" : "Ultra Ball Out"
     },
     {
       "id" : 61249,
-      "text" : "スーパーボールイン"
+      "text" : "Great Ball In"
     },
     {
       "id" : 61250,
-      "text" : "スーパーボールオープン"
+      "text" : "Great Ball Open"
     },
     {
       "id" : 61251,
-      "text" : "スーパーボールアウト"
+      "text" : "Great Ball Out"
     },
     {
       "id" : 61252,
-      "text" : "モンスターボールイン"
+      "text" : "Poké Ball In"
     },
     {
       "id" : 61253,
-      "text" : "モンスターボールオープン"
+      "text" : "Poké Ball Open"
     },
     {
       "id" : 61254,
-      "text" : "モンスターボールアウト"
+      "text" : "Poké Ball Out"
     },
     {
       "id" : 61255,
-      "text" : "サファリボールイン"
+      "text" : "Safari Ball In"
     },
     {
       "id" : 61256,
-      "text" : "サファリボールオープン"
+      "text" : "Safari Ball Open"
     },
     {
       "id" : 61257,
-      "text" : "サファリボールアウト"
+      "text" : "Safari Ball Out"
     },
     {
       "id" : 61258,
-      "text" : "ネットボールイン"
+      "text" : "Net Ball In"
     },
     {
       "id" : 61259,
-      "text" : "ネットボールオープン"
+      "text" : "Net Ball Open"
     },
     {
       "id" : 61260,
-      "text" : "ネットボールアウト"
+      "text" : "Net Ball Out"
     },
     {
       "id" : 61261,
-      "text" : "ダイブボールイン"
+      "text" : "Dive Ball In"
     },
     {
       "id" : 61262,
-      "text" : "ダイブボールオープン"
+      "text" : "Dive Ball Open"
     },
     {
       "id" : 61263,
-      "text" : "ダイブボールアウト"
+      "text" : "Dive Ball Out"
     },
     {
       "id" : 61264,
-      "text" : "ネストボールイン"
+      "text" : "Nest Ball In"
     },
     {
       "id" : 61265,
-      "text" : "ネストボールオープン"
+      "text" : "Nest Ball Open"
     },
     {
       "id" : 61266,
-      "text" : "ネストボールアウト"
+      "text" : "Nest Ball Out"
     },
     {
       "id" : 61267,
-      "text" : "リピートボールイン"
+      "text" : "Repeat Ball In"
     },
     {
       "id" : 61268,
-      "text" : "リピートボールオープン"
+      "text" : "Repeat Ball Open"
     },
     {
       "id" : 61269,
-      "text" : "リピートボールアウト"
+      "text" : "Repeat Ball Out"
     },
     {
       "id" : 61270,
-      "text" : "タイマーボールイン"
+      "text" : "Timer Ball In"
     },
     {
       "id" : 61271,
-      "text" : "タイマーボールオープン"
+      "text" : "Timer Ball Open"
     },
     {
       "id" : 61272,
-      "text" : "研究員"
+      "text" : "Researcher"
     },
     {
       "id" : 61273,
-      "text" : "ハンター女"
+      "text" : "Huntress"
     },
     {
       "id" : 61274,
-      "text" : "ゴージャスボールオープン"
+      "text" : "Luxury Ball Open"
     },
     {
       "id" : 61275,
-      "text" : "ゴージャスボールアウト"
+      "text" : "Luxury Ball Out"
     },
     {
       "id" : 61276,
-      "text" : "プレミアボールイン"
+      "text" : "Premier Ball In"
     },
     {
       "id" : 61277,
-      "text" : "プレミアボールオープン"
+      "text" : "Premier Ball Open"
     },
     {
       "id" : 61278,
-      "text" : "プレミアボールアウト"
+      "text" : "Premier Ball Out"
     },
     {
       "id" : 61279,
-      "text" : "ダークポケモンバートル"
+      "text" : "Shadow Pokémon Battle"
     },
     {
       "id" : 61280,
@@ -5119,99 +5119,99 @@
     },
     {
       "id" : 61281,
-      "text" : "グレイダウン"
+      "text" : "Gray Down"
     },
     {
       "id" : 61282,
-      "text" : "マスターボールダウンイン"
+      "text" : "Master Ball Down In"
     },
     {
       "id" : 61283,
-      "text" : "ハイパーボールダウンイン"
+      "text" : "Ultra Ball Down In"
     },
     {
       "id" : 61284,
-      "text" : "スーパーボールダウンイン"
+      "text" : "Great Ball Down In"
     },
     {
       "id" : 61285,
-      "text" : "モンスターボールダウンイン"
+      "text" : "Poké Ball Down In"
     },
     {
       "id" : 61286,
-      "text" : "サファリボールダウンイン"
+      "text" : "Safari Ball Down In"
     },
     {
       "id" : 61287,
-      "text" : "ネットボールダウンイン"
+      "text" : "Net Ball Down In"
     },
     {
       "id" : 61288,
-      "text" : "ダイブボールダウンイン"
+      "text" : "Dive Ball Down In"
     },
     {
       "id" : 61289,
-      "text" : "ネストボールダウンイン"
+      "text" : "Nest Ball Down In"
     },
     {
       "id" : 61290,
-      "text" : "リピートボールダウンイン"
+      "text" : "Repeat Ball Down In"
     },
     {
       "id" : 61291,
-      "text" : "タイマーボールダウンイン"
+      "text" : "Timer Ball Down In"
     },
     {
       "id" : 61292,
-      "text" : "ゴージャスボールダウンイン"
+      "text" : "Luxury Ball Down In"
     },
     {
       "id" : 61293,
-      "text" : "プレミアボールダウンイン"
+      "text" : "Premier Ball Down In"
     },
     {
       "id" : 61294,
-      "text" : "エヴォルションプリ"
+      "text" : "Evolution Pre"
     },
     {
       "id" : 61295,
-      "text" : "エヴォルションスタルト"
+      "text" : "Evolution Start"
     },
     {
       "id" : 61296,
-      "text" : "リライブセレビィーアッパー"
+      "text" : "Purification Celebi Upper"
     },
     {
       "id" : 61297,
-      "text" : "リライブセレビィートライル"
+      "text" : "Purification Celebi Trial"
     },
     {
       "id" : 61298,
-      "text" : "リライブセレビィーメイン"
+      "text" : "Purification Celebi Main"
     },
     {
       "id" : 61299,
-      "text" : "スナーチぃアッタク"
+      "text" : "Snag Attack"
     },
     {
       "id" : 61300,
-      "text" : "スナーチぃバールランド"
+      "text" : "Snag Ball land"
     },
     {
       "id" : 61301,
-      "text" : "スナーチぃミス"
+      "text" : "Snag Miss"
     },
     {
       "id" : 61302,
-      "text" : "スナーチぃポケモンアウト"
+      "text" : "Snag Pokémon Out"
     },
     {
       "id" : 61303,
-      "text" : "スナーチぃシャイク"
+      "text" : "Snag Shake"
     },
     {
       "id" : 61304,
-      "text" : "スナーチぃ"
+      "text" : "Snag"
     },
     {
       "id" : 61305,
@@ -5227,15 +5227,15 @@
     },
     {
       "id" : 61308,
-      "text" : "こおり"
+      "text" : "Ice"
     },
     {
       "id" : 61309,
-      "text" : "あくむ"
+      "text" : "Nightmare"
     },
     {
       "id" : 61310,
-      "text" : "どく"
+      "text" : "Poison"
     },
     {
       "id" : 61311,
@@ -5243,7 +5243,7 @@
     },
     {
       "id" : 61312,
-      "text" : "のろい"
+      "text" : "Curse"
     },
     {
       "id" : 61313,
@@ -5251,27 +5251,27 @@
     },
     {
       "id" : 61314,
-      "text" : "リライブテスト"
+      "text" : "Purification Test"
     },
     {
       "id" : 61315,
-      "text" : "ダメージノーエフェクト"
+      "text" : "Damage No Effect"
     },
     {
       "id" : 61319,
-      "text" : "エージェント女"
+      "text" : "Female Agent"
     },
     {
       "id" : 61320,
-      "text" : "エージェント男"
+      "text" : "Male Agent"
     },
     {
       "id" : 61321,
-      "text" : "ベルデ"
+      "text" : "Verde"
     },
     {
       "id" : 61322,
-      "text" : "ロッソ"
+      "text" : "Rosso"
     },
     {
       "id" : 61323,
@@ -5279,79 +5279,79 @@
     },
     {
       "id" : 61324,
-      "text" : "コワップ"
+      "text" : "Skrub"
     },
     {
       "id" : 61325,
-      "text" : "赤緑女"
+      "text" : "Red Green Female"
     },
     {
       "id" : 61326,
-      "text" : "赤緑男"
+      "text" : "Red Green Male"
     },
     {
       "id" : 61327,
-      "text" : "おばあさんA"
+      "text" : "Grandmother A"
     },
     {
       "id" : 61328,
-      "text" : "ダキム"
+      "text" : "Dakim"
     },
     {
       "id" : 61329,
-      "text" : "ヘルゴンザ"
+      "text" : "Gonzap"
     },
     {
       "id" : 61330,
-      "text" : "ミラーボ"
+      "text" : "Miror B."
     },
     {
       "id" : 61331,
-      "text" : "ヴィーナス"
+      "text" : "Venus"
     },
     {
       "id" : 61332,
-      "text" : "ジャキラ"
+      "text" : "Nascour"
     },
     {
       "id" : 61333,
-      "text" : "キャスターA"
+      "text" : "Caster A"
     },
     {
       "id" : 61334,
-      "text" : "大道芸人"
+      "text" : "St. Performer"
     },
     {
       "id" : 61335,
-      "text" : "ヒヅキ祖父"
+      "text" : "ヒヅキ Grandfather"
     },
     {
       "id" : 61336,
-      "text" : "セネティ"
+      "text" : "Vander"
     },
     {
       "id" : 61337,
-      "text" : "ジムリーダーA"
+      "text" : "Gym Leader A"
     },
     {
       "id" : 61338,
-      "text" : "ジムリーダーB"
+      "text" : "Gym Leader B"
     },
     {
       "id" : 61339,
-      "text" : "ジムリーダーＣ"
+      "text" : "Gym Leader C"
     },
     {
       "id" : 61340,
-      "text" : "スーラ"
+      "text" : "Ferma"
     },
     {
       "id" : 61341,
-      "text" : "ブレス"
+      "text" : "Reath"
     },
     {
       "id" : 61342,
-      "text" : "ハンター男"
+      "text" : "Hunter"
     },
     {
       "id" : 61343,
@@ -5359,31 +5359,31 @@
     },
     {
       "id" : 61346,
-      "text" : "おじいさんA"
+      "text" : "Grandfather A"
     },
     {
       "id" : 61347,
-      "text" : "肉体派女"
+      "text" : "肉体派 Female"
     },
     {
       "id" : 61348,
-      "text" : "肉体派男"
+      "text" : "肉体派 Male"
     },
     {
       "id" : 61349,
-      "text" : "おぼっちゃま"
+      "text" : "Rich boy"
     },
     {
       "id" : 61350,
-      "text" : "おじさんA"
+      "text" : "Guy A"
     },
     {
       "id" : 61351,
-      "text" : "おじょうさま"
+      "text" : "Lady"
     },
     {
       "id" : 61352,
-      "text" : "ライダー女"
+      "text" : "Female Rider"
     },
     {
       "id" : 61353,
@@ -5391,23 +5391,23 @@
     },
     {
       "id" : 61354,
-      "text" : "ライダー男"
+      "text" : "Male Rider"
     },
     {
       "id" : 61355,
-      "text" : "先生"
+      "text" : "Teacher"
     },
     {
       "id" : 61356,
-      "text" : "ワルダック"
+      "text" : "Evice"
     },
     {
       "id" : 61357,
-      "text" : "スナッチ団ザコ"
+      "text" : "Team Snagem Grunt"
     },
     {
       "id" : 61359,
-      "text" : "アスリート男"
+      "text" : "Male Athele"
     },
     {
       "id" : 61360,
@@ -5415,19 +5415,19 @@
     },
     {
       "id" : 61361,
-      "text" : "どろぼう女"
+      "text" : "Female Thief"
     },
     {
       "id" : 61362,
-      "text" : "どろぼう男"
+      "text" : "Male Thief"
     },
     {
       "id" : 61363,
-      "text" : "ワルガキ"
+      "text" : "Naughty Kid"
     },
     {
       "id" : 61364,
-      "text" : "はたらくおじさん"
+      "text" : "Worker"
     },
     {
       "id" : 61366,
@@ -5435,23 +5435,23 @@
     },
     {
       "id" : 61367,
-      "text" : "ピアン"
+      "text" : "Peon"
     },
     {
       "id" : 61368,
-      "text" : "エリート男"
+      "text" : "Male Elite"
     },
     {
       "id" : 61369,
-      "text" : "エリート女"
+      "text" : "Female Elite"
     },
     {
       "id" : 61371,
-      "text" : "ポケモンマニア"
+      "text" : "Pokémon Maniac"
     },
     {
       "id" : 61374,
-      "text" : "Mt. Battle マスター"
+      "text" : "Mt. Battle Master"
     },
     {
       "id" : 61375,
@@ -5459,7 +5459,7 @@
     },
     {
       "id" : 61376,
-      "text" : "ゾルダン"
+      "text" : "Agnol"
     },
     {
       "id" : 61377,
@@ -5467,15 +5467,15 @@
     },
     {
       "id" : 61378,
-      "text" : "ムゲンサイ"
+      "text" : "Infin"
     },
     {
       "id" : 61379,
-      "text" : "ムゲンダイ"
+      "text" : "Inity"
     },
     {
       "id" : 61380,
-      "text" : "ジムリーダーC2"
+      "text" : "Gym Leader C2"
     },
     {
       "id" : 61381,
@@ -5483,27 +5483,27 @@
     },
     {
       "id" : 61382,
-      "text" : "スナッチ団ザコ2"
+      "text" : "Team Snagem Grunt 2"
     },
     {
       "id" : 61383,
-      "text" : "スナッチ団ザコ3"
+      "text" : "Team Snagem Grunt 3"
     },
     {
       "id" : 61384,
-      "text" : "ミラクルボ"
+      "text" : "Mirakle B."
     },
     {
       "id" : 61385,
-      "text" : "ジムリーダーA4"
+      "text" : "Gym Leader A4"
     },
     {
       "id" : 61386,
-      "text" : "ジムリーダーA2"
+      "text" : "Gym Leader A2"
     },
     {
       "id" : 61387,
-      "text" : "ジムリーダーA3"
+      "text" : "Gym Leader A3"
     },
     {
       "id" : 61388,
@@ -5511,123 +5511,123 @@
     },
     {
       "id" : 61389,
-      "text" : "マサ"
+      "text" : "Cail"
     },
     {
       "id" : 61390,
-      "text" : "アインス2"
+      "text" : "Eins 2"
     },
     {
       "id" : 61391,
-      "text" : "アインス3"
+      "text" : "Eins 3"
     },
     {
       "id" : 61392,
-      "text" : "アインス4"
+      "text" : "Eins 4"
     },
     {
       "id" : 61393,
-      "text" : "アインス5"
+      "text" : "Eins 5"
     },
     {
       "id" : 61394,
-      "text" : "ドス2"
+      "text" : "Dos 2"
     },
     {
       "id" : 61395,
-      "text" : "ドス3"
+      "text" : "Dos 3"
     },
     {
       "id" : 61396,
-      "text" : "ドス4"
+      "text" : "Dos 4"
     },
     {
       "id" : 61397,
-      "text" : "ドス5"
+      "text" : "Dos 5"
     },
     {
       "id" : 61398,
-      "text" : "ドス6"
+      "text" : "Dos 6"
     },
     {
       "id" : 61399,
-      "text" : "トロワ2"
+      "text" : "Trois 2"
     },
     {
       "id" : 61400,
-      "text" : "トロワ3"
+      "text" : "Trois 3"
     },
     {
       "id" : 61401,
-      "text" : "トロワ4"
+      "text" : "Trois 4"
     },
     {
       "id" : 61402,
-      "text" : "トロワ5"
+      "text" : "Trois 5"
     },
     {
       "id" : 61403,
-      "text" : "トロワ6"
+      "text" : "Trois 6"
     },
     {
       "id" : 61404,
-      "text" : "クアトロ2"
+      "text" : "Cuatro 2"
     },
     {
       "id" : 61405,
-      "text" : "クアトロ3"
+      "text" : "Cuatro 3"
     },
     {
       "id" : 61406,
-      "text" : "クアトロ4"
+      "text" : "Cuatro 4"
     },
     {
       "id" : 61407,
-      "text" : "クアトロ5"
+      "text" : "Cuatro 5"
     },
     {
       "id" : 61408,
-      "text" : "クアトロ6"
+      "text" : "Cuatro 6"
     },
     {
       "id" : 61409,
-      "text" : "ファイブ2"
+      "text" : "Five 2"
     },
     {
       "id" : 61410,
-      "text" : "ファイブ3"
+      "text" : "Five 3"
     },
     {
       "id" : 61411,
-      "text" : "ファイブ4"
+      "text" : "Five 4"
     },
     {
       "id" : 61412,
-      "text" : "ファイブ5"
+      "text" : "Five 5"
     },
     {
       "id" : 61413,
-      "text" : "ファイブ6"
+      "text" : "Five 6"
     },
     {
       "id" : 61414,
-      "text" : "シス2"
+      "text" : "Six 2"
     },
     {
       "id" : 61415,
-      "text" : "シス3"
+      "text" : "Six 3"
     },
     {
       "id" : 61416,
-      "text" : "シス4"
+      "text" : "Six 4"
     },
     {
       "id" : 61417,
-      "text" : "シス5"
+      "text" : "Six 5"
     },
     {
       "id" : 61418,
-      "text" : "シス6"
+      "text" : "Six 6"
     },
     {
       "id" : 61419,
@@ -5683,7 +5683,7 @@
     },
     {
       "id" : 61432,
-      "text" : "コワップ0"
+      "text" : "Skrub 0"
     },
     {
       "id" : 61433,
@@ -6991,27 +6991,27 @@
     },
     {
       "id" : 61759,
-      "text" : "ダキム紹介"
+      "text" : "Dakim紹介"
     },
     {
       "id" : 61760,
-      "text" : "ヘルゴンザ紹介"
+      "text" : "Gonzap 紹介"
     },
     {
       "id" : 61761,
-      "text" : "ミラーボ紹介"
+      "text" : "Miror B.紹介"
     },
     {
       "id" : 61762,
-      "text" : "ヴィーナス紹介"
+      "text" : "Venus紹介"
     },
     {
       "id" : 61763,
-      "text" : "ジャキラ紹介"
+      "text" : "Nascour 紹介"
     },
     {
       "id" : 61764,
-      "text" : "ワルダック紹介"
+      "text" : "Evice 紹介"
     },
     {
       "id" : 61765,
@@ -7019,55 +7019,55 @@
     },
     {
       "id" : 61766,
-      "text" : "レアポケモン"
+      "text" : "Rare Pokémon"
     },
     {
       "id" : 61767,
-      "text" : "マスターボール投げ"
+      "text" : "Master Ball投げ"
     },
     {
       "id" : 61768,
-      "text" : "ハイパーボール投げ"
+      "text" : "Ultra Ball投げ"
     },
     {
       "id" : 61769,
-      "text" : "スーパーボール投げ"
+      "text" : "Great Ball投げ"
     },
     {
       "id" : 61770,
-      "text" : "モンスターボール投げ"
+      "text" : "Poké Ball投げ"
     },
     {
       "id" : 61771,
-      "text" : "サファリボール投げ"
+      "text" : "Safari Ball投げ"
     },
     {
       "id" : 61772,
-      "text" : "ネットボール投げ"
+      "text" : "Net Ball投げ"
     },
     {
       "id" : 61773,
-      "text" : "ダイブボール投げ"
+      "text" : "Dive Ball投げ"
     },
     {
       "id" : 61774,
-      "text" : "ネストボール投げ"
+      "text" : "Nest Ball投げ"
     },
     {
       "id" : 61775,
-      "text" : "リピートボール投げ"
+      "text" : "Repeat Ball投げ"
     },
     {
       "id" : 61776,
-      "text" : "タイマーボール投げ"
+      "text" : "Timer Ball投げ"
     },
     {
       "id" : 61777,
-      "text" : "ゴージャスボール投げ"
+      "text" : "Luxury Ball投げ"
     },
     {
       "id" : 61778,
-      "text" : "プレミアボール投げ"
+      "text" : "Premier Ball投げ"
     },
     {
       "id" : 61779,
@@ -8035,15 +8035,15 @@
     },
     {
       "id" : 62020,
-      "text" : "ワイルド1b"
+      "text" : "Nore 1b"
     },
     {
       "id" : 62021,
-      "text" : "ブレス1b"
+      "text" : "Reath1b"
     },
     {
       "id" : 62022,
-      "text" : "スーラ1b"
+      "text" : "Ferma1b"
     },
     {
       "id" : 62023,
@@ -8063,19 +8063,19 @@
     },
     {
       "id" : 62027,
-      "text" : "ミラーボ1b"
+      "text" : "Miror B. 1b"
     },
     {
       "id" : 62028,
-      "text" : "コワップ1b"
+      "text" : "Skrub 1b"
     },
     {
       "id" : 62029,
-      "text" : "ダキム1b"
+      "text" : "Dakim1b"
     },
     {
       "id" : 62030,
-      "text" : "ヴィーナス1b"
+      "text" : "Venus1b"
     },
     {
       "id" : 62031,
@@ -8091,31 +8091,31 @@
     },
     {
       "id" : 62034,
-      "text" : "ラル1b"
+      "text" : "Nelis 1b"
     },
     {
       "id" : 62035,
-      "text" : "ガク1b"
+      "text" : "Cole 1b"
     },
     {
       "id" : 62036,
-      "text" : "リコス1b"
+      "text" : "Lare 1b"
     },
     {
       "id" : 62037,
-      "text" : "マール1b"
+      "text" : "Vana 1b"
     },
     {
       "id" : 62038,
-      "text" : "イズナ1b"
+      "text" : "Remil 1b"
     },
     {
       "id" : 62039,
-      "text" : "ガベチ1b"
+      "text" : "Lesar 1b"
     },
     {
       "id" : 62040,
-      "text" : "フィア1b"
+      "text" : "Tanie 1b"
     },
     {
       "id" : 62041,
@@ -8123,19 +8123,19 @@
     },
     {
       "id" : 62042,
-      "text" : "ジニー1b"
+      "text" : "Baila 1b"
     },
     {
       "id" : 62043,
-      "text" : "ザイル1b"
+      "text" : "Arton 1b"
     },
     {
       "id" : 62044,
-      "text" : "ポトン1b"
+      "text" : "Dioge 1b"
     },
     {
       "id" : 62045,
-      "text" : "ヘルゴンザ1b"
+      "text" : "Gonzap 1b"
     },
     {
       "id" : 62046,
@@ -8499,7 +8499,7 @@
     },
     {
       "id" : 62136,
-      "text" : "M4ボトムセット5_4人目b"
+      "text" : "M4 Deep Set 5_4b"
     },
     {
       "id" : 62137,
