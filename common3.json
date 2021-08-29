@@ -1155,15 +1155,15 @@
     },
     {
       "id" : 60287,
-      "text" : "Shop S1（Initial）"
+      "text" : "Shop S1 (Initial) "
     },
     {
       "id" : 60288,
-      "text" : "Shop S2（Stage 2）"
+      "text" : "Shop S2 (Stage 2) "
     },
     {
       "id" : 60289,
-      "text" : "Shop S3（Stage 3）"
+      "text" : "Shop S3 (Stage 3) "
     },
     {
       "id" : 60290,
@@ -1215,27 +1215,27 @@
     },
     {
       "id" : 60302,
-      "text" : "Scenario　1-1　1 ON 1"
+      "text" : "Scenario 1-1 1 ON 1"
     },
     {
       "id" : 60303,
-      "text" : "Scenario　1-1　2 ON 2"
+      "text" : "Scenario 1-1 2 ON 2"
     },
     {
       "id" : 60304,
-      "text" : "Scenario　2-2　1 ON 1"
+      "text" : "Scenario 2-2 1 ON 1"
     },
     {
       "id" : 60305,
-      "text" : "Tool　1-1　1 ON 1"
+      "text" : "Tool 1-1 1 ON 1"
     },
     {
       "id" : 60306,
-      "text" : "Tool　1-1　2 ON 2"
+      "text" : "Tool 1-1 2 ON 2"
     },
     {
       "id" : 60307,
-      "text" : "Tool　2-2　1 ON 1"
+      "text" : "Tool 2-2 1 ON 1"
     },
     {
       "id" : 60308,
@@ -1439,11 +1439,11 @@
     },
     {
       "id" : 60358,
-      "text" : "Record with Z button 　ON\/OFF（BBA）"
+      "text" : "Record with Z button  ON\/OFF (BBA) "
     },
     {
       "id" : 60359,
-      "text" : "Record with Z button　ON\/OFF（SD Card）"
+      "text" : "Record with Z button ON\/OFF (SD Card) "
     },
     {
       "id" : 60360,
@@ -1519,11 +1519,11 @@
     },
     {
       "id" : 60378,
-      "text" : "PR footage 1　1vs1　2ON2"
+      "text" : "PR footage 1 1vs1 2ON2"
     },
     {
       "id" : 60379,
-      "text" : "PR footage 2　1vs1　2ON2"
+      "text" : "PR footage 2 1vs1 2ON2"
     },
     {
       "id" : 60380,
@@ -1535,19 +1535,19 @@
     },
     {
       "id" : 60382,
-      "text" : "Debug Save（Memory Card）"
+      "text" : "Debug Save (Memory Card) "
     },
     {
       "id" : 60383,
-      "text" : "Debug Save（SD Card）"
+      "text" : "Debug Save (SD Card) "
     },
     {
       "id" : 60384,
-      "text" : "Debug Save（BBA)"
+      "text" : "Debug Save (BBA)"
     },
     {
       "id" : 60385,
-      "text" : "Debug Load (Memory Card）"
+      "text" : "Debug Load (Memory Card) "
     },
     {
       "id" : 60386,
@@ -2107,11 +2107,11 @@
     },
     {
       "id" : 60528,
-      "text" : "Swipe a test e-card（Trainer）"
+      "text" : "Swipe a test e-card (Trainer) "
     },
     {
       "id" : 60529,
-      "text" : "Swipe a test e-card（Colosseum）"
+      "text" : "Swipe a test e-card (Colosseum) "
     },
     {
       "id" : 60530,
@@ -2603,7 +2603,7 @@
     },
     {
       "id" : 60652,
-      "text" : "Story Battle　Willie 1"
+      "text" : "Story Battle Willie 1"
     },
     {
       "id" : 60653,
@@ -2767,7 +2767,7 @@
     },
     {
       "id" : 60693,
-      "text" : "Test　1-1　1 ON 2"
+      "text" : "Test 1-1 1 ON 2"
     },
     {
       "id" : 60694,
@@ -4723,7 +4723,7 @@
     },
     {
       "id" : 61182,
-      "text" : "Test　pond"
+      "text" : "Test pond"
     },
     {
       "id" : 61183,
@@ -4875,7 +4875,7 @@
     },
     {
       "id" : 61220,
-      "text" : "2vs2　Entry 2 Pokémon　2on2"
+      "text" : "2vs2 Entry 2 Pokémon 2on2"
     },
     {
       "id" : 61221,
@@ -5699,7 +5699,7 @@
     },
     {
       "id" : 61436,
-      "text" : "Hit:　Ally chose Helping Hand"
+      "text" : "Hit: Ally chose Helping Hand"
     },
     {
       "id" : 61437,
@@ -5711,15 +5711,15 @@
     },
     {
       "id" : 61439,
-      "text" : "Priority:　High Priority"
+      "text" : "Priority: High Priority"
     },
     {
       "id" : 61440,
-      "text" : "Priority:　Ally chose Helping Hand"
+      "text" : "Priority: Ally chose Helping Hand"
     },
     {
       "id" : 61441,
-      "text" : "Special priority:　Priority"
+      "text" : "Special priority: Priority"
     },
     {
       "id" : 61442,
@@ -5727,27 +5727,27 @@
     },
     {
       "id" : 61443,
-      "text" : "Revenge:　Priority is low"
+      "text" : "Revenge: Priority is low"
     },
     {
       "id" : 61444,
-      "text" : "Vital Throw:　Guaranteed hit"
+      "text" : "Vital Throw: Guaranteed hit"
     },
     {
       "id" : 61445,
-      "text" : "Vital Throw:　Priority is low"
+      "text" : "Vital Throw: Priority is low"
     },
     {
       "id" : 61446,
-      "text" : "Focus Punch:　Foe's last move was revenge"
+      "text" : "Focus Punch: Foe's last move was revenge"
     },
     {
       "id" : 61447,
-      "text" : "Focus Punch:　Priority is low"
+      "text" : "Focus Punch: Priority is low"
     },
     {
       "id" : 61448,
-      "text" : "Razor Wind:　High crit rate"
+      "text" : "Razor Wind: High crit rate"
     },
     {
       "id" : 61449,
@@ -5755,7 +5755,7 @@
     },
     {
       "id" : 61450,
-      "text" : "Skull Bash:　+1 Def"
+      "text" : "Skull Bash: +1 Def"
     },
     {
       "id" : 61451,
@@ -5763,19 +5763,19 @@
     },
     {
       "id" : 61452,
-      "text" : "Absorption:　Absorb ?% HP"
+      "text" : "Absorption: Absorb ?% HP"
     },
     {
       "id" : 61453,
-      "text" : "Absorption:　Ally chose Helping Hand"
+      "text" : "Absorption: Ally chose Helping Hand"
     },
     {
       "id" : 61454,
-      "text" : "Absorption:　Target's ability is liquid ooze"
+      "text" : "Absorption: Target's ability is liquid ooze"
     },
     {
       "id" : 61455,
-      "text" : "Thrash:　Ability is Own Tempo"
+      "text" : "Thrash: Ability is Own Tempo"
     },
     {
       "id" : 61456,
@@ -5783,7 +5783,7 @@
     },
     {
       "id" : 61457,
-      "text" : "Thash:　Restricts moves and confused after use"
+      "text" : "Thash: Restricts moves and confused after use"
     },
     {
       "id" : 61458,
@@ -5791,11 +5791,11 @@
     },
     {
       "id" : 61459,
-      "text" : "Fly:　target is badly poisoned"
+      "text" : "Fly: target is badly poisoned"
     },
     {
       "id" : 61460,
-      "text" : "Fly:　Target is burned"
+      "text" : "Fly: Target is burned"
     },
     {
       "id" : 61461,
@@ -5803,11 +5803,11 @@
     },
     {
       "id" : 61462,
-      "text" : "Fly:　target is confused"
+      "text" : "Fly: target is confused"
     },
     {
       "id" : 61463,
-      "text" : "Fly:　target is infatuated"
+      "text" : "Fly: target is infatuated"
     },
     {
       "id" : 61464,
@@ -5867,15 +5867,15 @@
     },
     {
       "id" : 61478,
-      "text" : "Fly:　target is locked-onto"
+      "text" : "Fly: target is locked-onto"
     },
     {
       "id" : 61479,
-      "text" : "Bounce:　target is poisoned"
+      "text" : "Bounce: target is poisoned"
     },
     {
       "id" : 61480,
-      "text" : "Bounce:　target is badly poisoned"
+      "text" : "Bounce: target is badly poisoned"
     },
     {
       "id" : 61481,
@@ -5891,7 +5891,7 @@
     },
     {
       "id" : 61484,
-      "text" : "Bounce:　target is infatuated"
+      "text" : "Bounce: target is infatuated"
     },
     {
       "id" : 61485,
@@ -5959,19 +5959,19 @@
     },
     {
       "id" : 61501,
-      "text" : "Self-destruct:　Has no effect on allies including switch-ins"
+      "text" : "Self-destruct: Has no effect on allies including switch-ins"
     },
     {
       "id" : 61502,
-      "text" : "Self-destruct:　effect is bad for allies"
+      "text" : "Self-destruct: effect is bad for allies"
     },
     {
       "id" : 61503,
-      "text" : "Self-destruct:　Ally has protect, detect or endure"
+      "text" : "Self-destruct: Ally has protect, detect or endure"
     },
     {
       "id" : 61504,
-      "text" : "Self-destruct:　Ally selected protect, detect or endure"
+      "text" : "Self-destruct: Ally selected protect, detect or endure"
     },
     {
       "id" : 61505,
@@ -5991,15 +5991,15 @@
     },
     {
       "id" : 61509,
-      "text" : "Roll-out:　has used defense curl"
+      "text" : "Roll-out: has used defense curl"
     },
     {
       "id" : 61510,
-      "text" : "Roll-out:　User has ?% HP remaining"
+      "text" : "Roll-out: User has ?% HP remaining"
     },
     {
       "id" : 61511,
-      "text" : "Roll-out:　Moves limited for 5 turns"
+      "text" : "Roll-out: Moves limited for 5 turns"
     },
     {
       "id" : 61512,
@@ -6011,7 +6011,7 @@
     },
     {
       "id" : 61514,
-      "text" : "Bidning:　the target is badly poisoned"
+      "text" : "Bidning: the target is badly poisoned"
     },
     {
       "id" : 61515,
@@ -6095,7 +6095,7 @@
     },
     {
       "id" : 61535,
-      "text" : "Flinching: 対Faster than target and target is paralyzed"
+      "text" : "Flinching: Faster than target and target is paralyzed"
     },
     {
       "id" : 61536,
@@ -6287,7 +6287,7 @@
     },
     {
       "id" : 61583,
-      "text" : "Freezing: Opponent's other pokemon already frozen"
+      "text" : "Freezing: Opponent Pokémon other than target (including reserves) are already frozen"
     },
     {
       "id" : 61584,
@@ -6298,12 +6298,12 @@
       "text" : "Paralysis: Ally chose Helping Hand"
     },
     {
-      "id" : 61586,
+      "id" : 6158s
       "text" : "Sleep: Target has a ?% Probability of falling asleep"
     },
     {
       "id" : 61587,
-      "text" : "Sleep: Opponent Pokémon other than target（including spares）are already asleep"
+      "text" : "Sleep: Opponent Pokémon other than target (including reserves) are already asleep"
     },
     {
       "id" : 61588,
@@ -6407,7 +6407,7 @@
     },
     {
       "id" : 61613,
-      "text" : "OHKO:　Target can faint in one hit"
+      "text" : "OHKO: Target can faint in one hit"
     },
     {
       "id" : 61614,
@@ -6415,139 +6415,139 @@
     },
     {
       "id" : 61615,
-      "text" : "Weather Ball　Weather is Sunny or Rainy"
+      "text" : "Weather Ball: Weather is Sunny or Rainy"
     },
     {
       "id" : 61616,
-      "text" : "Weather Ball　Weather is Hail"
+      "text" : "Weather Ball: Weather is Hail"
     },
     {
       "id" : 61617,
-      "text" : "Weather Ball　Weather is Sandstorm"
+      "text" : "Weather Ball: Weather is Sandstorm"
     },
     {
       "id" : 61618,
-      "text" : "Pursuit　Target is poisoned"
+      "text" : "Pursuit: Target is poisoned"
     },
     {
       "id" : 61619,
-      "text" : "Pursuit　Target is Badly Poisoned"
+      "text" : "Pursuit: Target is Badly Poisoned"
     },
     {
       "id" : 61620,
-      "text" : "Pursuit　target is burned"
+      "text" : "Pursuit: target is burned"
     },
     {
       "id" : 61621,
-      "text" : "Pursuit　target is seeded"
+      "text" : "Pursuit: target is seeded"
     },
     {
       "id" : 61622,
-      "text" : "Pursuit　target is confused"
+      "text" : "Pursuit: target is confused"
     },
     {
       "id" : 61623,
-      "text" : "Pursuit　target is infatuated"
+      "text" : "Pursuit: target is infatuated"
     },
     {
       "id" : 61624,
-      "text" : "Pursuit　target is cursed"
+      "text" : "Pursuit: target is cursed"
     },
     {
       "id" : 61625,
-      "text" : "Pursuit　target is under perish song"
+      "text" : "Pursuit: target is under perish song"
     },
     {
       "id" : 61626,
-      "text" : "Pursuit　Target is drowsy"
+      "text" : "Pursuit: Target is drowsy"
     },
     {
       "id" : 61627,
-      "text" : "Pursuit　Target has an unchangeable status"
+      "text" : "Pursuit: Target has an unchangeable status"
     },
     {
       "id" : 61628,
-      "text" : "SmellingSalt　target is paralyzed"
+      "text" : "SmellingSalt: target is paralyzed"
     },
     {
       "id" : 61629,
-      "text" : "Recovery1　Weather is sunny"
+      "text" : "Recovery1: Weather is sunny"
     },
     {
       "id" : 61630,
-      "text" : "Recovery 1　Current HP is less than half"
+      "text" : "Recovery1: Current HP is less than half"
     },
     {
       "id" : 61631,
-      "text" : "Recovery1　Weather is Rain, Hail or Sandstorm"
+      "text" : "Recovery1: Weather is Rain, Hail or Sandstorm"
     },
     {
       "id" : 61632,
-      "text" : "Recovery2　Current HP is less than half"
+      "text" : "Recovery2: Current HP is less than half"
     },
     {
       "id" : 61633,
-      "text" : "Sleep　Equipped with recovery item"
+      "text" : "Sleep: Equipped with recovery item"
     },
     {
       "id" : 61634,
-      "text" : "Sleep　Current HP is less than half"
+      "text" : "Sleep: Current HP is less than half"
     },
     {
       "id" : 61635,
-      "text" : "Sleep　User has a status condition"
+      "text" : "Sleep: User has a status condition"
     },
     {
       "id" : 61636,
-      "text" : "Sleep　No action possible for 2 turns"
+      "text" : "Sleep: No action possible for 2 turns"
     },
     {
       "id" : 61637,
-      "text" : "Asleep　Target doesn't have a status"
+      "text" : "Asleep: Target doesn't have a status"
     },
     {
       "id" : 61638,
-      "text" : "Asleep　Opponent Pokémon other than target（including spares）are already asleep"
+      "text" : "Asleep: Opponent Pokémon other than target (including reserves) are already asleep"
     },
     {
       "id" : 61639,
-      "text" : "Rain Dance　Weather is other than Rain"
+      "text" : "Rain Dance: Weather is other than Rain"
     },
     {
       "id" : 61640,
-      "text" : "Rain Dance　Weather is rain"
+      "text" : "Rain Dance: Weather is rain"
     },
     {
       "id" : 61641,
-      "text" : "Sunny Day　Weather is other than Sunny"
+      "text" : "Sunny Day: Weather is other than Sunny"
     },
     {
       "id" : 61642,
-      "text" : "Sunny Day　Weather is sunny"
+      "text" : "Sunny Day: Weather is sunny"
     },
     {
       "id" : 61643,
-      "text" : "Hail　Weather is other than Hail"
+      "text" : "Hail: Weather is other than Hail"
     },
     {
       "id" : 61644,
-      "text" : "Hail　Weather is Hail"
+      "text" : "Hail: Weather is Hail"
     },
     {
       "id" : 61645,
-      "text" : "Sandstorm　Weather is other than Sandstorm"
+      "text" : "Sandstorm: Weather is other than Sandstorm"
     },
     {
       "id" : 61646,
-      "text" : "Sandstorm　Weather is Sandstorm"
+      "text" : "Sandstorm: Weather is Sandstorm"
     },
     {
       "id" : 61647,
-      "text" : "Refresh　User has a status condition"
+      "text" : "Refresh: User has a status condition"
     },
     {
       "id" : 61648,
-      "text" : "Aromatherapy　Allies including reserves have statuses"
+      "text" : "Aromatherapy: Allies including reserves have statuses"
     },
     {
       "id" : 61649,
@@ -6559,23 +6559,23 @@
     },
     {
       "id" : 61651,
-      "text" : "Mirror Coat　Target's Base Sp Atk is greater than Atk"
+      "text" : "Mirror Coat: Target's Base Sp Atk is greater than Atk"
     },
     {
       "id" : 61652,
-      "text" : "Mirror Coat　Target last used a special attack"
+      "text" : "Mirror Coat: Target last used a special attack"
     },
     {
       "id" : 61653,
-      "text" : "Magic Coat　First action on entering"
+      "text" : "Magic Coat: First action on entering"
     },
     {
       "id" : 61654,
-      "text" : "Foresight　Target's type is Ghost"
+      "text" : "Foresight: Target's type is Ghost"
     },
     {
       "id" : 61655,
-      "text" : "Foresight　Target's evasion is up by 3 Stages or more"
+      "text" : "Foresight: Target's evasion is up by 3 Stages or more"
     },
     {
       "id" : 61656,
@@ -6587,7 +6587,7 @@
     },
     {
       "id" : 61658,
-      "text" : "First Use系　Is in Usable state"
+      "text" : "First Use: Is in Usable state"
     },
     {
       "id" : 61659,
@@ -6607,23 +6607,23 @@
     },
     {
       "id" : 61663,
-      "text" : "Nightmare　Target is not in Nightmare status"
+      "text" : "Nightmare: Target is not in Nightmare status"
     },
     {
       "id" : 61664,
-      "text" : "Pain Split　Target's HP gauge is more than double User's HP Gauge"
+      "text" : "Pain Split: Target's HP gauge is more than double User's HP Gauge"
     },
     {
       "id" : 61665,
-      "text" : "Pain Split　Target's HP gauge is more than triple User's HP Gauge"
+      "text" : "Pain Split: Target's HP gauge is more than triple User's HP Gauge"
     },
     {
       "id" : 61666,
-      "text" : "Pain Split　User's HP gauge is more than double Target's HP Gauge"
+      "text" : "Pain Split: User's HP gauge is more than double Target's HP Gauge"
     },
     {
       "id" : 61667,
-      "text" : "Pain Split　User's HP gauge is more than triple Target's HP Gauge"
+      "text" : "Pain Split: User's HP gauge is more than triple Target's HP Gauge"
     },
     {
       "id" : 61668,
@@ -6639,11 +6639,11 @@
     },
     {
       "id" : 61671,
-      "text" : "Speed Drop　Target's speed is greater than Ally"
+      "text" : "Speed Drop: Target's speed is greater than Ally"
     },
     {
       "id" : 61672,
-      "text" : "Speed Drop　Target's speed is lesser than Ally"
+      "text" : "Speed Drop: Target's speed is lesser than Ally"
     },
     {
       "id" : 61673,
@@ -6659,7 +6659,7 @@
     },
     {
       "id" : 61676,
-      "text" : "Accuracy drop:　Stat being lowered has been dropped by 2 or more Stages"
+      "text" : "Accuracy drop: Stat being lowered has been dropped by 2 or more Stages"
     },
     {
       "id" : 61677,
@@ -6671,11 +6671,11 @@
     },
     {
       "id" : 61679,
-      "text" : "Super Fang:　Target's HP meter is above 50%"
+      "text" : "Super Fang:: Target's HP meter is above 50%"
     },
     {
       "id" : 61680,
-      "text" : "Encore:　Faster than Target and last used move was not a damaging move"
+      "text" : "Encore: Faster than Target and last used move was not a damaging move"
     },
     {
       "id" : 61681,
@@ -6695,27 +6695,27 @@
     },
     {
       "id" : 61685,
-      "text" : "Spite　Faster than target and last used move's max PP is less than 5"
+      "text" : "Spite: Faster than target and last used move's max PP is less than 5"
     },
     {
       "id" : 61686,
-      "text" : "Spite　Faster than target and last used move's max PP is less than 10"
+      "text" : "Spite: Faster than target and last used move's max PP is less than 10"
     },
     {
       "id" : 61687,
-      "text" : "Destiny Bond　User's HP is less than 50% of max HP"
+      "text" : "Destiny Bond: User's HP is less than 50% of max HP"
     },
     {
       "id" : 61688,
-      "text" : "Destiny Bond　User's HP is less than 30% of max HP"
+      "text" : "Destiny Bond: User's HP is less than 30% of max HP"
     },
     {
       "id" : 61689,
-      "text" : "Destiny Bond　User's HP is less than 10% of max HP"
+      "text" : "Destiny Bond: User's HP is less than 10% of max HP"
     },
     {
       "id" : 61690,
-      "text" : "Disable　Faster than Target and last used move was a damaging move"
+      "text" : "Disable: Faster than Target and last used move was a damaging move"
     },
     {
       "id" : 61691,
@@ -6807,67 +6807,67 @@
     },
     {
       "id" : 61713,
-      "text" : "Psych Up　Target's stats have been raised by 2-3 stages"
+      "text" : "Psych Up: Target's stats have been raised by 2-3 stages"
     },
     {
       "id" : 61714,
-      "text" : "Psych Up　Target's stats have been raised by 4 or more stages"
+      "text" : "Psych Up: Target's stats have been raised by 4 or more stages"
     },
     {
       "id" : 61715,
-      "text" : "Psych Up　Target's stats have been dropped by 2-3 stages"
+      "text" : "Psych Up: Target's stats have been dropped by 2-3 stages"
     },
     {
       "id" : 61716,
-      "text" : "Psych Up　Up　Target's stats have been dropped by 4 or more stages"
+      "text" : "Psych Up: Target's stats have been dropped by 4 or more stages"
     },
     {
       "id" : 61717,
-      "text" : "Mist　Target last used a stat lowering move"
+      "text" : "Mist: Target last used a stat lowering move"
     },
     {
       "id" : 61718,
-      "text" : "Recycle　Held item was used"
+      "text" : "Recycle: Held item was used"
     },
     {
       "id" : 61719,
-      "text" : "Spikes　Spikes have not been scattered even once"
+      "text" : "Spikes: Spikes have not been scattered even once"
     },
     {
       "id" : 61720,
-      "text" : "Spikes　Spikes have been scattered once"
+      "text" : "Spikes: Spikes have been scattered once"
     },
     {
       "id" : 61721,
-      "text" : "Spikes　Spikes have been scattered twice"
+      "text" : "Spikes: Spikes have been scattered twice"
     },
     {
       "id" : 61722,
-      "text" : "Teeter Dance　Both opponents can be confused"
+      "text" : "Teeter Dance: Both opponents can be confused"
     },
     {
       "id" : 61723,
-      "text" : "Teeter Dance　Equipped with recovery item"
+      "text" : "Teeter Dance: Equipped with recovery item"
     },
     {
       "id" : 61724,
-      "text" : "Teeter Dance　Ally's ability is Own Tempo"
+      "text" : "Teeter Dance: Ally's ability is Own Tempo"
     },
     {
       "id" : 61725,
-      "text" : "Teeter Dance　Ally will also be confused"
+      "text" : "Teeter Dance: Ally will also be confused"
     },
     {
       "id" : 61726,
-      "text" : "Brick Break　Opponent's field has Reflect or Light Screen"
+      "text" : "Brick Break: Opponent's field has Reflect or Light Screen"
     },
     {
       "id" : 61727,
-      "text" : "Nightmare　Absorb ?% HP"
+      "text" : "Nightmare: Absorb ?% HP"
     },
     {
       "id" : 61728,
-      "text" : "Nightmare　Ally chose Helping Hand"
+      "text" : "Nightmare: Ally chose Helping Hand"
     },
     {
       "id" : 61729,
@@ -6979,7 +6979,7 @@
     },
     {
       "id" : 61756,
-      "text" : "Evolution Cancel Ｃ"
+      "text" : "Evolution Cancel C"
     },
     {
       "id" : 61757,
@@ -7211,19 +7211,19 @@
     },
     {
       "id" : 61814,
-      "text" : "Icy Wind　Opponent side has Pokémon faster than user's side"
+      "text" : "Icy Wind: Opponent side has Pokémon faster than user's side"
     },
     {
       "id" : 61815,
-      "text" : "Icy Wind　Is a Double Battle"
+      "text" : "Icy Wind: Is a Double Battle"
     },
     {
       "id" : 61816,
-      "text" : "Icy Wind　Target's speed is lower than User"
+      "text" : "Icy Wind: Target's speed is lower than User"
     },
     {
       "id" : 61817,
-      "text" : "Icy Wind　Target Pokémon's Ability is Clear Body, Shield Dust or White Smoke"
+      "text" : "Icy Wind: Target Pokémon's Ability is Clear Body, Shield Dust or White Smoke"
     },
     {
       "id" : 61818,
@@ -7259,7 +7259,7 @@
     },
     {
       "id" : 61826,
-      "text" : "Mud-slap: Target Pokémon's Ability is 「Clear Body」「Shield Dust」「White Smoke」「Keen Eye」を持っている"
+      "text" : "Mud-slap: Target Pokémon's Ability is Clear Body, Shield Dust, White Smoke or Keen Eye"
     },
     {
       "id" : 61827,
@@ -7323,7 +7323,7 @@
     },
     {
       "id" : 61842,
-      "text" : "Recoil:　User has the Ability Truant"
+      "text" : "Recoil: User has the Ability Truant"
     },
     {
       "id" : 61843,
@@ -7339,7 +7339,7 @@
     },
     {
       "id" : 61846,
-      "text" : "Tri-Attack　Target already has a status"
+      "text" : "Tri-Attack: Target already has a status"
     },
     {
       "id" : 61847,
@@ -7383,15 +7383,15 @@
     },
     {
       "id" : 61857,
-      "text" : "Rain Dance　Ally side has castform"
+      "text" : "Rain Dance: Ally side has castform"
     },
     {
       "id" : 61858,
-      "text" : "Sunny Day　Ally side has grass, fire or chlorophyll mon"
+      "text" : "Sunny Day: Ally side has grass, fire or chlorophyll mon"
     },
     {
       "id" : 61859,
-      "text" : "Sunny Day　Ally side has Castform"
+      "text" : "Sunny Day: Ally side has Castform"
     },
     {
       "id" : 61860,
@@ -7463,15 +7463,15 @@
     },
     {
       "id" : 61877,
-      "text" : "Curse: User's type is other than Ghost 能力カウント最大値でない"
+      "text" : "Curse: User's type is other than Ghost and Stat Count is not at max"
     },
     {
       "id" : 61878,
-      "text" : "Curse: User's type is Ghost and で現在ＨPが半分削られる"
+      "text" : "Curse: User's type is Ghost and current HP is reduced by half"
     },
     {
       "id" : 61879,
-      "text" : "Curse: User's type is other than Ghost」以外で能力カウントが最大値である"
+      "text" : "Curse: User's type is other than Ghost and Stat Count is at max"
     },
     {
       "id" : 61880,
@@ -7551,15 +7551,15 @@
     },
     {
       "id" : 61899,
-      "text" : "Helping Hand:　Ally did not choose a damaging move"
+      "text" : "Helping Hand: Ally did not choose a damaging move"
     },
     {
       "id" : 61900,
-      "text" : "Helping Hand:　Ally can't move due to recoil"
+      "text" : "Helping Hand: Ally can't move due to recoil"
     },
     {
       "id" : 61901,
-      "text" : "Helping Hand:　Ally can't move due to Truant ability"
+      "text" : "Helping Hand: Ally can't move due to Truant ability"
     },
     {
       "id" : 61902,
@@ -7607,15 +7607,15 @@
     },
     {
       "id" : 61913,
-      "text" : "Stockpile　Store 0"
+      "text" : "Stockpile: Store 0"
     },
     {
       "id" : 61914,
-      "text" : "Stockpile　Store 1"
+      "text" : "Stockpile: Store 1"
     },
     {
       "id" : 61915,
-      "text" : "Stockpile　Store 2"
+      "text" : "Stockpile: Store 2"
     },
     {
       "id" : 61916,
@@ -7667,7 +7667,7 @@
     },
     {
       "id" : 61928,
-      "text" : "Trick　Target's Ability is Skicky Hold"
+      "text" : "Trick: Target's Ability is Skicky Hold"
     },
     {
       "id" : 61929,
@@ -7735,7 +7735,7 @@
     },
     {
       "id" : 61945,
-      "text" : "Amnesia　Max Stat count has not been reached"
+      "text" : "Amnesia: Max Stat count has not been reached"
     },
     {
       "id" : 61946,
@@ -7851,7 +7851,7 @@
     },
     {
       "id" : 61974,
-      "text" : "Belly Drum　Ally has Follow Me"
+      "text" : "Belly Drum: Ally has Follow Me"
     },
     {
       "id" : 61975,
@@ -7863,7 +7863,7 @@
     },
     {
       "id" : 61977,
-      "text" : "Baton Pass　Max Stat count has been reached"
+      "text" : "Baton Pass: Max Stat count has been reached"
     },
     {
       "id" : 61978,
@@ -8759,27 +8759,27 @@
     },
     {
       "id" : 62201,
-      "text" : "8-people Single S4　Baton Pass用Ninjask"
+      "text" : "8-people Single S4 Baton Pass Ninjask"
     },
     {
       "id" : 62202,
-      "text" : "8-people Single S4　Baton Pass用Gorebyss"
+      "text" : "8-people Single S4 Baton Pass Gorebyss"
     },
     {
       "id" : 62203,
-      "text" : "8-people Double U5　Attacker"
+      "text" : "8-people Double U5 Attacker"
     },
     {
       "id" : 62204,
-      "text" : "8-people Double U5　Help Hariyama"
+      "text" : "8-people Double U5 Help Hariyama"
     },
     {
       "id" : 62205,
-      "text" : "8-people Double U5　Strengthen & Battle Gyarados"
+      "text" : "8-people Double U5 Strengthen & Battle Gyarados"
     },
     {
       "id" : 62206,
-      "text" : "8-people Double U5　Rain Dance ＆ Battle Kingdra"
+      "text" : "8-people Double U5 Rain Dance ＆ Battle Kingdra"
     },
     {
       "id" : 62207,
@@ -8819,11 +8819,11 @@
     },
     {
       "id" : 62216,
-      "text" : "8-people Single S1　Umbreon"
+      "text" : "8-people Single S1 Umbreon"
     },
     {
       "id" : 62217,
-      "text" : "8-people Single S1　Jumpluff"
+      "text" : "8-people Single S1 Jumpluff"
     },
     {
       "id" : 62218,
@@ -8831,15 +8831,15 @@
     },
     {
       "id" : 62219,
-      "text" : "8-people Single A2　Single Strike"
+      "text" : "8-people Single A2 Single Strike"
     },
     {
       "id" : 62220,
-      "text" : "8-people Single S1　Meganium"
+      "text" : "8-people Single S1 Meganium"
     },
     {
       "id" : 62221,
-      "text" : "8-people Single S1　Milotic"
+      "text" : "8-people Single S1 Milotic"
     },
     {
       "id" : 62222,
