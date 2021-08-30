@@ -1155,15 +1155,15 @@
     },
     {
       "id" : 60287,
-      "text" : "Shop S1（Initial）"
+      "text" : "Shop S1 (Initial) "
     },
     {
       "id" : 60288,
-      "text" : "Shop S2（Stage 2）"
+      "text" : "Shop S2 (Stage 2) "
     },
     {
       "id" : 60289,
-      "text" : "Shop S3（Stage 3）"
+      "text" : "Shop S3 (Stage 3) "
     },
     {
       "id" : 60290,
@@ -1215,27 +1215,27 @@
     },
     {
       "id" : 60302,
-      "text" : "Scenario　1-1　1 ON 1"
+      "text" : "Scenario 1-1 1 ON 1"
     },
     {
       "id" : 60303,
-      "text" : "Scenario　1-1　2 ON 2"
+      "text" : "Scenario 1-1 2 ON 2"
     },
     {
       "id" : 60304,
-      "text" : "Scenario　2-2　1 ON 1"
+      "text" : "Scenario 2-2 1 ON 1"
     },
     {
       "id" : 60305,
-      "text" : "Tool　1-1　1 ON 1"
+      "text" : "Tool 1-1 1 ON 1"
     },
     {
       "id" : 60306,
-      "text" : "Tool　1-1　2 ON 2"
+      "text" : "Tool 1-1 2 ON 2"
     },
     {
       "id" : 60307,
-      "text" : "Tool　2-2　1 ON 1"
+      "text" : "Tool 2-2 1 ON 1"
     },
     {
       "id" : 60308,
@@ -1439,11 +1439,11 @@
     },
     {
       "id" : 60358,
-      "text" : "Record with Z button 　ON\/OFF（BBA）"
+      "text" : "Record with Z button  ON\/OFF (BBA) "
     },
     {
       "id" : 60359,
-      "text" : "Record with Z button　ON\/OFF（SD Card）"
+      "text" : "Record with Z button ON\/OFF (SD Card) "
     },
     {
       "id" : 60360,
@@ -1519,11 +1519,11 @@
     },
     {
       "id" : 60378,
-      "text" : "PR footage 1　1vs1　2ON2"
+      "text" : "PR footage 1 1vs1 2ON2"
     },
     {
       "id" : 60379,
-      "text" : "PR footage 2　1vs1　2ON2"
+      "text" : "PR footage 2 1vs1 2ON2"
     },
     {
       "id" : 60380,
@@ -1535,19 +1535,19 @@
     },
     {
       "id" : 60382,
-      "text" : "Debug Save（Memory Card）"
+      "text" : "Debug Save (Memory Card) "
     },
     {
       "id" : 60383,
-      "text" : "Debug Save（SD Card）"
+      "text" : "Debug Save (SD Card) "
     },
     {
       "id" : 60384,
-      "text" : "Debug Save（BBA)"
+      "text" : "Debug Save (BBA)"
     },
     {
       "id" : 60385,
-      "text" : "Debug Load (Memory Card）"
+      "text" : "Debug Load (Memory Card) "
     },
     {
       "id" : 60386,
@@ -1747,7 +1747,7 @@
     },
     {
       "id" : 60436,
-      "text" : "Some volatile status　やどられ"
+      "text" : "Is seeded"
     },
     {
       "id" : 60437,
@@ -2107,11 +2107,11 @@
     },
     {
       "id" : 60528,
-      "text" : "Swipe a test e-card（Trainer）"
+      "text" : "Swipe a test e-card (Trainer) "
     },
     {
       "id" : 60529,
-      "text" : "Swipe a test e-card（Colosseum）"
+      "text" : "Swipe a test e-card (Colosseum) "
     },
     {
       "id" : 60530,
@@ -2603,7 +2603,7 @@
     },
     {
       "id" : 60652,
-      "text" : "Story Battle　Willie 1"
+      "text" : "Story Battle Willie 1"
     },
     {
       "id" : 60653,
@@ -2719,7 +2719,7 @@
     },
     {
       "id" : 60681,
-      "text" : "Strengthening Move"
+      "text" : "Stat boosting Move"
     },
     {
       "id" : 60682,
@@ -2767,7 +2767,7 @@
     },
     {
       "id" : 60693,
-      "text" : "Test　1-1　1 ON 2"
+      "text" : "Test 1-1 1 ON 2"
     },
     {
       "id" : 60694,
@@ -4603,27 +4603,27 @@
     },
     {
       "id" : 61152,
-      "text" : "アインス1"
+      "text" : "Eins 1"
     },
     {
       "id" : 61153,
-      "text" : "ドス1"
+      "text" : "Dos 1"
     },
     {
       "id" : 61154,
-      "text" : "トロワ1"
+      "text" : "Trois 1"
     },
     {
       "id" : 61155,
-      "text" : "クアトロ1"
+      "text" : "Cuatro 1"
     },
     {
       "id" : 61156,
-      "text" : "ファイブ1"
+      "text" : "Five 1"
     },
     {
       "id" : 61157,
-      "text" : "シス1"
+      "text" : "Six 1"
     },
     {
       "id" : 61158,
@@ -4723,7 +4723,7 @@
     },
     {
       "id" : 61182,
-      "text" : "Test　pond"
+      "text" : "Test pond"
     },
     {
       "id" : 61183,
@@ -4875,7 +4875,7 @@
     },
     {
       "id" : 61220,
-      "text" : "2vs2　Entry 2 Pokémon　2on2"
+      "text" : "2vs2 Entry 2 Pokémon 2on2"
     },
     {
       "id" : 61221,
@@ -5363,11 +5363,11 @@
     },
     {
       "id" : 61347,
-      "text" : "肉体派 Female"
+      "text" : "Bodybuilder Female"
     },
     {
       "id" : 61348,
-      "text" : "肉体派 Male"
+      "text" : "Bodybuilder Male"
     },
     {
       "id" : 61349,
@@ -5671,7 +5671,7 @@
     },
     {
       "id" : 61429,
-      "text" : "デバイ1"
+      "text" : "Hader 1"
     },
     {
       "id" : 61430,
@@ -5679,7 +5679,7 @@
     },
     {
       "id" : 61431,
-      "text" : "DNA鑑定装置"
+      "text" : "DNA Appraisal Device"
     },
     {
       "id" : 61432,
@@ -5687,11 +5687,11 @@
     },
     {
       "id" : 61433,
-      "text" : "とりあえず使え系でヒットする"
+      "text" : "It's a usable hit right away"
     },
     {
       "id" : 61434,
-      "text" : "Base Power: Ally used helping hand"
+      "text" : "Base Power: Ally chose Helping Hand"
     },
     {
       "id" : 61435,
@@ -5699,7 +5699,7 @@
     },
     {
       "id" : 61436,
-      "text" : "Hit:　Ally used helping hand"
+      "text" : "Hit: Ally chose Helping Hand"
     },
     {
       "id" : 61437,
@@ -5707,47 +5707,47 @@
     },
     {
       "id" : 61438,
-      "text" : "Critical hits: Ally used helping hand"
+      "text" : "Critical hits: Ally chose Helping Hand"
     },
     {
       "id" : 61439,
-      "text" : "Priority:　High Priority"
+      "text" : "Priority: High Priority"
     },
     {
       "id" : 61440,
-      "text" : "Priority:　Ally used helping hand"
+      "text" : "Priority: Ally chose Helping Hand"
     },
     {
       "id" : 61441,
-      "text" : "Special priority:　Priority"
+      "text" : "Special priority: Priority"
     },
     {
       "id" : 61442,
-      "text" : "Revenge: Foe's last move was powerful"
+      "text" : "Revenge: Foe's last move was a damaging move"
     },
     {
       "id" : 61443,
-      "text" : "Revenge:　Priority is low"
+      "text" : "Revenge: Priority is low"
     },
     {
       "id" : 61444,
-      "text" : "あてみなげ　Guaranteed hit"
+      "text" : "Vital Throw: Guaranteed hit"
     },
     {
       "id" : 61445,
-      "text" : "あてみなげ　Priority is low"
+      "text" : "Vital Throw: Priority is low"
     },
     {
       "id" : 61446,
-      "text" : "Focus Punch:　Foe's last move was revenge"
+      "text" : "Focus Punch: Foe's last move was revenge"
     },
     {
       "id" : 61447,
-      "text" : "Focus Punch:　Priority is low"
+      "text" : "Focus Punch: Priority is low"
     },
     {
       "id" : 61448,
-      "text" : "Razor Wind:　High crit rate"
+      "text" : "Razor Wind: High crit rate"
     },
     {
       "id" : 61449,
@@ -5755,7 +5755,7 @@
     },
     {
       "id" : 61450,
-      "text" : "Skull Bash:　+1 Def"
+      "text" : "Skull Bash: +1 Def"
     },
     {
       "id" : 61451,
@@ -5763,19 +5763,19 @@
     },
     {
       "id" : 61452,
-      "text" : "Absorption:　Absorb ?% HP"
+      "text" : "Absorption: Absorb ?% HP"
     },
     {
       "id" : 61453,
-      "text" : "Absorption:　Ally used helping hand"
+      "text" : "Absorption: Ally chose Helping Hand"
     },
     {
       "id" : 61454,
-      "text" : "Absorption:　Target's ability is liquid ooze"
+      "text" : "Absorption: Target's ability is liquid ooze"
     },
     {
       "id" : 61455,
-      "text" : "Thrash:　Ability is Own Tempo"
+      "text" : "Thrash: Ability is Own Tempo"
     },
     {
       "id" : 61456,
@@ -5783,7 +5783,7 @@
     },
     {
       "id" : 61457,
-      "text" : "Thash:　Restricts moves and confused after use"
+      "text" : "Thash: Restricts moves and confused after use"
     },
     {
       "id" : 61458,
@@ -5791,11 +5791,11 @@
     },
     {
       "id" : 61459,
-      "text" : "Fly:　target is badly poisoned"
+      "text" : "Fly: target is badly poisoned"
     },
     {
       "id" : 61460,
-      "text" : "Fly:　Target is burned"
+      "text" : "Fly: Target is burned"
     },
     {
       "id" : 61461,
@@ -5803,183 +5803,183 @@
     },
     {
       "id" : 61462,
-      "text" : "Fly:　target is confused"
+      "text" : "Fly: target is confused"
     },
     {
       "id" : 61463,
-      "text" : "Fly:　target is infatuated"
+      "text" : "Fly: target is infatuated"
     },
     {
       "id" : 61464,
-      "text" : "Fly: 対象が呪い状態である"
+      "text" : "Fly: target is cursed"
     },
     {
       "id" : 61465,
-      "text" : "Fly: 対象が滅び状態である"
+      "text" : "Fly: target is under perish song"
     },
     {
       "id" : 61466,
-      "text" : "Fly: 対象が宿られ状態である"
+      "text" : "Fly: target is seeded"
     },
     {
       "id" : 61467,
-      "text" : "Fly: 対象より素早さが高い"
+      "text" : "Fly: speed is faster than target"
     },
     {
       "id" : 61468,
-      "text" : "Fly: 自分が毒状態である"
+      "text" : "Fly: user is poisoned"
     },
     {
       "id" : 61469,
-      "text" : "Fly: 自分がBadly Poisoned状態である"
+      "text" : "Fly: user is Badly Poisoned"
     },
     {
       "id" : 61470,
-      "text" : "Fly: 自分が火傷状態である"
+      "text" : "Fly: user is burned"
     },
     {
       "id" : 61471,
-      "text" : "Fly: 自分が麻痺状態である"
+      "text" : "Fly: user is paralysed"
     },
     {
       "id" : 61472,
-      "text" : "Fly: 自分が混乱状態である"
+      "text" : "Fly: user is confused"
     },
     {
       "id" : 61473,
-      "text" : "Fly: 自分がAttract状態である"
+      "text" : "Fly: user is infatuated"
     },
     {
       "id" : 61474,
-      "text" : "Fly: 自分が呪い状態である"
+      "text" : "Fly: user is cursed"
     },
     {
       "id" : 61475,
-      "text" : "Fly: 自分が滅び状態である"
+      "text" : "Fly: user is under perish song"
     },
     {
       "id" : 61476,
-      "text" : "Fly: 自分が宿られ状態である"
+      "text" : "Fly: user is seeded"
     },
     {
       "id" : 61477,
-      "text" : "Fly: 場にいなくてもヒットする技を敵が持っている"
+      "text" : "Fly: enemy has hitting move even if not in field"
     },
     {
       "id" : 61478,
-      "text" : "Fly:　target is locked-onto"
+      "text" : "Fly: target is locked-onto"
     },
     {
       "id" : 61479,
-      "text" : "Bounce:　target is poisoned"
+      "text" : "Bounce: target is poisoned"
     },
     {
       "id" : 61480,
-      "text" : "Bounce:　target is badly poisoned"
+      "text" : "Bounce: target is badly poisoned"
     },
     {
       "id" : 61481,
-      "text" : "Bounce: 対象が火傷状態である"
+      "text" : "Bounce: target is burned"
     },
     {
       "id" : 61482,
-      "text" : "Bounce: 対象が麻痺状態である"
+      "text" : "Bounce: target is paralyzed"
     },
     {
       "id" : 61483,
-      "text" : "Bounce: 対象が混乱状態である"
+      "text" : "Bounce: target is confused"
     },
     {
       "id" : 61484,
-      "text" : "Bounce:　target is infatuated"
+      "text" : "Bounce: target is infatuated"
     },
     {
       "id" : 61485,
-      "text" : "Bounce: 対象が呪い状態である"
+      "text" : "Bounce: target is cursed"
     },
     {
       "id" : 61486,
-      "text" : "Bounce: 対象が滅び状態である"
+      "text" : "Bounce: target is under perish song"
     },
     {
       "id" : 61487,
-      "text" : "Bounce: 対象が宿られ状態である"
+      "text" : "Bounce: target is seeded"
     },
     {
       "id" : 61488,
-      "text" : "Bounce: 対象より素早さが高い"
+      "text" : "Bounce: speed is faster than target"
     },
     {
       "id" : 61489,
-      "text" : "Bounce: 追加効果で麻痺する可能性がある"
+      "text" : "Bounce: possibility of paralysis by additonal effect"
     },
     {
       "id" : 61490,
-      "text" : "Bounce: 自分が毒状態である"
+      "text" : "Bounce: user is poisoned"
     },
     {
       "id" : 61491,
-      "text" : "Bounce: 自分がBadly Poisoned状態である"
+      "text" : "Bounce: user is Badly Poisoned"
     },
     {
       "id" : 61492,
-      "text" : "Bounce: 自分が火傷状態である"
+      "text" : "Bounce: user is burned"
     },
     {
       "id" : 61493,
-      "text" : "Bounce: 自分が麻痺状態である"
+      "text" : "Bounce: user is paralyzed"
     },
     {
       "id" : 61494,
-      "text" : "Bounce: 自分が混乱状態である"
+      "text" : "Bounce: user is confused"
     },
     {
       "id" : 61495,
-      "text" : "Bounce: 自分がAttract状態である"
+      "text" : "Bounce: user is infatuated"
     },
     {
       "id" : 61496,
-      "text" : "Bounce: 自分が呪い状態である"
+      "text" : "Bounce: user is cursed"
     },
     {
       "id" : 61497,
-      "text" : "Bounce: 自分が滅び状態である"
+      "text" : "Bounce: user is under perish song"
     },
     {
       "id" : 61498,
-      "text" : "Bounce: 自分が宿られ状態である"
+      "text" : "Bounce: user is seeded"
     },
     {
       "id" : 61499,
-      "text" : "Bounce: 場にいなくてもヒットする技を敵が持っている"
+      "text" : "Bounce: enemy has hitting move even if not in field"
     },
     {
       "id" : 61500,
-      "text" : "Bounce: Lock-on状態"
+      "text" : "Bounce: Lock-on state"
     },
     {
       "id" : 61501,
-      "text" : "Self-destruct:　Has no effect on allies including switch-ins"
+      "text" : "Self-destruct: Has no effect on allies including switch-ins"
     },
     {
       "id" : 61502,
-      "text" : "Self-destruct:　effect is bad for allies"
+      "text" : "Self-destruct: effect is bad for allies"
     },
     {
       "id" : 61503,
-      "text" : "Self-destruct:　Ally has protect, detect or endure"
+      "text" : "Self-destruct: Ally has protect, detect or endure"
     },
     {
       "id" : 61504,
-      "text" : "Self-destruct:　Ally selected protect, detect or endure"
+      "text" : "Self-destruct: Ally selected protect, detect or endure"
     },
     {
       "id" : 61505,
-      "text" : "Self-destruct: 敵1がSubstituteを出している"
+      "text" : "Self-destruct: Enemy 1 has put out a Substitute"
     },
     {
       "id" : 61506,
-      "text" : "Self-destruct: 敵2がSubstituteを出している"
+      "text" : "Self-destruct: Enemy 2 has put out a Substitute"
     },
     {
       "id" : 61507,
@@ -5991,15 +5991,15 @@
     },
     {
       "id" : 61509,
-      "text" : "Roll-out:　has used defense curl"
+      "text" : "Roll-out: has used defense curl"
     },
     {
       "id" : 61510,
-      "text" : "Roll-out:　User has ?% HP remaining"
+      "text" : "Roll-out: User has ?% HP remaining"
     },
     {
       "id" : 61511,
-      "text" : "Roll-out:　Moves limited for 5 turns"
+      "text" : "Roll-out: Moves limited for 5 turns"
     },
     {
       "id" : 61512,
@@ -6011,35 +6011,35 @@
     },
     {
       "id" : 61514,
-      "text" : "Bidning:　the target is badly poisoned"
+      "text" : "Bidning: the target is badly poisoned"
     },
     {
       "id" : 61515,
-      "text" : "Binding: 対象が火傷状態である"
+      "text" : "Binding: target is burned"
     },
     {
       "id" : 61516,
-      "text" : "Binding: 対象が宿られ状態である"
+      "text" : "Binding: target is seeded"
     },
     {
       "id" : 61517,
-      "text" : "Binding: 対象が混乱状態である"
+      "text" : "Binding: target is confused"
     },
     {
       "id" : 61518,
-      "text" : "Binding: 対象がAttract状態である"
+      "text" : "Binding: target is infatuated"
     },
     {
       "id" : 61519,
-      "text" : "Binding: 対象が呪い状態である"
+      "text" : "Binding: target is cursed"
     },
     {
       "id" : 61520,
-      "text" : "Binding: 対象が滅び状態である"
+      "text" : "Binding: target is under perish song"
     },
     {
       "id" : 61521,
-      "text" : "Binding: 対象が交代不能状態である"
+      "text" : "Binding: target has an unchangeable status"
     },
     {
       "id" : 61522,
@@ -6051,19 +6051,19 @@
     },
     {
       "id" : 61524,
-      "text" : "Earthquake: ally has protect, detect or endure"
+      "text" : "Earthquake: ally has protect or detect"
     },
     {
       "id" : 61525,
-      "text" : "Earthquake: 味方が「Protect」か「みきり」を選択している"
+      "text" : "Earthquake: Ally chose Protect or detect"
     },
     {
       "id" : 61526,
-      "text" : "Earthquake: 味方が「Helping Hand」を選択した"
+      "text" : "Earthquake: Ally chose Helping Hand"
     },
     {
       "id" : 61527,
-      "text" : "Earthquake: 味方の最後に使用した技が「Protect」か「みきる」か「Endure」"
+      "text" : "Earthquake: Ally's last used move was Protect, Detect or Endure"
     },
     {
       "id" : 61528,
@@ -6087,35 +6087,35 @@
     },
     {
       "id" : 61533,
-      "text" : "Flinching: 対象より素早さが高く対象が宿られ状態"
+      "text" : "Flinching: Faster than target and target is seeded"
     },
     {
       "id" : 61534,
-      "text" : "Flinching: 対象より素早さが高く対象が呪い状態"
+      "text" : "Flinching: Faster than target and target is cursed"
     },
     {
       "id" : 61535,
-      "text" : "Flinching: 対象より素早さが高く対象が麻痺状態"
+      "text" : "Flinching: Faster than target and target is paralyzed"
     },
     {
       "id" : 61536,
-      "text" : "Flinching: 対象より素早さが高く対象が混乱状態"
+      "text" : "Flinching: Faster than target and target is confused"
     },
     {
       "id" : 61537,
-      "text" : "Flinching: 対象より素早さが高く対象がAttract状態"
+      "text" : "Flinching: Faster than target and target is infatuated"
     },
     {
       "id" : 61538,
-      "text" : "Flinching: 対象より素早さが高く対象が滅び状態"
+      "text" : "Flinching: Faster than target and target is under perish song"
     },
     {
       "id" : 61539,
-      "text" : "Flinching: 味方がHelping Handを選択した"
+      "text" : "Flinching: Ally chose Helping Hand"
     },
     {
       "id" : 61540,
-      "text" : "Sky Attack: 対象より素早さが高くひるませる可能性がある"
+      "text" : "Sky Attack: Faster than target and target can flinch"
     },
     {
       "id" : 61541,
@@ -6131,71 +6131,71 @@
     },
     {
       "id" : 61544,
-      "text" : "Attack drop: 対象が?%の確立で攻撃がダウンする可能性がある"
+      "text" : "Attack drop: Target has ?% Probability of Attack decreasing"
     },
     {
       "id" : 61545,
-      "text" : "Attack drop: 味方が「Helping Hand」を選択した"
+      "text" : "Attack drop: Ally chose Helping Hand"
     },
     {
       "id" : 61546,
-      "text" : "Defense drop: 対象が?%の確立で防御がダウンする可能性がある"
+      "text" : "Defense drop: Target has ?% Probability of Defense decreasing"
     },
     {
       "id" : 61547,
-      "text" : "Defense drop: 味方が「Helping Hand」を選択した"
+      "text" : "Defense drop: Ally chose Helping Hand"
     },
     {
       "id" : 61548,
-      "text" : "Speed drop: 対象が?%の確立で素早さがダウンする可能性がある"
+      "text" : "Speed drop: Target has ?% Probability of Speed decreasing"
     },
     {
       "id" : 61549,
-      "text" : "Speed drop: 味方が「Helping Hand」を選択した"
+      "text" : "Speed drop: Ally chose Helping Hand"
     },
     {
       "id" : 61550,
-      "text" : "Speed drop: 対象が麻痺状態である"
+      "text" : "Speed drop: target is paralyzed"
     },
     {
       "id" : 61551,
-      "text" : "Sp.atk drop: 対象が?%の確立で特攻がダウンする可能性がある"
+      "text" : "Sp.atk drop: Target has ?% Probability of Sp Atk decreasing"
     },
     {
       "id" : 61552,
-      "text" : "Sp.atk drop: 味方が「Helping Hand」を選択した"
+      "text" : "Sp.atk drop: Ally chose Helping Hand"
     },
     {
       "id" : 61553,
-      "text" : "Sp.def drop: 対象が?%の確立で特防がダウンする可能性がある"
+      "text" : "Sp.def drop: Target has ?% Probability of Sp Def decreasing"
     },
     {
       "id" : 61554,
-      "text" : "Sp.def drop: 味方が「Helping Hand」を選択した"
+      "text" : "Sp.def drop: Ally chose Helping Hand"
     },
     {
       "id" : 61555,
-      "text" : "Accuracy drop: 対象が?%の確立で命中がダウンする可能性がある"
+      "text" : "Accuracy drop: Target has ?% Probability of Accuracy decreasing"
     },
     {
       "id" : 61556,
-      "text" : "Accuracy drop: 味方が「Helping Hand」を選択した"
+      "text" : "Accuracy drop: Ally chose Helping Hand"
     },
     {
       "id" : 61557,
-      "text" : "Confusion: 対象が?%の確立で混乱する可能性がある"
+      "text" : "Confusion: Target has ?% Probability of being confused"
     },
     {
       "id" : 61558,
-      "text" : "Confusion: 味方が「Helping Hand」を選択した"
+      "text" : "Confusion: Ally chose Helping Hand"
     },
     {
       "id" : 61559,
-      "text" : "Sacred Fire?: 対象が?%の確立で火傷する可能性がある"
+      "text" : "Sacred Fire?: Target has ?% Probability of being burned"
     },
     {
       "id" : 61560,
-      "text" : "Sacred Fire?: 味方が「Helping Hand」を選択した"
+      "text" : "Sacred Fire?: Ally chose Helping Hand"
     },
     {
       "id" : 61561,
@@ -6203,79 +6203,79 @@
     },
     {
       "id" : 61562,
-      "text" : "Fire Spin: 対象が交代可能状態である"
+      "text" : "Fire Spin: Target has an changeable status"
     },
     {
       "id" : 61563,
-      "text" : "Fire Spin: 対象が毒状態である"
+      "text" : "Fire Spin: Target is poisoned"
     },
     {
       "id" : 61564,
-      "text" : "Fire Spin: 対象がBadly Poisoned状態である"
+      "text" : "Fire Spin: Target is Badly Poisoned"
     },
     {
       "id" : 61565,
-      "text" : "Fire Spin: 対象が火傷状態である"
+      "text" : "Fire Spin: target is burned"
     },
     {
       "id" : 61566,
-      "text" : "Fire Spin: 対象が宿られ状態である"
+      "text" : "Fire Spin: target is seeded"
     },
     {
       "id" : 61567,
-      "text" : "Fire Spin: 対象が混乱状態である"
+      "text" : "Fire Spin: target is confused"
     },
     {
       "id" : 61568,
-      "text" : "Fire Spin: 対象がAttract状態である"
+      "text" : "Fire Spin: target is infatuated"
     },
     {
       "id" : 61569,
-      "text" : "Fire Spin: 対象が呪い状態である"
+      "text" : "Fire Spin: target is cursed"
     },
     {
       "id" : 61570,
-      "text" : "Fire Spin: 対象が滅び状態である"
+      "text" : "Fire Spin: target is under perish song"
     },
     {
       "id" : 61571,
-      "text" : "Fire Spin: 対象が凍り状態である"
+      "text" : "Fire Spin: Target is frozen"
     },
     {
       "id" : 61572,
-      "text" : "Fire Spin: 対象が交代不可能状態である"
+      "text" : "Fire Spin: Target has an unchangeable status"
     },
     {
       "id" : 61573,
-      "text" : "自己解凍炎系　自分が凍り状態である"
+      "text" : "Burning: user is frozen"
     },
     {
       "id" : 61574,
-      "text" : "自己解凍炎系　対象が?%の確立で火傷する可能性がある"
+      "text" : "Burning: Target has a ?% Probability of being burned"
     },
     {
       "id" : 61575,
-      "text" : "自己解凍炎系　味方が「Helping Hand」を選択した"
+      "text" : "Burning: Ally chose Helping Hand"
     },
     {
       "id" : 61576,
-      "text" : "自己解凍炎系　対象が凍り状態である"
+      "text" : "Burning: Target is frozen"
     },
     {
       "id" : 61577,
-      "text" : "Blaze Kick: クリティカルが出やすい"
+      "text" : "Blaze Kick: High crit rate"
     },
     {
       "id" : 61578,
-      "text" : "Blaze Kick: 対象が火傷する可能性がある"
+      "text" : "Blaze Kick: Target can be burned"
     },
     {
       "id" : 61579,
-      "text" : "Blaze Kick: 味方が「Helping Hand」を選択した"
+      "text" : "Blaze Kick: Ally chose Helping Hand"
     },
     {
       "id" : 61580,
-      "text" : "Blaze Kick: 対象が凍り状態である"
+      "text" : "Blaze Kick: Target is frozen"
     },
     {
       "id" : 61581,
@@ -6283,591 +6283,591 @@
     },
     {
       "id" : 61582,
-      "text" : "Freezing: Ally used helping hand"
+      "text" : "Freezing: Ally chose Helping Hand"
     },
     {
       "id" : 61583,
-      "text" : "Freezing: Opponent's other pokemon already frozen"
+      "text" : "Freezing: Opponent Pokémon other than target (including reserves) are already frozen"
     },
     {
       "id" : 61584,
-      "text" : "Paralysis: 対象が?%の確立で麻痺する可能性がある"
+      "text" : "Paralysis: Target has a ?% Probability of being paralyzed"
     },
     {
       "id" : 61585,
-      "text" : "Paralysis: 味方が「Helping Hand」を選択した"
+      "text" : "Paralysis: Ally chose Helping Hand"
     },
     {
       "id" : 61586,
-      "text" : "Sleep: 対象が?%の確立で眠る可能性がある"
+      "text" : "Sleep: Target has a ?% Probability of falling asleep"
     },
     {
       "id" : 61587,
-      "text" : "Sleep: 対象以外の相手ポケモン（控え含む）が既に眠っている"
+      "text" : "Sleep: Opponent Pokémon other than target (including reserves) are already asleep"
     },
     {
       "id" : 61588,
-      "text" : "反動系　味方が「Helping Hand」を選択した"
+      "text" : "Recoil: Ally chose Helping Hand"
     },
     {
       "id" : 61589,
-      "text" : "反動系　次のターン反動で動けない"
+      "text" : "Recoil: Can't move due to recoil next turn"
     },
     {
       "id" : 61590,
-      "text" : "追加毒系　対象が?%の確立で毒になる可能性がある"
+      "text" : "Poisoning: Target has a ?% Probability of being poisoned"
     },
     {
       "id" : 61591,
-      "text" : "追加毒系　味方が「Helping Hand」を選択した"
+      "text" : "Poisoning: Ally chose Helping Hand"
     },
     {
       "id" : 61592,
-      "text" : "ポイズンテール　対象が毒になる可能性がある"
+      "text" : "Poison Tail: Target can be poisoned"
     },
     {
       "id" : 61593,
-      "text" : "ポイズンテール　クリティカルが出やすい"
+      "text" : "Poison Tail: High crit rate"
     },
     {
       "id" : 61594,
-      "text" : "ポイズンテール　味方が「Helping Hand」を選択した"
+      "text" : "Poison Tail: Ally chose Helping Hand"
     },
     {
       "id" : 61595,
-      "text" : "Badly Poisonedのキバ　対象が?%の確立で毒々になる可能性がある"
+      "text" : "Poison Fang: Target has a ?% Probability of being badly poisoned"
     },
     {
       "id" : 61596,
-      "text" : "Badly Poisonedのキバ　味方が「Helping Hand」を選択した"
+      "text" : "Poison Fang: Ally chose Helping Hand"
     },
     {
       "id" : 61597,
-      "text" : "Tri-Attack　対象が状態異常になる可能性がある"
+      "text" : "Tri-Attack: Target can be afflicted with a status"
     },
     {
       "id" : 61598,
-      "text" : "Solar Beam　場が「晴れ」状態である"
+      "text" : "Solar Beam: Field is Sunny"
     },
     {
       "id" : 61599,
-      "text" : "Solar Beam　味方が「Helping Hand」を選択した"
+      "text" : "Solar Beam: Ally chose Helping Hand"
     },
     {
       "id" : 61600,
-      "text" : "Solar Beam　場が「雨」状態である"
+      "text" : "Solar Beam: Field is Rainy"
     },
     {
       "id" : 61601,
-      "text" : "Solar Beam　場が「通常」「Hail」「砂嵐」状態である"
+      "text" : "Solar Beam: Field is normal, has Hail or has Sandstorm"
     },
     {
       "id" : 61602,
-      "text" : "Item theft　対象の道具を奪える可能性がある"
+      "text" : "Item theft: Target's item can be stolen"
     },
     {
       "id" : 61603,
-      "text" : "Item theft　対象の特性が「ねんちゃく」である"
+      "text" : "Item theft: Target's Ability is Skicky Hold"
     },
     {
       "id" : 61604,
-      "text" : "Knock Off　対象の道具をはたき落とせる可能性がある"
+      "text" : "Knock Off: Target's item can be Knocked Off"
     },
     {
       "id" : 61605,
-      "text" : "Knock Off　対象の特性が「ねんちゃく」である"
+      "text" : "Knock Off: Target's Ability is Skicky Hold"
     },
     {
       "id" : 61606,
-      "text" : "Overheat: 回復Itemを装備"
+      "text" : "Overheat: Equipped with recovery item"
     },
     {
       "id" : 61607,
-      "text" : "Overheat: 味方が「Helping Hand」を選択した"
+      "text" : "Overheat: Ally chose Helping Hand"
     },
     {
       "id" : 61608,
-      "text" : "Overheat: 使用後能力が下がる"
+      "text" : "Overheat: Stat decreases after use"
     },
     {
       "id" : 61609,
-      "text" : "Defense Boost: 自分の防御が1ランクアップする可能性がある"
+      "text" : "Defense Boost: User's defence can rise by 1 Stage"
     },
     {
       "id" : 61610,
-      "text" : "Attack Boost: 自分の攻撃が?%の確立で1ランクアップする可能性がある"
+      "text" : "Attack Boost: User has a ?% chance of raising Attack by 1 Stage"
     },
     {
       "id" : 61611,
-      "text" : "全能力アップ系　自分のいずれかの能力が1ランクアップする可能性がある"
+      "text" : "All Stats Up: User's all stats can be raised by 1 Stage"
     },
     {
       "id" : 61612,
-      "text" : "全能力アップ系　味方が「Helping Hand」を選択した"
+      "text" : "All Stats Up: Ally chose Helping Hand"
     },
     {
       "id" : 61613,
-      "text" : "一撃必殺系　対象を一撃で倒せる可能性がある"
+      "text" : "OHKO: Target can faint in one hit"
     },
     {
       "id" : 61614,
-      "text" : "ひみつのちから　"
+      "text" : "Secret Power　"
     },
     {
       "id" : 61615,
-      "text" : "Weather Ball　Weatherが「晴れ」か「雨」"
+      "text" : "Weather Ball: Weather is Sunny or Rainy"
     },
     {
       "id" : 61616,
-      "text" : "Weather Ball　Weatherが「Hail」"
+      "text" : "Weather Ball: Weather is Hail"
     },
     {
       "id" : 61617,
-      "text" : "Weather Ball　Weatherが「砂嵐」"
+      "text" : "Weather Ball: Weather is Sandstorm"
     },
     {
       "id" : 61618,
-      "text" : "Pursuit　対象が毒状態である"
+      "text" : "Pursuit: Target is poisoned"
     },
     {
       "id" : 61619,
-      "text" : "Pursuit　対象がBadly Poisoned状態である"
+      "text" : "Pursuit: Target is Badly Poisoned"
     },
     {
       "id" : 61620,
-      "text" : "Pursuit　対象が火傷状態である"
+      "text" : "Pursuit: target is burned"
     },
     {
       "id" : 61621,
-      "text" : "Pursuit　対象が宿られ状態である"
+      "text" : "Pursuit: target is seeded"
     },
     {
       "id" : 61622,
-      "text" : "Pursuit　対象が混乱状態である"
+      "text" : "Pursuit: target is confused"
     },
     {
       "id" : 61623,
-      "text" : "Pursuit　対象がAttract状態である"
+      "text" : "Pursuit: target is infatuated"
     },
     {
       "id" : 61624,
-      "text" : "Pursuit　対象が呪い状態である"
+      "text" : "Pursuit: target is cursed"
     },
     {
       "id" : 61625,
-      "text" : "Pursuit　対象が滅び状態である"
+      "text" : "Pursuit: target is under perish song"
     },
     {
       "id" : 61626,
-      "text" : "Pursuit　対象があくび状態である"
+      "text" : "Pursuit: Target is drowsy"
     },
     {
       "id" : 61627,
-      "text" : "Pursuit　対象が交代不可能状態である"
+      "text" : "Pursuit: Target has an unchangeable status"
     },
     {
       "id" : 61628,
-      "text" : "きつけ　対象が麻痺状態である"
+      "text" : "SmellingSalt: target is paralyzed"
     },
     {
       "id" : 61629,
-      "text" : "回復系1　天候が「晴れ」"
+      "text" : "Recovery1: Weather is sunny"
     },
     {
       "id" : 61630,
-      "text" : "回復系1　現在ＨPが半分以下"
+      "text" : "Recovery1: Current HP is less than half"
     },
     {
       "id" : 61631,
-      "text" : "回復系1　天候が「雨」か「Hail」か「砂嵐」"
+      "text" : "Recovery1: Weather is Rain, Hail or Sandstorm"
     },
     {
       "id" : 61632,
-      "text" : "回復系2　現在ＨPが半分以下"
+      "text" : "Recovery2: Current HP is less than half"
     },
     {
       "id" : 61633,
-      "text" : "Sleep　回復Itemを装備"
+      "text" : "Sleep: Equipped with recovery item"
     },
     {
       "id" : 61634,
-      "text" : "Sleep　現在ＨPが半分以下"
+      "text" : "Sleep: Current HP is less than half"
     },
     {
       "id" : 61635,
-      "text" : "Sleep　自分が状態異常である"
+      "text" : "Sleep: User has a status condition"
     },
     {
       "id" : 61636,
-      "text" : "Sleep　2ターン行動不可能"
+      "text" : "Sleep: No action possible for 2 turns"
     },
     {
       "id" : 61637,
-      "text" : "眠らせ系　対象が状態異常でない"
+      "text" : "Asleep: Target doesn't have a status"
     },
     {
       "id" : 61638,
-      "text" : "眠らせ系　対象以外の相手ポケモン（控え含む）が既に眠っている"
+      "text" : "Asleep: Opponent Pokémon other than target (including reserves) are already asleep"
     },
     {
       "id" : 61639,
-      "text" : "Rain Dance　天候が「雨」以外"
+      "text" : "Rain Dance: Weather is other than Rain"
     },
     {
       "id" : 61640,
-      "text" : "Rain Dance　天候が「雨」"
+      "text" : "Rain Dance: Weather is rain"
     },
     {
       "id" : 61641,
-      "text" : "Sunny Day　天候が「晴れ」以外"
+      "text" : "Sunny Day: Weather is other than Sunny"
     },
     {
       "id" : 61642,
-      "text" : "Sunny Day　天候が「晴れ」"
+      "text" : "Sunny Day: Weather is sunny"
     },
     {
       "id" : 61643,
-      "text" : "Hail　天候が「Hail」以外"
+      "text" : "Hail: Weather is other than Hail"
     },
     {
       "id" : 61644,
-      "text" : "Hail　天候が「Hail」"
+      "text" : "Hail: Weather is Hail"
     },
     {
       "id" : 61645,
-      "text" : "Sandstorm　天候が「Sandstorm」以外"
+      "text" : "Sandstorm: Weather is other than Sandstorm"
     },
     {
       "id" : 61646,
-      "text" : "Sandstorm　天候が「Sandstorm」"
+      "text" : "Sandstorm: Weather is Sandstorm"
     },
     {
       "id" : 61647,
-      "text" : "Refresh　自分が状態異常である"
+      "text" : "Refresh: User has a status condition"
     },
     {
       "id" : 61648,
-      "text" : "アロマ系　控えを含む味方が状態異常である"
+      "text" : "Aromatherapy: Allies including reserves have statuses"
     },
     {
       "id" : 61649,
-      "text" : "Counter: 対象の基本固体値の攻撃が特攻より高い"
+      "text" : "Counter: Target's Base Atk is greater than Sp Atk"
     },
     {
       "id" : 61650,
-      "text" : "Counter: 対象が最後に物理攻撃を使用した"
+      "text" : "Counter: Target last used a physical attack"
     },
     {
       "id" : 61651,
-      "text" : "Mirror Coat　対象の基本固体値の特攻が攻撃より高い"
+      "text" : "Mirror Coat: Target's Base Sp Atk is greater than Atk"
     },
     {
       "id" : 61652,
-      "text" : "Mirror Coat　対象が最後に特殊攻撃を使用した"
+      "text" : "Mirror Coat: Target last used a special attack"
     },
     {
       "id" : 61653,
-      "text" : "Magic Coat　登場して一回目の行動"
+      "text" : "Magic Coat: First action on entering"
     },
     {
       "id" : 61654,
-      "text" : "みやぶる系　対象の属性が「Ghost」である"
+      "text" : "Foresight: Target's type is Ghost"
     },
     {
       "id" : 61655,
-      "text" : "みやぶる系　対象の回避が3ランク以上アップしている"
+      "text" : "Foresight: Target's evasion is up by 3 Stages or more"
     },
     {
       "id" : 61656,
-      "text" : "Endure: 対象の属性が自分の弱点になっている"
+      "text" : "Endure: User is weak against target's type"
     },
     {
       "id" : 61657,
-      "text" : "Endure: 自分が「火傷」か「毒」か「毒々」か「麻痺」か「呪い」か「宿られ」状態"
+      "text" : "Endure: User is burned, poisoned, badly poisoned, paralyzed, cursed, or seeded"
     },
     {
       "id" : 61658,
-      "text" : "とりあえず使え系　使用可能状態である"
+      "text" : "First Use: Is in Usable state"
     },
     {
       "id" : 61659,
-      "text" : "Curse: 自分の属性が「Ghost」で残りＨPが半分以上"
+      "text" : "Curse: User's Type is Ghost and remaining HP is more than half"
     },
     {
       "id" : 61660,
-      "text" : "Curse: 自分の属性が「Ghost」で残りＨPが４分の1以下"
+      "text" : "Curse: User's Type is Ghost and remaining HP is less than 1/4"
     },
     {
       "id" : 61661,
-      "text" : "Curse: 自分の属性が「Ghost」である"
+      "text" : "Curse: User's Type is Ghost"
     },
     {
       "id" : 61662,
-      "text" : "Lock on: 対象がLock-on状態でない"
+      "text" : "Lock on: Target is not Locked-on"
     },
     {
       "id" : 61663,
-      "text" : "あくむ　対象が悪夢状態でない"
+      "text" : "Nightmare: Target is not in Nightmare status"
     },
     {
       "id" : 61664,
-      "text" : "いたみわけ　対象のＨPゲージが自分のＨPゲージの2倍以上"
+      "text" : "Pain Split: Target's HP gauge is more than double User's HP Gauge"
     },
     {
       "id" : 61665,
-      "text" : "いたみわけ　対象のＨPゲージが自分のＨPゲージの3倍以上"
+      "text" : "Pain Split: Target's HP gauge is more than triple User's HP Gauge"
     },
     {
       "id" : 61666,
-      "text" : "いたみわけ　自分のＨPゲージが対象者のＨPゲージの2倍以上"
+      "text" : "Pain Split: User's HP gauge is more than double Target's HP Gauge"
     },
     {
       "id" : 61667,
-      "text" : "いたみわけ　自分のＨPゲージが対象者のＨPゲージの3倍以上"
+      "text" : "Pain Split: User's HP gauge is more than triple Target's HP Gauge"
     },
     {
       "id" : 61668,
-      "text" : "Endeavor: 自分のＨPが最大ＨPの５割以下"
+      "text" : "Endeavor: User's HP is less than 50% of max HP"
     },
     {
       "id" : 61669,
-      "text" : "Endeavor: 自分のＨPが最大ＨPの3割以下"
+      "text" : "Endeavor: User's HP is less than 30% of max HP"
     },
     {
       "id" : 61670,
-      "text" : "Endeavor: 自分のＨPが最大ＨPの1割以下"
+      "text" : "Endeavor: User's HP is less than 10% of max HP"
     },
     {
       "id" : 61671,
-      "text" : "素早さダウン系　対象の素早さが味方より高い"
+      "text" : "Speed Drop: Target's speed is greater than Ally"
     },
     {
       "id" : 61672,
-      "text" : "素早さダウン系　対象の素早さが味方より低い"
+      "text" : "Speed Drop: Target's speed is lesser than Ally"
     },
     {
       "id" : 61673,
-      "text" : "Attack drop: 下げようとしている能力が2ランク以上下がっている"
+      "text" : "Attack drop: Stat being lowered has been dropped by 2 or more Stages"
     },
     {
       "id" : 61674,
-      "text" : "Defense drop: 下げようとしている能力が2ランク以上下がっている"
+      "text" : "Defense drop: Stat being lowered has been dropped by 2 or more Stages"
     },
     {
       "id" : 61675,
-      "text" : "Sp.def drop: 下げようとしている能力が2ランク以上下がっている"
+      "text" : "Sp.def drop: Stat being lowered has been dropped by 2 or more Stages"
     },
     {
       "id" : 61676,
-      "text" : "命中ダウン系　下げようとしている能力が2ランク以上下がっている"
+      "text" : "Accuracy drop: Stat being lowered has been dropped by 2 or more Stages"
     },
     {
       "id" : 61677,
-      "text" : "Evasion drop: 下げようとしている能力が2ランク以上下がっている"
+      "text" : "Evasion drop: Stat being lowered has been dropped by 2 or more Stages"
     },
     {
       "id" : 61678,
-      "text" : "Tickle: 下げようとしている能力2種が2ランク以上下がっている"
+      "text" : "Tickle: The 2 stats being lowered have been dropped by 2 or more Stages"
     },
     {
       "id" : 61679,
-      "text" : "いかりのまえば　対象のＨPメーターが５割以上"
+      "text" : "Super Fang: Target's HP meter is above 50%"
     },
     {
       "id" : 61680,
-      "text" : "アンコール　対象より速くて最後に使用した技が威力技以外"
+      "text" : "Encore: Faster than Target and last used move was not a damaging move"
     },
     {
       "id" : 61681,
-      "text" : "Swagger: 対象の基本固体値の特攻が攻撃より高い"
+      "text" : "Swagger: Target's base Sp Atk is greater than Atk"
     },
     {
       "id" : 61682,
-      "text" : "Swagger: 対象の基本固体値の攻撃が防御より高い"
+      "text" : "Swagger: Target's base Atk is greater than Def"
     },
     {
       "id" : 61683,
-      "text" : "Flatter: 対象の基本固体値の攻撃が特攻より高い"
+      "text" : "Flatter: Target's base Atk is greater than Sp Atk"
     },
     {
       "id" : 61684,
-      "text" : "Flatter: 対象の基本固体値の攻撃が防御より高い"
+      "text" : "Flatter: Target's base Atk is greater than Def"
     },
     {
       "id" : 61685,
-      "text" : "うらみ　対象より速くて最後に使用した技の最大PPが５以下"
+      "text" : "Spite: Faster than target and last used move's max PP is less than 5"
     },
     {
       "id" : 61686,
-      "text" : "うらみ　対象より速く最後に使用した技の最大PPが10以下"
+      "text" : "Spite: Faster than target and last used move's max PP is less than 10"
     },
     {
       "id" : 61687,
-      "text" : "みちづれ系　自分のＨPが最大ＨPの５割以下"
+      "text" : "Destiny Bond: User's HP is less than 50% of max HP"
     },
     {
       "id" : 61688,
-      "text" : "みちづれ系　自分のＨPが最大ＨPの3割以下"
+      "text" : "Destiny Bond: User's HP is less than 30% of max HP"
     },
     {
       "id" : 61689,
-      "text" : "みちづれ系　自分のＨPが最大ＨPの1割以下"
+      "text" : "Destiny Bond: User's HP is less than 10% of max HP"
     },
     {
       "id" : 61690,
-      "text" : "かなしばり　対象より速くて最後に使用した技が威力技"
+      "text" : "Disable: Faster than Target and last used move was a damaging move"
     },
     {
       "id" : 61691,
-      "text" : "交代禁止系　対象が毒状態である"
+      "text" : "交代禁止系: Target is poisoned"
     },
     {
       "id" : 61692,
-      "text" : "交代禁止系　対象がBadly Poisoned状態である"
+      "text" : "交代禁止系: Target is Badly Poisoned"
     },
     {
       "id" : 61693,
-      "text" : "交代禁止系　対象が火傷状態である"
+      "text" : "交代禁止系: target is burned"
     },
     {
       "id" : 61694,
-      "text" : "交代禁止系　対象が麻痺状態である"
+      "text" : "交代禁止系: target is paralyzed"
     },
     {
       "id" : 61695,
-      "text" : "交代禁止系　対象が混乱状態である"
+      "text" : "交代禁止系: target is confused"
     },
     {
       "id" : 61696,
-      "text" : "交代禁止系　対象がAttract状態である"
+      "text" : "交代禁止系: target is infatuated"
     },
     {
       "id" : 61697,
-      "text" : "交代禁止系　対象が呪い状態である"
+      "text" : "交代禁止系: target is cursed"
     },
     {
       "id" : 61698,
-      "text" : "交代禁止系　対象が滅び状態である"
+      "text" : "交代禁止系: target is under perish song"
     },
     {
       "id" : 61699,
-      "text" : "交代禁止系　対象が宿られ状態である"
+      "text" : "交代禁止系: target is seeded"
     },
     {
       "id" : 61700,
-      "text" : "Follow me: 味方の弱点になる属性をもったポケモンが敵側にいる"
+      "text" : "Follow me: Ally is weak against the type of Pokémon on opponent side"
     },
     {
       "id" : 61701,
-      "text" : "Follow me: 敵側に「Ninjask」か「Scizor」が出撃している"
+      "text" : "Follow me: Ninjask or Scizor are attacking on the Opponent side"
     },
     {
       "id" : 61702,
-      "text" : "強化阻止系　対象が最後に能力強化系の技を使用した"
+      "text" : "強化阻止系: Target last used a stat enhancing move"
     },
     {
       "id" : 61703,
-      "text" : "Helping Hand　味方が威力技を選択している"
+      "text" : "Helping Hand: Ally chose a damaging move"
     },
     {
       "id" : 61704,
-      "text" : "Helping Hand　味方が威力技を持っている"
+      "text" : "Helping Hand: Ally has a damaging move"
     },
     {
       "id" : 61705,
-      "text" : "くろいきり　敵に2～3ランク能力が上がっている者がいる"
+      "text" : "Haze: Opponents have stats raised by 2-3 stages"
     },
     {
       "id" : 61706,
-      "text" : "くろいきり　味方に2～3ランク能力が下がっている者がいる"
+      "text" : "Haze: Ally has stats dropped by 2-3 stages"
     },
     {
       "id" : 61707,
-      "text" : "くろいきり　敵に４ランク以上能力が上がっている者がいる"
+      "text" : "Haze: Opponents have stats raised by 4 or more stages"
     },
     {
       "id" : 61708,
-      "text" : "くろいきり　味方に４ランク以上能力が下がっている者がいる"
+      "text" : "Haze: Ally has stats dropped by 4 or more stages"
     },
     {
       "id" : 61709,
-      "text" : "くろいきり　味方に2～3ランク能力が上がっている者がいる"
+      "text" : "Haze: Ally has stats raised by 2-3 stages"
     },
     {
       "id" : 61710,
-      "text" : "くろいきり　敵に2～3ランク能力が下がっている者がいる"
+      "text" : "Haze: Opponents have stats dropped by 2-3 stages"
     },
     {
       "id" : 61711,
-      "text" : "くろいきり　味方に４ランク以上能力が上がっている者がいる"
+      "text" : "Haze: Ally has stats raised by 4 or more stages"
     },
     {
       "id" : 61712,
-      "text" : "くろいきり　敵に４ランク以上能力が下がっている者がいる"
+      "text" : "Haze: Opponents have stats raised by 4 or more stages"
     },
     {
       "id" : 61713,
-      "text" : "じこあんじ　対象の能力が2～3ランク上がっている"
+      "text" : "Psych Up: Target's stats have been raised by 2-3 stages"
     },
     {
       "id" : 61714,
-      "text" : "じこあんじ　対象の能力が４ランク以上上がっている"
+      "text" : "Psych Up: Target's stats have been raised by 4 or more stages"
     },
     {
       "id" : 61715,
-      "text" : "じこあんじ　対象の能力が2～3ランク下がっている"
+      "text" : "Psych Up: Target's stats have been dropped by 2-3 stages"
     },
     {
       "id" : 61716,
-      "text" : "じこあんじ　対象の能力が４ランク以上下がっている"
+      "text" : "Psych Up: Target's stats have been dropped by 4 or more stages"
     },
     {
       "id" : 61717,
-      "text" : "しろいきり　敵が最後に能力ダウン系を使用した"
+      "text" : "Mist: Target last used a stat lowering move"
     },
     {
       "id" : 61718,
-      "text" : "リサイクル　手持ちItemを使用した"
+      "text" : "Recycle: Held item was used"
     },
     {
       "id" : 61719,
-      "text" : "まきびし　1度もまきびしを撒いていない"
+      "text" : "Spikes: Spikes have not been scattered even once"
     },
     {
       "id" : 61720,
-      "text" : "まきびし　1度まきびしを撒いた"
+      "text" : "Spikes: Spikes have been scattered once"
     },
     {
       "id" : 61721,
-      "text" : "まきびし　2度まきびしを撒いた"
+      "text" : "Spikes: Spikes have been scattered twice"
     },
     {
       "id" : 61722,
-      "text" : "フラフラダンス　敵2体を混乱させる可能性がある"
+      "text" : "Teeter Dance: Both opponents can be confused"
     },
     {
       "id" : 61723,
-      "text" : "フラフラダンス　回復Itemを装備"
+      "text" : "Teeter Dance: Equipped with recovery item"
     },
     {
       "id" : 61724,
-      "text" : "フラフラダンス　味方の特性がマイペース"
+      "text" : "Teeter Dance: Ally's ability is Own Tempo"
     },
     {
       "id" : 61725,
-      "text" : "フラフラダンス　味方も混乱させてしまう"
+      "text" : "Teeter Dance: Ally will also be confused"
     },
     {
       "id" : 61726,
-      "text" : "Brick Break　敵の場が「Reflect」か「Light Screen」である"
+      "text" : "Brick Break: Opponent's field has Reflect or Light Screen"
     },
     {
       "id" : 61727,
-      "text" : "Nightmare　ＨPを?%吸収する"
+      "text" : "Nightmare: Absorb ?% HP"
     },
     {
       "id" : 61728,
-      "text" : "Nightmare　味方が「Helping Hand」を選択した"
+      "text" : "Nightmare: Ally chose Helping Hand"
     },
     {
       "id" : 61729,
@@ -6879,75 +6879,75 @@
     },
     {
       "id" : 61731,
-      "text" : "拡張ディスク用"
+      "text" : "For Expansion Disk"
     },
     {
       "id" : 61732,
-      "text" : "拡張ディスク用タイトル"
+      "text" : "Title For Expansion Disk"
     },
     {
       "id" : 61733,
-      "text" : "拡張ディスク用トップメニュー"
+      "text" : "Top Menu For Expansion Disk"
     },
     {
       "id" : 61734,
-      "text" : "拡張ディスク用ポケクーポン"
+      "text" : "Poké coupon For Expansion Disk"
     },
     {
       "id" : 61735,
-      "text" : "拡張ディスク用聖なるほこら"
+      "text" : "Relic Stone For Expansion Disk"
     },
     {
       "id" : 61736,
-      "text" : "負け"
+      "text" : "Defeat"
     },
     {
       "id" : 61737,
-      "text" : "あたり無効ボタンON\/OFF"
+      "text" : "Invalid あたり button ON\/OFF"
     },
     {
       "id" : 61738,
-      "text" : "わざ選択メニュー"
+      "text" : "Move Select menu"
     },
     {
       "id" : 61739,
-      "text" : "データ順に出撃"
+      "text" : "Attck in order of data"
     },
     {
       "id" : 61740,
-      "text" : "エース・ボス1体選ぶ"
+      "text" : "1 Ace Boss choice"
     },
     {
       "id" : 61741,
-      "text" : "進化テスト"
+      "text" : "Evolution Test"
     },
     {
       "id" : 61742,
-      "text" : "エースである"
+      "text" : "Ace is there"
     },
     {
       "id" : 61743,
-      "text" : "ボスである"
+      "text" : "Boss is there"
     },
     {
       "id" : 61744,
-      "text" : "味方が防御者に選んだ"
+      "text" : "Ally chooses you as defender"
     },
     {
       "id" : 61745,
-      "text" : "種族値合計が高い"
+      "text" : "Base stat total is high"
     },
     {
       "id" : 61746,
-      "text" : "ヒットする技がない"
+      "text" : "There is no hitting move"
     },
     {
       "id" : 61747,
-      "text" : "ヒットして気絶させる技がある"
+      "text" : "There is a move that can hit and stun"
     },
     {
       "id" : 61748,
-      "text" : "相手を倒す事ができる"
+      "text" : "Opponent can be defeated"
     },
     {
       "id" : 61749,
@@ -6971,51 +6971,51 @@
     },
     {
       "id" : 61754,
-      "text" : "エボルーションキャンセルA"
+      "text" : "Evolution Cancel A"
     },
     {
       "id" : 61755,
-      "text" : "エボルーションキャンセルB"
+      "text" : "Evolution Cancel B"
     },
     {
       "id" : 61756,
-      "text" : "エボルーションキャンセルＣ"
+      "text" : "Evolution Cancel C"
     },
     {
       "id" : 61757,
-      "text" : "エボルーションエンド"
+      "text" : "Evolution End"
     },
     {
       "id" : 61758,
-      "text" : "ザコ紹介"
+      "text" : "ザコ Introduction"
     },
     {
       "id" : 61759,
-      "text" : "Dakim紹介"
+      "text" : "Dakim Introduction"
     },
     {
       "id" : 61760,
-      "text" : "Gonzap 紹介"
+      "text" : "Gonzap Introduction"
     },
     {
       "id" : 61761,
-      "text" : "Miror B.紹介"
+      "text" : "Miror B. Introduction"
     },
     {
       "id" : 61762,
-      "text" : "Venus紹介"
+      "text" : "Venus Introduction"
     },
     {
       "id" : 61763,
-      "text" : "Nascour 紹介"
+      "text" : "Nascour Introduction"
     },
     {
       "id" : 61764,
-      "text" : "Evice 紹介"
+      "text" : "Evice Introduction"
     },
     {
       "id" : 61765,
-      "text" : "Ein紹介"
+      "text" : "Ein Introduction"
     },
     {
       "id" : 61766,
@@ -7023,75 +7023,75 @@
     },
     {
       "id" : 61767,
-      "text" : "Master Ball投げ"
+      "text" : "Master Ball Throw"
     },
     {
       "id" : 61768,
-      "text" : "Ultra Ball投げ"
+      "text" : "Ultra Ball Throw"
     },
     {
       "id" : 61769,
-      "text" : "Great Ball投げ"
+      "text" : "Great Ball Throw"
     },
     {
       "id" : 61770,
-      "text" : "Poké Ball投げ"
+      "text" : "Poké Ball Throw"
     },
     {
       "id" : 61771,
-      "text" : "Safari Ball投げ"
+      "text" : "Safari Ball Throw"
     },
     {
       "id" : 61772,
-      "text" : "Net Ball投げ"
+      "text" : "Net Ball Throw"
     },
     {
       "id" : 61773,
-      "text" : "Dive Ball投げ"
+      "text" : "Dive Ball Throw"
     },
     {
       "id" : 61774,
-      "text" : "Nest Ball投げ"
+      "text" : "Nest Ball Throw"
     },
     {
       "id" : 61775,
-      "text" : "Repeat Ball投げ"
+      "text" : "Repeat Ball Throw"
     },
     {
       "id" : 61776,
-      "text" : "Timer Ball投げ"
+      "text" : "Timer Ball Throw"
     },
     {
       "id" : 61777,
-      "text" : "Luxury Ball投げ"
+      "text" : "Luxury Ball Throw"
     },
     {
       "id" : 61778,
-      "text" : "Premier Ball投げ"
+      "text" : "Premier Ball Throw"
     },
     {
       "id" : 61779,
-      "text" : "ダーメジ"
+      "text" : "Damage"
     },
     {
       "id" : 61780,
-      "text" : "D2バトル山挑戦可能時"
+      "text" : "D2 When Mt. Battle Challenge is possible"
     },
     {
       "id" : 61781,
-      "text" : "天候があめで特性がすいすいかあめうけざらである"
+      "text" : "Weather is rainy and Ability is Swift Swim or Rain Dish"
     },
     {
       "id" : 61782,
-      "text" : "天候がはれで特性がようりょくそである"
+      "text" : "Weather is sunny and Ability is Chlorophyll"
     },
     {
       "id" : 61783,
-      "text" : "天候がSandstormで特性がすながくれか属性が鋼か岩か地面である"
+      "text" : "Weather is Sandstorm and Ability is Sand Veil or Type is Steel, Rock or Ground"
     },
     {
       "id" : 61784,
-      "text" : "天候がHailで属性が氷である"
+      "text" : "Weather is Hail and Type is Ice"
     },
     {
       "id" : 61785,
@@ -7099,7 +7099,7 @@
     },
     {
       "id" : 61786,
-      "text" : "ムービーテスト"
+      "text" : "Movie Test"
     },
     {
       "id" : 61787,
@@ -7107,19 +7107,19 @@
     },
     {
       "id" : 61788,
-      "text" : "スタッフロール"
+      "text" : "Credit roll"
     },
     {
       "id" : 61789,
-      "text" : "攻略メモテスト"
+      "text" : "Strategy Memo Test"
     },
     {
       "id" : 61790,
-      "text" : "攻略メモを使えるようにする"
+      "text" : "To be able to use Strategy Memo"
     },
     {
       "id" : 61791,
-      "text" : "攻略メモに全ポケモンを追加"
+      "text" : "Add all Pokémon to Strategy Memo"
     },
     {
       "id" : 61792,
@@ -7127,219 +7127,219 @@
     },
     {
       "id" : 61793,
-      "text" : "必中系　対象の回避率がアップしている"
+      "text" : "Accuracy: Opponent's evasion rate is being raised"
     },
     {
       "id" : 61794,
-      "text" : "必中系　自分の命中率がダウンしている"
+      "text" : "Accuracy: User's Accuracy rate is being dropped"
     },
     {
       "id" : 61795,
-      "text" : "あてみなげ　対象の回避率がアップしている"
+      "text" : "Vital Throw: Opponent's evasion rate is being raised"
     },
     {
       "id" : 61796,
-      "text" : "あてみなげ　自分の命中率がダウンしている"
+      "text" : "Vital Throw: User's Accuracy rate is being dropped"
     },
     {
       "id" : 61797,
-      "text" : "Focus Punch　相手側に眠り状態のポケモンがいる"
+      "text" : "Focus Punch: The other side has an asleep Pokémon"
     },
     {
       "id" : 61798,
-      "text" : "Focus Punch　相手側に凍り状態のポケモンがいる"
+      "text" : "Focus Punch: The other side has a frozen Pokémon"
     },
     {
       "id" : 61799,
-      "text" : "Self-destruct: 味方の属性に効果がない"
+      "text" : "Self-destruct: Has no effect on Ally's type"
     },
     {
       "id" : 61800,
-      "text" : "Self-destruct: 味方の属性に効果がいまひとつ"
+      "text" : "Self-destruct: Is not very effective on Ally's type"
     },
     {
       "id" : 61801,
-      "text" : "Earthquake: 味方の属性に効果がない"
+      "text" : "Earthquake: Has no effect on Ally's type"
     },
     {
       "id" : 61802,
-      "text" : "Earthquake: 味方の属性に効果がいまひとつ"
+      "text" : "Earthquake: Is not very effective on Ally's type"
     },
     {
       "id" : 61803,
-      "text" : "Earthquake: 味方が「Protect」か「みきり」か「Endure」を持っている"
+      "text" : "Earthquake: Ally has Protect, Detect or Endure"
     },
     {
       "id" : 61804,
-      "text" : "Earthquake: 味方が「Protect」か「みきり」か「Endure」を選択している"
+      "text" : "Earthquake: Ally has chosen Protect, Detect or Endure"
     },
     {
       "id" : 61805,
-      "text" : "Attack drop: 対象の攻撃がこれ以上下がらない"
+      "text" : "Attack drop: Target's Attack will not drop further"
     },
     {
       "id" : 61806,
-      "text" : "Attack drop: 対象のポケモンが特性「クリアボディ」「りんぷん」「しろいけむり」「かいりきバサミ」を持っている"
+      "text" : "Attack drop: Target Pokémon's ability is Clear Body, Shield Dust, White Smoke or Hyper Cutter"
     },
     {
       "id" : 61807,
-      "text" : "Defense drop: 対象の防御がこれ以上下がらない"
+      "text" : "Defense drop: Target's Defence will not drop further"
     },
     {
       "id" : 61808,
-      "text" : "Defense drop: 対象のポケモンが特性「クリアボディ」「りんぷん」「しろいけむり」を持っている"
+      "text" : "Defense drop: Target's Pokémon's ability is Clear Body, Shield Dust or White Smoke"
     },
     {
       "id" : 61809,
-      "text" : "Speed drop: 対象の素早さがこれ以上下がらない"
+      "text" : "Speed drop: Target's Speed will not drop further"
     },
     {
       "id" : 61810,
-      "text" : "Speed drop: 対象のポケモンが特性「クリアボディ」「りんぷん」「しろいけむり」を持っている"
+      "text" : "Speed drop: Target's Pokémon's ability is Clear Body, Shield Dust or White Smoke"
     },
     {
       "id" : 61811,
-      "text" : "Guaranteed Speed Drop: 相手側に自分側より素早いポケモンがいる"
+      "text" : "Guaranteed Speed Drop: Opponent side has Pokémon faster than user's side"
     },
     {
       "id" : 61812,
-      "text" : "Guaranteed Speed Drop: 対象の素早さがこれ以上下がらない"
+      "text" : "Guaranteed Speed Drop: Target's Speed will not drop further"
     },
     {
       "id" : 61813,
-      "text" : "Guaranteed Speed Drop: 対象のポケモンが特性「クリアボディ」「りんぷん」「しろいけむり」を持っている"
+      "text" : "Guaranteed Speed Drop: Target Pokémon's Ability is Clear Body, Shield Dust or White Smoke"
     },
     {
       "id" : 61814,
-      "text" : "Icy Wind　相手側に自分側より素早いポケモンがいる"
+      "text" : "Icy Wind: Opponent side has Pokémon faster than user's side"
     },
     {
       "id" : 61815,
-      "text" : "Icy Wind　ダブルバトルである"
+      "text" : "Icy Wind: Is a Double Battle"
     },
     {
       "id" : 61816,
-      "text" : "Icy Wind　対象の素早さが自分側より低い"
+      "text" : "Icy Wind: Target's speed is lower than User"
     },
     {
       "id" : 61817,
-      "text" : "Icy Wind　対象のポケモンが特性「クリアボディ」「りんぷん」「しろいけむり」を持っている"
+      "text" : "Icy Wind: Target Pokémon's Ability is Clear Body, Shield Dust or White Smoke"
     },
     {
       "id" : 61818,
-      "text" : "Sp.atk drop: 対象の特攻がこれ以上下がらない"
+      "text" : "Sp.atk drop: Target's Sp Atk will not drop further"
     },
     {
       "id" : 61819,
-      "text" : "Sp.atk drop: 対象のポケモンが特性「クリアボディ」「りんぷん」「しろいけむり」を持っている"
+      "text" : "Sp.atk drop: Target Pokémon's Ability is Clear Body, Shield Dust or White Smoke"
     },
     {
       "id" : 61820,
-      "text" : "Sp.def drop: 対象の特防がこれ以上下がらない"
+      "text" : "Sp.def drop: Target's Sp Def will not drop further"
     },
     {
       "id" : 61821,
-      "text" : "Sp.def drop: 対象のポケモンが特性「クリアボディ」「りんぷん」「しろいけむり」を持っている"
+      "text" : "Sp.def drop: Target Pokémon's Ability is Clear Body, Shield Dust or White Smoke"
     },
     {
       "id" : 61822,
-      "text" : "Accuracy drop: 対象の命中がこれ以上下がらない"
+      "text" : "Accuracy drop: Target's Accuracy will not drop further"
     },
     {
       "id" : 61823,
-      "text" : "Accuracy drop: 対象のポケモンが特性「クリアボディ」「りんぷん」「しろいけむり」「するどいめ」を持っている"
+      "text" : "Accuracy drop: Target Pokémon's Ability is Clear Body, Shield Dust, White Smoke or Keen Eye"
     },
     {
       "id" : 61824,
-      "text" : "Mud-slap　追加効果で必ず命中率を下げることが出来る"
+      "text" : "Mud-slap: Accuracy rate will always be lowered as an additional effect"
     },
     {
       "id" : 61825,
-      "text" : "Mud-slap　対象の命中がこれ以上下がらない"
+      "text" : "Mud-slap: Target's Accuracy will not drop further"
     },
     {
       "id" : 61826,
-      "text" : "Mud-slap　対象のポケモンが特性「クリアボディ」「りんぷん」「しろいけむり」「するどいめ」を持っている"
+      "text" : "Mud-slap: Target Pokémon's Ability is Clear Body, Shield Dust, White Smoke or Keen Eye"
     },
     {
       "id" : 61827,
-      "text" : "Mud-slap　対象の命中率が2ランク以上下がっている"
+      "text" : "Mud-slap: Target's Accuracy rate has dropped by 2 or more stages"
     },
     {
       "id" : 61828,
-      "text" : "Confusion: 対象が既に混乱状態"
+      "text" : "Confusion: Target is already confused"
     },
     {
       "id" : 61829,
-      "text" : "Confusion: 対象のポケモンが特性「マイペース」「りんぷん」を持っている"
+      "text" : "Confusion: Target Pokémon's Ability is Own Tempo or Shield Dust"
     },
     {
       "id" : 61830,
-      "text" : "Sacred Fire: 対象が既に状態異常か特性「みずのべール」をもっている"
+      "text" : "Sacred Fire: Target already has a status effect or has the Ability Water Veil"
     },
     {
       "id" : 61831,
-      "text" : "自己解凍炎系　対象が既に状態異常か特性「みずのべール」「りんぷん」をもっている"
+      "text" : "Burning: Target already has a status effect or has the Ability Water Veil or Shield Dust"
     },
     {
       "id" : 61832,
-      "text" : "Blaze Kick: 対象が既に状態異常か特性「みずのべール」「りんぷん」をもっている"
+      "text" : "Blaze Kick: Target already has a status effect or has the Ability Water Veil or Shield Dust"
     },
     {
       "id" : 61833,
-      "text" : "Freezing: 対象が既に状態異常か対象が特性「マグマのよろい」「りんぷん」を持っている"
+      "text" : "Freezing: Target already has a status effect or has the Ability Magma Armor or Shield Dust"
     },
     {
       "id" : 61834,
-      "text" : "Paralysis: 対象が既に状態異常か対象が特性「じゅうなん」「りんぷん」を持っている"
+      "text" : "Paralysis: Target already has a status effect or has the Ability Limber or Shield Dust"
     },
     {
       "id" : 61835,
-      "text" : "Zap Cannon　対象が味方側より素早い"
+      "text" : "Zap Cannon: Target is faster than the Allied side"
     },
     {
       "id" : 61836,
-      "text" : "Zap Cannon　対象がLock-on状態"
+      "text" : "Zap Cannon: Target is Locked-on"
     },
     {
       "id" : 61837,
-      "text" : "Zap Cannon　対象が既に状態異常か対象が特性「じゅうなん」「りんぷん」を持っている"
+      "text" : "Zap Cannon: Target already has a status effect or has the Ability Limber or Shield Dust"
     },
     {
       "id" : 61838,
-      "text" : "Dynamic Punch　対象がLock-on状態"
+      "text" : "Dynamic Punch: Target is Locked-on"
     },
     {
       "id" : 61839,
-      "text" : "Dynamic Punch　追加効果で必ず対象を混乱させる"
+      "text" : "Dynamic Punch: Target will always be confused as an additional effect"
     },
     {
       "id" : 61840,
-      "text" : "Dynamic Punch　対象が既に混乱か対象が特性「マイペース」を持っている"
+      "text" : "Dynamic Punch: Target is already confused or has the ability Own Tempo"
     },
     {
       "id" : 61841,
-      "text" : "Sleep: 対象が既に状態異常か対象が特性「ふみん」「りんぷん」をもっている"
+      "text" : "Sleep: Target already has a status effect or has the Ability Insomnia or Shield Dust"
     },
     {
       "id" : 61842,
-      "text" : "反動系　自分が特性「なまけ」を持っている"
+      "text" : "Recoil: User has the Ability Truant"
     },
     {
       "id" : 61843,
-      "text" : "Poison Secondary Effect　Target is already statuses or has immunity or shield dust"
+      "text" : "Poison Secondary Effect: Target already has a status or has immunity or shield dust"
     },
     {
       "id" : 61844,
-      "text" : "Poison Fang Target is already statuses or has immunity or shield dust"
+      "text" : "Poison Fang: Target already has a status or has immunity or shield dust"
     },
     {
       "id" : 61845,
-      "text" : "Poison Fang　Target is already statuses or has immunity or shield dust"
+      "text" : "Poison Fang: Target already has a status or has immunity or shield dust"
     },
     {
       "id" : 61846,
-      "text" : "Tri-Attack　対象が既に状態異常"
+      "text" : "Tri-Attack: Target already has a status"
     },
     {
       "id" : 61847,
@@ -7359,23 +7359,23 @@
     },
     {
       "id" : 61851,
-      "text" : "特殊大技系　回復Itemを装備"
+      "text" : "Special Move: Equipped with recovery item"
     },
     {
       "id" : 61852,
-      "text" : "特殊大技系　味方が「Helping Hand」を選択した"
+      "text" : "Special Move: Ally chose Helping Hand"
     },
     {
       "id" : 61853,
-      "text" : "特殊大技系　使用後能力が下がる"
+      "text" : "Special Move: Stat decreases after use"
     },
     {
       "id" : 61854,
-      "text" : "Defense Boost Effect: 自分の防御がこれ以上上がらない"
+      "text" : "Defense Boost Effect: User's defence can't be raised further"
     },
     {
       "id" : 61855,
-      "text" : "Attack Boost Effect: 自分の攻撃がこれ以上上がらない"
+      "text" : "Attack Boost Effect: User's attack can't be raised further"
     },
     {
       "id" : 61856,
@@ -7383,15 +7383,15 @@
     },
     {
       "id" : 61857,
-      "text" : "Rain Dance　Ally side has castform"
+      "text" : "Rain Dance: Ally side has castform"
     },
     {
       "id" : 61858,
-      "text" : "Sunny Day　Ally side has grass, fire or chlorophyll mon"
+      "text" : "Sunny Day: Ally side has grass, fire or chlorophyll mon"
     },
     {
       "id" : 61859,
-      "text" : "Sunny Day　Ally side has Castform"
+      "text" : "Sunny Day: Ally side has Castform"
     },
     {
       "id" : 61860,
@@ -7419,91 +7419,91 @@
     },
     {
       "id" : 61866,
-      "text" : "Counter:　Enemy side has pokemon with atk > sp.atk"
+      "text" : "Counter: Enemy side has pokemon with atk > sp.atk"
     },
     {
       "id" : 61867,
-      "text" : "Mirror Coat:　Enemy side has pokemon with sp.atk > atk"
+      "text" : "Mirror Coat: Enemy side has pokemon with sp.atk > atk"
     },
     {
       "id" : 61868,
-      "text" : "みやぶる系　対象の回避が2ランク以上アップしている"
+      "text" : "Foresight: Target's evasion is raised by 2 or more stages"
     },
     {
       "id" : 61869,
-      "text" : "みやぶる系　対象がみやぶられ状態"
+      "text" : "Foresight: Target is under foresight"
     },
     {
       "id" : 61870,
-      "text" : "Endure: 自分のＨPが最大ＨPの５割以下"
+      "text" : "Endure: User's HP is less than 50% of max HP"
     },
     {
       "id" : 61871,
-      "text" : "Endure: 味方がじしん系か自爆系の技を持っている"
+      "text" : "Endure: Ally has Earthquate or Self Destruct"
     },
     {
       "id" : 61872,
-      "text" : "Endure: 味方がじしん系か自爆系を選択している"
+      "text" : "Endure: Ally chose Earthquate or Self Destruct"
     },
     {
       "id" : 61873,
-      "text" : "Endure: 既に「Endure」が成功している"
+      "text" : "Endure: Endure has already succeeded"
     },
     {
       "id" : 61874,
-      "text" : "Endure: 「Salac Berry」か「Liechi Berry」を持っていない"
+      "text" : "Endure: Doesn't have Salac Berry or Liechi Berry"
     },
     {
       "id" : 61875,
-      "text" : "Endure: 自分のＨPが1"
+      "text" : "Endure: User's HP is 1"
     },
     {
       "id" : 61876,
-      "text" : "Endure: 天候が「Hail」「砂嵐」である"
+      "text" : "Endure: Weather is Hail or Sandstorm"
     },
     {
       "id" : 61877,
-      "text" : "Curse: 使用者の属性が「Ghost」以外で能力カウント最大値でない"
+      "text" : "Curse: User's type is other than Ghost and Stat Count is not at max"
     },
     {
       "id" : 61878,
-      "text" : "Curse: 使用者の属性が「Ghost」で現在ＨPが半分削られる"
+      "text" : "Curse: User's type is Ghost and current HP is reduced by half"
     },
     {
       "id" : 61879,
-      "text" : "Curse: 使用者の属性が「Ghost」以外で能力カウントが最大値である"
+      "text" : "Curse: User's type is other than Ghost and Stat Count is at max"
     },
     {
       "id" : 61880,
-      "text" : "Lock on: 対象がLock-on状態"
+      "text" : "Lock on: Target is locked-on"
     },
     {
       "id" : 61881,
-      "text" : "Endeavor: 対象の残ＨPが自分の残ＨPの?倍"
+      "text" : "Endeavor: Target's remaining HP is ? time of user's remaining HP"
     },
     {
       "id" : 61882,
-      "text" : "Attack drop: 対象の能力値の攻撃が特攻より高い"
+      "text" : "Attack drop: Target's Atk is greater than Sp Atk"
     },
     {
       "id" : 61883,
-      "text" : "Defense drop: 対象の能力値の防御が特防より高い"
+      "text" : "Defense drop: Target's Def is greater than Sp Def"
     },
     {
       "id" : 61884,
-      "text" : "Sp.def drop: 対象の能力値の特防が防御より高い"
+      "text" : "Sp.def drop: Target's Sp Def is greater than Def"
     },
     {
       "id" : 61885,
-      "text" : "Evasion drop: 対象の回避率が1ランク以上上がっている"
+      "text" : "Evasion drop: Target's evasion is raised by 1 or more stages"
     },
     {
       "id" : 61886,
-      "text" : "Tickle: 対象の能力値の攻撃が特攻より高い"
+      "text" : "Tickle: Target's Atk is greater than Sp Atk"
     },
     {
       "id" : 61887,
-      "text" : "Tickle: 対象の能力値の防御が特防より高い"
+      "text" : "Tickle: Target's Def is greater than Sp Def"
     },
     {
       "id" : 61888,
@@ -7523,11 +7523,11 @@
     },
     {
       "id" : 61892,
-      "text" : "Snatch: 対象が最後に能力強化系の技を使用した"
+      "text" : "Snatch: Target last used a stat raising move"
     },
     {
       "id" : 61893,
-      "text" : "Snatch: 敵側に「Ninjask」「Scizor」「Gorebyss」がいる"
+      "text" : "Snatch: Opponent side has Ninjask, Scizor or Gorebyss"
     },
     {
       "id" : 61894,
@@ -7551,19 +7551,19 @@
     },
     {
       "id" : 61899,
-      "text" : "Helping Hand:　味方が威力技を選択しなかった"
+      "text" : "Helping Hand: Ally did not choose a damaging move"
     },
     {
       "id" : 61900,
-      "text" : "Helping Hand:　味方が反動で動けない"
+      "text" : "Helping Hand: Ally can't move due to recoil"
     },
     {
       "id" : 61901,
-      "text" : "Helping Hand:　味方が特性なまけで動けない"
+      "text" : "Helping Hand: Ally can't move due to Truant ability"
     },
     {
       "id" : 61902,
-      "text" : "Helping Hand: Ally sleep count >= 2"
+      "text" : "Helping Hand: Ally's sleep count >= 2"
     },
     {
       "id" : 61903,
@@ -7575,283 +7575,283 @@
     },
     {
       "id" : 61905,
-      "text" : "Uproar　味方の眠りカウントが2以上"
+      "text" : "Uproar: Ally's sleep count >= 2"
     },
     {
       "id" : 61906,
-      "text" : "Uproar　味方が「Sleep」を持っている"
+      "text" : "Uproar: Ally has Sleep"
     },
     {
       "id" : 61907,
-      "text" : "Uproar　対象の眠りカウントが2以上"
+      "text" : "Uproar: Target's sleep count >= 2"
     },
     {
       "id" : 61908,
-      "text" : "Substitute　自分のＨPゲージが8割以上"
+      "text" : "Substitute: User's HP gauge is 80% or more"
     },
     {
       "id" : 61909,
-      "text" : "Sleep: 使用者の眠りカウントが2以上"
+      "text" : "Sleep: User's sleep count >= 2"
     },
     {
       "id" : 61910,
-      "text" : "Sleep: 使用者の眠りカウントが1"
+      "text" : "Sleep: User's sleep count is 1"
     },
     {
       "id" : 61911,
-      "text" : "Charge　自分が「Charge」以外の電気技を持っている"
+      "text" : "Charge: User has an Electric move other than Charge"
     },
     {
       "id" : 61912,
-      "text" : "Charge　使用者が充電状態"
+      "text" : "Charge: User is under Charge"
     },
     {
       "id" : 61913,
-      "text" : "Stockpile　蓄え0"
+      "text" : "Stockpile: Store 0"
     },
     {
       "id" : 61914,
-      "text" : "Stockpile　蓄え1"
+      "text" : "Stockpile: Store 1"
     },
     {
       "id" : 61915,
-      "text" : "Stockpile　蓄え2"
+      "text" : "Stockpile: Store 2"
     },
     {
       "id" : 61916,
-      "text" : "Protect: 味方がじしん系か自爆系の技を持っている"
+      "text" : "Protect: Ally has Earthquake or Self Destruct"
     },
     {
       "id" : 61917,
-      "text" : "Protect: 味方がじしん系か自爆系を選択した"
+      "text" : "Protect: Ally chose Earthquake or Self Destruct"
     },
     {
       "id" : 61918,
-      "text" : "Protect: 自分の特性が「かそく」で最後に強化技を使用した"
+      "text" : "Protect: User has the Ability Speed Boost and last used a stat boosting move"
     },
     {
       "id" : 61919,
-      "text" : "Protect: 「Protect」か「みきり」が成功した"
+      "text" : "Protect: Protect or Detect successfully used"
     },
     {
       "id" : 61920,
-      "text" : "Protect: 自分の属性がGhostで味方が自爆系の技を持っている"
+      "text" : "Protect: User's Type is Ghost and Ally has self-destruct"
     },
     {
       "id" : 61921,
-      "text" : "Protect: 自分の属性がGhostで味方が自爆系の技を選択した"
+      "text" : "Protect: User's Type is Ghost and Ally chose self-destruct"
     },
     {
       "id" : 61922,
-      "text" : "Protect: 自分の属性が飛行か特性「ふゆう」「ふしぎなまもり」で味方がじしん系の技を持っている"
+      "text" : "Protect: User's Type is Flying or has Levitate or Wonder Guard and Ally has Earthquake"
     },
     {
       "id" : 61923,
-      "text" : "Protect: 自分の属性が飛行か特性が「ふゆう」「ふしぎなまもり」で味方がじしん系の技を選択した"
+      "text" : "Protect: User's Type is Flying or has Levitate or Wonder Guard and Ally chose Earthquake"
     },
     {
       "id" : 61924,
-      "text" : "Protect: 味方が「このゆびとまれ」を持っている"
+      "text" : "Protect: Ally has Follow Me"
     },
     {
       "id" : 61925,
-      "text" : "Skill Swap　自分が特性「なまけ」「へんしょく」を持っている"
+      "text" : "Skill Swap: User has Ability Truant or Color Change"
     },
     {
       "id" : 61926,
-      "text" : "Skill Swap　対象が特性「なまけ」「へんしょく」を持っている"
+      "text" : "Skill Swap: Target has Ability Truant or Color Change"
     },
     {
       "id" : 61927,
-      "text" : "Trick　自分が「こだわりハチマキ」「きょうせいギプス」を持っている"
+      "text" : "Trick: User has Choice Band or Macho Brace"
     },
     {
       "id" : 61928,
-      "text" : "Trick　対象の特性が「ねんちゃく」である"
+      "text" : "Trick: Target's Ability is Skicky Hold"
     },
     {
       "id" : 61929,
-      "text" : "Attack Boost: 能力カウント最大値に達していない"
+      "text" : "Attack Boost: Max Stat count has not been reached"
     },
     {
       "id" : 61930,
-      "text" : "Attack Boost: 味方が「このゆびとまれ」を持っている"
+      "text" : "Attack Boost: Ally has Follow Me"
     },
     {
       "id" : 61931,
-      "text" : "Attack Boost: 能力カウント最大値に達している"
+      "text" : "Attack Boost: Max Stat count has been reached"
     },
     {
       "id" : 61932,
-      "text" : "Attack Boost: 攻撃のランクが?段階上がっている"
+      "text" : "Attack Boost: Attack is raised by ? stages"
     },
     {
       "id" : 61933,
-      "text" : "Defense Boost: 能力カウント最大値に達していない"
+      "text" : "Defense Boost: Max Stat count has not been reached"
     },
     {
       "id" : 61934,
-      "text" : "Defense Boost: 味方が「このゆびとまれ」を持っている"
+      "text" : "Defense Boost: Ally has Follow Me"
     },
     {
       "id" : 61935,
-      "text" : "Defense Boost: 能力カウント最大値に達している"
+      "text" : "Defense Boost: Max Stat count has been reached"
     },
     {
       "id" : 61936,
-      "text" : "Defense Boost: 防御のランクが?段階上がっている"
+      "text" : "Defense Boost: Defense is raised by ? stages"
     },
     {
       "id" : 61937,
-      "text" : "Rapid Spin　能力カウント最大値に達していない"
+      "text" : "Rapid Spin: Max Stat count has not been reached"
     },
     {
       "id" : 61938,
-      "text" : "Rapid Spin　味方が「このゆびとまれ」を持っている"
+      "text" : "Rapid Spin: Ally has Follow Me"
     },
     {
       "id" : 61939,
-      "text" : "Rapid Spin　能力カウント最大値に達している"
+      "text" : "Rapid Spin: Max Stat count has been reached"
     },
     {
       "id" : 61940,
-      "text" : "Rapid Spin　素早さのランクが?段階上がっている"
+      "text" : "Rapid Spin: Speed is raised by ? stages"
     },
     {
       "id" : 61941,
-      "text" : "Sp.atk: 能力カウント最大値に達していない"
+      "text" : "Sp.atk: Max Stat count has not been reached"
     },
     {
       "id" : 61942,
-      "text" : "Sp.atk: 味方が「このゆびとまれ」を持っている"
+      "text" : "Sp.atk: Ally has Follow Me"
     },
     {
       "id" : 61943,
-      "text" : "Sp.atk: 能力カウント最大値に達している"
+      "text" : "Sp.atk: Max Stat count has been reached"
     },
     {
       "id" : 61944,
-      "text" : "Sp.atk: 特攻のランクが?段階上がっている"
+      "text" : "Sp.atk: Sp Atk is raised by ? stages"
     },
     {
       "id" : 61945,
-      "text" : "Amnesia　能力カウント最大値に達していない"
+      "text" : "Amnesia: Max Stat count has not been reached"
     },
     {
       "id" : 61946,
-      "text" : "Amnesia　味方が「このゆびとまれ」を持っている"
+      "text" : "Amnesia: Ally has Follow Me"
     },
     {
       "id" : 61947,
-      "text" : "Amnesia　能力カウント最大値に達している"
+      "text" : "Amnesia: Max Stat count has been reached"
     },
     {
       "id" : 61948,
-      "text" : "Amnesia　特防のランクが?段階上がっている"
+      "text" : "Amnesia: Sp Def is raised by ? stages"
     },
     {
       "id" : 61949,
-      "text" : "Evasion Boost: 能力カウント最大値に達していない"
+      "text" : "Evasion Boost: Max Stat count has not been reached"
     },
     {
       "id" : 61950,
-      "text" : "Evasion Boost: 味方が「このゆびとまれ」を持っている"
+      "text" : "Evasion Boost: Ally has Follow Me"
     },
     {
       "id" : 61951,
-      "text" : "Evasion Boost: 能力カウント最大値に達している"
+      "text" : "Evasion Boost: Max Stat count has been reached"
     },
     {
       "id" : 61952,
-      "text" : "Evasion Boost: 回避率のランクが?段階上がっている"
+      "text" : "Evasion Boost: Evasion is raised by ? stages"
     },
     {
       "id" : 61953,
-      "text" : "Cosmic Power　能力カウント最大値に達していない"
+      "text" : "Cosmic Power: Max Stat count has not been reached"
     },
     {
       "id" : 61954,
-      "text" : "Cosmic Power　味方が「このゆびとまれ」を持っている"
+      "text" : "Cosmic Power: Ally has Follow Me"
     },
     {
       "id" : 61955,
-      "text" : "Cosmic Power　能力カウント最大値に達している"
+      "text" : "Cosmic Power: Max Stat count has been reached"
     },
     {
       "id" : 61956,
-      "text" : "Cosmic Power　特防のランクが?段階上がっている"
+      "text" : "Cosmic Power: Sp Def is raised by ? stages"
     },
     {
       "id" : 61957,
-      "text" : "Bulk Up　能力カウント最大値に達していない"
+      "text" : "Bulk Up: Max Stat count has not been reached"
     },
     {
       "id" : 61958,
-      "text" : "Bulk Up　味方が「このゆびとまれ」を持っている"
+      "text" : "Bulk Up: Ally has Follow Me"
     },
     {
       "id" : 61959,
-      "text" : "Bulk Up　能力カウント最大値に達している"
+      "text" : "Bulk Up: Max Stat count has been reached"
     },
     {
       "id" : 61960,
-      "text" : "Bulk Up　攻撃のランクが?段階上がっている"
+      "text" : "Bulk Up: Attack is raised by ? stages"
     },
     {
       "id" : 61961,
-      "text" : "Dragon Dance　能力カウント最大値に達していない"
+      "text" : "Dragon Dance: Max Stat count has not been reached"
     },
     {
       "id" : 61962,
-      "text" : "Dragon Dance　味方が「このゆびとまれ」を持っている"
+      "text" : "Dragon Dance: Ally has Follow Me"
     },
     {
       "id" : 61963,
-      "text" : "Dragon Dance　能力カウント最大値に達している"
+      "text" : "Dragon Dance: Max Stat count has been reached"
     },
     {
       "id" : 61964,
-      "text" : "Dragon Dance　素早さののランクが?段階上がっている"
+      "text" : "Dragon Dance: Speed is raised by ? stages"
     },
     {
       "id" : 61965,
-      "text" : "Calm Mind　能力カウント最大値に達していない"
+      "text" : "Calm Mind: Max Stat count has not been reached"
     },
     {
       "id" : 61966,
-      "text" : "Calm Mind　味方が「このゆびとまれ」を持っている"
+      "text" : "Calm Mind: Ally has Follow Me"
     },
     {
       "id" : 61967,
-      "text" : "Calm Mind　能力カウント最大値に達している"
+      "text" : "Calm Mind: Max Stat count has been reached"
     },
     {
       "id" : 61968,
-      "text" : "Calm Mind　特防のランクが?段階上がっている"
+      "text" : "Calm Mind: Sp Def is raised by ? stages"
     },
     {
       "id" : 61969,
-      "text" : "Defense Curl　能力カウント最大値に達していない"
+      "text" : "Defense Curl: Max Stat count has not been reached"
     },
     {
       "id" : 61970,
-      "text" : "Defense Curl　「ころがる」か「アイスボール」を持っている"
+      "text" : "Defense Curl: Has Rollout or Ice Ball"
     },
     {
       "id" : 61971,
-      "text" : "Defense Curl　能力カウント最大値に達している"
+      "text" : "Defense Curl: Max Stat count has been reached"
     },
     {
       "id" : 61972,
-      "text" : "Defense Curl　防御のランクが?段階上がっている"
+      "text" : "Defense Curl: Defense is raised by ? stages"
     },
     {
       "id" : 61973,
-      "text" : "Belly Drum　能力カウント最大値に達していない"
+      "text" : "Belly Drum: Max Stat count has not been reached"
     },
     {
       "id" : 61974,
-      "text" : "Belly Drum　味方が「このゆびとまれ」を持っている"
+      "text" : "Belly Drum: Ally has Follow Me"
     },
     {
       "id" : 61975,
@@ -7859,19 +7859,19 @@
     },
     {
       "id" : 61976,
-      "text" : "Belly Drum　自分の現在ＨPが最大の半分以下"
+      "text" : "Belly Drum: User's current HP is 50% or less of Max HP"
     },
     {
       "id" : 61977,
-      "text" : "Baton Pass　能力カウント最大値に達している"
+      "text" : "Baton Pass: Max Stat count has been reached"
     },
     {
       "id" : 61978,
-      "text" : "Poison: 対象の場に「Wobbuffet」「Wynaut」「Shedinja」「Shuckle」がいる"
+      "text" : "Poison: Opponent's field has Wobbuffet, Wynaut, Shedinja or Shuckle"
     },
     {
       "id" : 61979,
-      "text" : "Poison: 対象が最後に使用した技が「Refresh」"
+      "text" : "Poison: Target's last used move was Refresh"
     },
     {
       "id" : 61980,
@@ -7915,15 +7915,15 @@
     },
     {
       "id" : 61990,
-      "text" : "Brick break: Ally used helping hand"
+      "text" : "Brick break: Ally chose Helping Hand"
     },
     {
       "id" : 61991,
-      "text" : "最終評価値補正値"
+      "text" : "Last Evaluation value Correction value"
     },
     {
       "id" : 61992,
-      "text" : "Attack drop: 対象のポケモンが特性「クリアボディ」「りんぷん」「しろいけむり」「かいりきばさみ」を持っている"
+      "text" : "Attack drop: Target Pokémon's Ability is Clear Body, Shield Dust, White Smoke or Hyper Cutter"
     },
     {
       "id" : 61993,
@@ -7931,7 +7931,7 @@
     },
     {
       "id" : 61994,
-      "text" : "DNAキーテスト"
+      "text" : "DNA Key Test"
     },
     {
       "id" : 61995,
@@ -7939,31 +7939,31 @@
     },
     {
       "id" : 61996,
-      "text" : "起動ディスク（デフォルト）"
+      "text" : "Startup Disk (Default)"
     },
     {
       "id" : 61997,
-      "text" : "起動ディスク（前）"
+      "text" : "Startup Disk (front)"
     },
     {
       "id" : 61998,
-      "text" : "起動ディスク（右）"
+      "text" : "Startup Disk (right)"
     },
     {
       "id" : 61999,
-      "text" : "起動ディスク（左）"
+      "text" : "Startup Disk (left)"
     },
     {
       "id" : 62000,
-      "text" : "起動ディスク（上）"
+      "text" : "Startup Disk (up)"
     },
     {
       "id" : 62001,
-      "text" : "起動ディスク（下）"
+      "text" : "Startup Disk (down)"
     },
     {
       "id" : 62002,
-      "text" : "AIばらつきフラグ"
+      "text" : "AI variation flag"
     },
     {
       "id" : 62003,
@@ -7971,11 +7971,11 @@
     },
     {
       "id" : 62004,
-      "text" : "AGBの接続をスキップする"
+      "text" : "Skip AGB Connection"
     },
     {
       "id" : 62005,
-      "text" : "AGBの接続をスキップしない"
+      "text" : "Don't skip AGB Connection"
     },
     {
       "id" : 62006,
@@ -8011,7 +8011,7 @@
     },
     {
       "id" : 62014,
-      "text" : "エース・ボス以外で自分以外にエース・ボスが生存しているので選ばない"
+      "text" : "Don't Choose because there are Ace Bosses alive other than User and Ace Boss"
     },
     {
       "id" : 62015,
@@ -8023,7 +8023,7 @@
     },
     {
       "id" : 62017,
-      "text" : "ベルデ1b"
+      "text" : "Verde 1b"
     },
     {
       "id" : 62018,
@@ -8039,27 +8039,27 @@
     },
     {
       "id" : 62021,
-      "text" : "Reath1b"
+      "text" : "Reath 1b"
     },
     {
       "id" : 62022,
-      "text" : "Ferma1b"
+      "text" : "Ferma 1b"
     },
     {
       "id" : 62023,
-      "text" : "タンカ1b"
+      "text" : "Doken 1b"
     },
     {
       "id" : 62024,
-      "text" : "リード1b"
+      "text" : "Twan 1b"
     },
     {
       "id" : 62025,
-      "text" : "トレモ1b"
+      "text" : "Zalo 1b"
     },
     {
       "id" : 62026,
-      "text" : "ナチュラ1b"
+      "text" : "Sosh 1b"
     },
     {
       "id" : 62027,
@@ -8071,23 +8071,23 @@
     },
     {
       "id" : 62029,
-      "text" : "Dakim1b"
+      "text" : "Dakim 1b"
     },
     {
       "id" : 62030,
-      "text" : "Venus1b"
+      "text" : "Venus 1b"
     },
     {
       "id" : 62031,
-      "text" : "ヘシティ1b"
+      "text" : "Frena 1b"
     },
     {
       "id" : 62032,
-      "text" : "シャイナ1b"
+      "text" : "Liaks 1b"
     },
     {
       "id" : 62033,
-      "text" : "ウィス1b"
+      "text" : "Lonia 1b"
     },
     {
       "id" : 62034,
@@ -8283,35 +8283,35 @@
     },
     {
       "id" : 62082,
-      "text" : "ヒヅキルックA"
+      "text" : "Rui Look A"
     },
     {
       "id" : 62083,
-      "text" : "ヒヅキルックB"
+      "text" : "Rui Look B"
     },
     {
       "id" : 62084,
-      "text" : "ヒヅキルックC"
+      "text" : "Rui Look C"
     },
     {
       "id" : 62085,
-      "text" : "ヒヅキルックD"
+      "text" : "Rui Look D"
     },
     {
       "id" : 62086,
-      "text" : "ヒヅキルックE"
+      "text" : "Rui Look E"
     },
     {
       "id" : 62087,
-      "text" : "ヒヅキルックF"
+      "text" : "Rui Look F"
     },
     {
       "id" : 62088,
-      "text" : "ねむりループ"
+      "text" : "Sleep loop"
     },
     {
       "id" : 62089,
-      "text" : "こおりループ"
+      "text" : "Ice loop"
     },
     {
       "id" : 62090,
@@ -8331,7 +8331,7 @@
     },
     {
       "id" : 62094,
-      "text" : "ポワルン変身スタート"
+      "text" : "Castform Transformation Start"
     },
     {
       "id" : 62095,
@@ -8351,7 +8351,7 @@
     },
     {
       "id" : 62099,
-      "text" : "きあいのハチマキ"
+      "text" : "Focus Band"
     },
     {
       "id" : 62100,
@@ -8519,7 +8519,7 @@
     },
     {
       "id" : 62141,
-      "text" : "カードＥバーチャルパネルをサンプルで埋める"
+      "text" : "Fill in e-Reader Card Virtual Panel with Samples"
     },
     {
       "id" : 62142,
@@ -8535,11 +8535,11 @@
     },
     {
       "id" : 62145,
-      "text" : "ノーエフェクトアタック"
+      "text" : "No Effect Attack"
     },
     {
       "id" : 62146,
-      "text" : "ノーエフェクトきめ"
+      "text" : "No Effect Rule"
     },
     {
       "id" : 62147,
@@ -8547,31 +8547,31 @@
     },
     {
       "id" : 62148,
-      "text" : "GBA2のクーポンを増やす"
+      "text" : "Add GBA2 Coupon"
     },
     {
       "id" : 62149,
-      "text" : "GBA2のクリアフラグをたてる"
+      "text" : "Make GBA2 Clear Flag"
     },
     {
       "id" : 62150,
-      "text" : "GBA2のクリアフラグをおろす"
+      "text" : "Remove GBA2 Clear Flag"
     },
     {
       "id" : 62151,
-      "text" : "GBA2のフラグ(クーポン金銀動、クリア、セレビィ)を下ろす"
+      "text" : "Remove GBA2 Flag (Coupon金銀動, Clear, Celebi)"
     },
     {
       "id" : 62152,
-      "text" : "GBA2のクーポンをリセット"
+      "text" : "Reset GBA2 Coupon"
     },
     {
       "id" : 62153,
-      "text" : "ダークポケモンルック"
+      "text" : "Shadow Pokémon Look"
     },
     {
       "id" : 62154,
-      "text" : "シャドウ外枠表示 ON\/OFF"
+      "text" : "Shadow Border Display ON\/OFF"
     },
     {
       "id" : 62155,
@@ -8759,27 +8759,27 @@
     },
     {
       "id" : 62201,
-      "text" : "8-people Single S4　Baton Pass用Ninjask"
+      "text" : "8-people Single S4 Baton Pass Ninjask"
     },
     {
       "id" : 62202,
-      "text" : "8-people Single S4　Baton Pass用Gorebyss"
+      "text" : "8-people Single S4 Baton Pass Gorebyss"
     },
     {
       "id" : 62203,
-      "text" : "8-people Double U5　Attacker"
+      "text" : "8-people Double U5 Attacker"
     },
     {
       "id" : 62204,
-      "text" : "8-people Double U5　Help Hariyama"
+      "text" : "8-people Double U5 Help Hariyama"
     },
     {
       "id" : 62205,
-      "text" : "8-people Double U5　Strengthen & Battle Gyarados"
+      "text" : "8-people Double U5 Strengthen & Battle Gyarados"
     },
     {
       "id" : 62206,
-      "text" : "8-people Double U5　Rain Dance ＆ Battle Kingdra"
+      "text" : "8-people Double U5 Rain Dance ＆ Battle Kingdra"
     },
     {
       "id" : 62207,
@@ -8795,35 +8795,35 @@
     },
     {
       "id" : 62210,
-      "text" : "ツールBattle登録トレーナー"
+      "text" : "Tool Battle Registration Trainer"
     },
     {
       "id" : 62211,
-      "text" : "起きる"
+      "text" : "Wake up"
     },
     {
       "id" : 62212,
-      "text" : "Battle山のプレゼントルーム"
+      "text" : "Mt. Battle Gift Room"
     },
     {
       "id" : 62213,
-      "text" : "手持ちにゲット"
+      "text" : "Held on hand"
     },
     {
       "id" : 62214,
-      "text" : "PCにゲット"
+      "text" : "Held in PC"
     },
     {
       "id" : 62215,
-      "text" : "ゲット失敗"
+      "text" : "Failed to Get"
     },
     {
       "id" : 62216,
-      "text" : "8-people Single S1　Umbreon"
+      "text" : "8-people Single S1 Umbreon"
     },
     {
       "id" : 62217,
-      "text" : "8-people Single S1　Jumpluff"
+      "text" : "8-people Single S1 Jumpluff"
     },
     {
       "id" : 62218,
@@ -8831,15 +8831,15 @@
     },
     {
       "id" : 62219,
-      "text" : "8-people Single A2　Single Strike"
+      "text" : "8-people Single A2 Single Strike"
     },
     {
       "id" : 62220,
-      "text" : "8-people Single S1　Meganium"
+      "text" : "8-people Single S1 Meganium"
     },
     {
       "id" : 62221,
-      "text" : "8-people Single S1　Milotic"
+      "text" : "8-people Single S1 Milotic"
     },
     {
       "id" : 62222,
@@ -8859,11 +8859,11 @@
     },
     {
       "id" : 62226,
-      "text" : "GSmem内部構造を確認"
+      "text" : "Confirm Inner Structure of GSmem"
     },
     {
       "id" : 62227,
-      "text" : "GSmemのメモリマップを表示"
+      "text" : "Display Memory Map of GSmem"
     },
     {
       "id" : 62228,
@@ -8871,11 +8871,11 @@
     },
     {
       "id" : 62229,
-      "text" : "無効なポリゴンをGXに送る"
+      "text" : "Send Invalid Porygon to GX"
     },
     {
       "id" : 62230,
-      "text" : "PAL50\/60"
+      "text" : "PAL50\/60 Setting"
     },
     {
       "id" : 62231,
