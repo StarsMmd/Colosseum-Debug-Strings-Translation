@@ -6247,19 +6247,19 @@
     },
     {
       "id" : 61573,
-      "text" : "自己解凍炎系　user is frozen"
+      "text" : "Burning: user is frozen"
     },
     {
       "id" : 61574,
-      "text" : "自己解凍炎系　Target has a ?% Probability of being burned"
+      "text" : "Burning: Target has a ?% Probability of being burned"
     },
     {
       "id" : 61575,
-      "text" : "自己解凍炎系　Ally chose Helping Hand"
+      "text" : "Burning: Ally chose Helping Hand"
     },
     {
       "id" : 61576,
-      "text" : "自己解凍炎系　Target is frozen"
+      "text" : "Burning: Target is frozen"
     },
     {
       "id" : 61577,
@@ -6298,7 +6298,7 @@
       "text" : "Paralysis: Ally chose Helping Hand"
     },
     {
-      "id" : 6158s
+      "id" : 61586,
       "text" : "Sleep: Target has a ?% Probability of falling asleep"
     },
     {
@@ -6671,7 +6671,7 @@
     },
     {
       "id" : 61679,
-      "text" : "Super Fang:: Target's HP meter is above 50%"
+      "text" : "Super Fang: Target's HP meter is above 50%"
     },
     {
       "id" : 61680,
@@ -6719,39 +6719,39 @@
     },
     {
       "id" : 61691,
-      "text" : "交代禁止系　Target is poisoned"
+      "text" : "交代禁止系: Target is poisoned"
     },
     {
       "id" : 61692,
-      "text" : "交代禁止系　Target is Badly Poisoned"
+      "text" : "交代禁止系: Target is Badly Poisoned"
     },
     {
       "id" : 61693,
-      "text" : "交代禁止系　target is burned"
+      "text" : "交代禁止系: target is burned"
     },
     {
       "id" : 61694,
-      "text" : "交代禁止系　target is paralyzed"
+      "text" : "交代禁止系: target is paralyzed"
     },
     {
       "id" : 61695,
-      "text" : "交代禁止系　target is confused"
+      "text" : "交代禁止系: target is confused"
     },
     {
       "id" : 61696,
-      "text" : "交代禁止系　target is infatuated"
+      "text" : "交代禁止系: target is infatuated"
     },
     {
       "id" : 61697,
-      "text" : "交代禁止系　target is cursed"
+      "text" : "交代禁止系: target is cursed"
     },
     {
       "id" : 61698,
-      "text" : "交代禁止系　target is under perish song"
+      "text" : "交代禁止系: target is under perish song"
     },
     {
       "id" : 61699,
-      "text" : "交代禁止系　target is seeded"
+      "text" : "交代禁止系: target is seeded"
     },
     {
       "id" : 61700,
@@ -6763,7 +6763,7 @@
     },
     {
       "id" : 61702,
-      "text" : "強化阻止系　Target last used a stat enhancing move"
+      "text" : "強化阻止系: Target last used a stat enhancing move"
     },
     {
       "id" : 61703,
@@ -7279,7 +7279,7 @@
     },
     {
       "id" : 61831,
-      "text" : "自己解凍炎系: Target already has a status effect or has the Ability Water Veil or Shield Dust"
+      "text" : "Burning: Target already has a status effect or has the Ability Water Veil or Shield Dust"
     },
     {
       "id" : 61832,
