@@ -6719,39 +6719,39 @@
     },
     {
       "id" : 61691,
-      "text" : "Trapping: Target is poisoned"
+      "text" : "Switch prevention: Target is poisoned"
     },
     {
       "id" : 61692,
-      "text" : "Trapping: Target is Badly Poisoned"
+      "text" : "Switch prevention: Target is Badly Poisoned"
     },
     {
       "id" : 61693,
-      "text" : "Trapping: target is burned"
+      "text" : "Switch prevention: target is burned"
     },
     {
       "id" : 61694,
-      "text" : "Trapping: target is paralyzed"
+      "text" : "Switch prevention: target is paralyzed"
     },
     {
       "id" : 61695,
-      "text" : "Trapping: target is confused"
+      "text" : "Switch prevention: target is confused"
     },
     {
       "id" : 61696,
-      "text" : "Trapping: target is infatuated"
+      "text" : "Switch prevention: target is infatuated"
     },
     {
       "id" : 61697,
-      "text" : "Trapping: target is cursed"
+      "text" : "Switch prevention: target is cursed"
     },
     {
       "id" : 61698,
-      "text" : "Trapping: target is under perish song"
+      "text" : "Switch prevention: target is under perish song"
     },
     {
       "id" : 61699,
-      "text" : "Trapping: target is seeded"
+      "text" : "Switch prevention: target is seeded"
     },
     {
       "id" : 61700,
