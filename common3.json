@@ -3627,7 +3627,7 @@
     },
     {
       "id" : 60908,
-      "text" : "サップ"
+      "text" : "Riden"
     },
     {
       "id" : 60909,
@@ -5639,35 +5639,35 @@
     },
     {
       "id" : 61421,
-      "text" : "マボロシ1"
+      "text" : "Myth 1"
     },
     {
       "id" : 61422,
-      "text" : "マボロシ2"
+      "text" : "Myth 2"
     },
     {
       "id" : 61423,
-      "text" : "マボロシ3"
+      "text" : "Myth 3"
     },
     {
       "id" : 61424,
-      "text" : "マボロシ4"
+      "text" : "Myth 4"
     },
     {
       "id" : 61425,
-      "text" : "マボロシ5"
+      "text" : "Myth 5"
     },
     {
       "id" : 61426,
-      "text" : "マボロシ6"
+      "text" : "Myth 6"
     },
     {
       "id" : 61427,
-      "text" : "マボロシ7"
+      "text" : "Myth 7"
     },
     {
       "id" : 61428,
-      "text" : "マボロシ8"
+      "text" : "Myth 8"
     },
     {
       "id" : 61429,
@@ -6191,15 +6191,15 @@
     },
     {
       "id" : 61559,
-      "text" : "Sacred Fire?: Target has ?% Probability of being burned"
+      "text" : "Sacred Fire: Target has ?% Probability of being burned"
     },
     {
       "id" : 61560,
-      "text" : "Sacred Fire?: Ally chose Helping Hand"
+      "text" : "Sacred Fire: Ally chose Helping Hand"
     },
     {
       "id" : 61561,
-      "text" : "Sacred Fire?: User is frozen"
+      "text" : "Sacred Fire: User is frozen"
     },
     {
       "id" : 61562,
@@ -6719,39 +6719,39 @@
     },
     {
       "id" : 61691,
-      "text" : "交代禁止系: Target is poisoned"
+      "text" : "Trapping: Target is poisoned"
     },
     {
       "id" : 61692,
-      "text" : "交代禁止系: Target is Badly Poisoned"
+      "text" : "Trapping: Target is Badly Poisoned"
     },
     {
       "id" : 61693,
-      "text" : "交代禁止系: target is burned"
+      "text" : "Trapping: target is burned"
     },
     {
       "id" : 61694,
-      "text" : "交代禁止系: target is paralyzed"
+      "text" : "Trapping: target is paralyzed"
     },
     {
       "id" : 61695,
-      "text" : "交代禁止系: target is confused"
+      "text" : "Trapping: target is confused"
     },
     {
       "id" : 61696,
-      "text" : "交代禁止系: target is infatuated"
+      "text" : "Trapping: target is infatuated"
     },
     {
       "id" : 61697,
-      "text" : "交代禁止系: target is cursed"
+      "text" : "Trapping: target is cursed"
     },
     {
       "id" : 61698,
-      "text" : "交代禁止系: target is under perish song"
+      "text" : "Trapping: target is under perish song"
     },
     {
       "id" : 61699,
-      "text" : "交代禁止系: target is seeded"
+      "text" : "Trapping: target is seeded"
     },
     {
       "id" : 61700,
@@ -6763,7 +6763,7 @@
     },
     {
       "id" : 61702,
-      "text" : "強化阻止系: Target last used a stat enhancing move"
+      "text" : "Stat Boost Prevention: Target last used a stat enhancing move"
     },
     {
       "id" : 61703,
@@ -6987,7 +6987,7 @@
     },
     {
       "id" : 61758,
-      "text" : "ザコ Introduction"
+      "text" : "Grunt Introduction"
     },
     {
       "id" : 61759,
@@ -8223,35 +8223,35 @@
     },
     {
       "id" : 62067,
-      "text" : "ナーガ"
+      "text" : "Naga"
     },
     {
       "id" : 62068,
-      "text" : "カエデ"
+      "text" : "Kaede"
     },
     {
       "id" : 62069,
-      "text" : "サアヤ"
+      "text" : "Saya"
     },
     {
       "id" : 62070,
-      "text" : "シュウ"
+      "text" : "Shoo"
     },
     {
       "id" : 62071,
-      "text" : "ボンバー"
+      "text" : "Bomber"
     },
     {
       "id" : 62072,
-      "text" : "マーリ"
+      "text" : "Marley"
     },
     {
       "id" : 62073,
-      "text" : "オカムー"
+      "text" : "Okamoo"
     },
     {
       "id" : 62074,
-      "text" : "シュン"
+      "text" : "Shun"
     },
     {
       "id" : 62075,
@@ -8559,7 +8559,7 @@
     },
     {
       "id" : 62151,
-      "text" : "Remove GBA2 Flag (Coupon金銀動, Clear, Celebi)"
+      "text" : "Remove GBA2 Flag (Coupon Exchange, Clear, Celebi)"
     },
     {
       "id" : 62152,
@@ -8583,7 +8583,7 @@
     },
     {
       "id" : 62157,
-      "text" : "アベン"
+      "text" : "Ludum"
     },
     {
       "id" : 62158,
